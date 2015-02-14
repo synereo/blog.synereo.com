@@ -9,7 +9,7 @@ categories:
 ---
 A new decentralized, distributed social network is emerging, and naturally people are curious. Gideon Rosenblatt earns his keep as Synereo advisory board member by asking the right questions, like: Why Synereo instead of Facebook?
 
-![Synereo](/img/blog/synereo_ss1.jpg)
+![Synereo](/img/uploads/synereo_ss1.jpg)
 
 i provide an answer here in six basic points that cover architecture and information flow consequences for resiliency, autonomy, and privacy, as well as important aspects of the user experience, user compensation and the attention economy.
 

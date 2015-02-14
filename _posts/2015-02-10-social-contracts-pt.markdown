@@ -11,7 +11,7 @@ In a decentralized, distributed web nobody's in charge. Or rather, everybody's i
 
 **TL;DR: Relax, nobody's in charge.**
 
-![Magna Carta](/img/blog/MagnaCarta1.jpg)
+![Magna Carta](/img/uploads/MagnaCarta1.jpg)
 
 ## An introduction to protocols and social contracts
 

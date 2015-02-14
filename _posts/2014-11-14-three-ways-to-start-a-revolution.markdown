@@ -18,7 +18,7 @@ In this series of posts, we will discuss three core features we believe are cruc
 
 We are no longer bound by the requirement of having a single resource-rich entity that manages and controls the social network for us. We have the technology to run a distributed social network where users may contribute the storage, bandwidth and computational power needed to maintain it -- and be compensated for the task. Not having to turn to the lowest common denominator, communities may choose how to govern themselves and organize according to their principles and values.
 
-![Mainstream Social Network Users](/img/blog/mainstream.png)
+![Mainstream Social Network Users](/img/uploads/mainstream.png)
 
 Today's mainstream social networks are run as for-profit companies, with shareholders benefiting financially off the data and content generated as we live our digital lives. As users, we have no say in the way these networks are operated and precious little control of the data we make available. The most we can do is hope our privacy settings are configured properly, but even then, these settings do not apply for the administrators of the network.
 
@@ -36,6 +36,6 @@ People have long understood the need for decentralized networks. [Diaspora](http
 
 But we've been worried about security since the very early days of the internet, and privacy controls are a never-ending struggle with social networks. We're going to need more than just decentralization to spark a social network revolution. In the next installment of this series, we'll talk about the role of **compensation** in designing the next generation of social networks.
 
-![AMP](/img/blog/amp.png){: style="width: 200px; display: block; margin: 0 auto;"}
+![AMP](/img/uploads/amp.png){: style="width: 200px; display: block; margin: 0 auto;"}
 
 *We'll need people who want to build a better network, because these networks are our future. Come build the future with us. [Join the Evolution](http://www.synereo.com/).*

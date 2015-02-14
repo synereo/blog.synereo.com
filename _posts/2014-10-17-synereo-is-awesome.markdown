@@ -14,7 +14,7 @@ Synereo is the result of a single, simple thought: Human nature belongs to Human
 
 We are willing to accept that social media was in its infancy. It needed to grow and become mainstream before the full gamut and scale of its problems could be appreciated. We believe that now is time to lead our social networks to maturity; to find solutions that work for us.
 
-![Social Network Users](/img/blog/social-users.png)
+![Social Network Users](/img/uploads/social-users.png)
 
 What will our networks look like five, ten, or thirty years from now? Can we really accept a world where our moods are constantly [being manipulated by clever advertising algorithms](http://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds) for increased advertiser ROI or where our data is available to a [government agency of any country](http://thenextweb.com/insider/2014/02/03/facebook-linkedin-google-microsoft-reveal-data-showing-range-accounts-requested-nsa/) simply because local legislation allows it? If we are to change our trajectory and build a future that belongs to all of humanity, then we must find a better way.
 

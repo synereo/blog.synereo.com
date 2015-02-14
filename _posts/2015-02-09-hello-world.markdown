@@ -19,7 +19,7 @@ And of course, there's no Synereo network without **AMPs**, Synereo's informatio
 
 Now, these concepts are all well and good, but they mean nothing without a strong technical architecture supporting them. Synereo's core technology is the **DendroNet**: the framework that the technology and attention model are organized through.
 
-![Dendrite](/img/blog/dendrite.jpg)
+![Dendrite](/img/uploads/dendrite.jpg)
 
 *The **DEndron** is Synereo's local consensus-keeping mechanism, decentralized ledger, and distributed content model.* Every user on Synereo has their own fraction of it, their *Dendrite*, maintaining a view of the part of the network relevant to them. A user's Dendrite is constantly updated with information received from peers: social information from friends, changing the user's affinity to them based on the attention model; meta-data and keys to encrypted data hosted on the **SpecialK** distributed cloud; and information saved on their Dendrite itself, used in the consensus-keeping process.
 
@@ -27,7 +27,7 @@ The core of our stack is **SpecialK**, a distributed key-value store - not unlik
 
 Finally, while Synereo is a full-fledged decentralized network, we do understand that not everyone is able to deploy a personal Synereo node on their own computation device. We have taken this into consideration, and so, during our rollout phases, Synereo will provide **Centralized Gateways** that enable end users to use and enjoy the benefits of the network without the needing to actually run and maintain node, thus increasing the availability of the network to all crowds. Gateways don't control or have access to your information, and should they go down, the key they send you upon account creation can be used to boot up your node (with all of your information) immediately if you download a client and plug the key in.
 
-![Synereo Logo](/img/blog/squarepurelogo.png)
+![Synereo Logo](/img/uploads/squarepurelogo.png)
 
 Where do we go from here? First, stay tuned to this channel for our upcoming whitepaper release. In the mean time, if you're a hacker, you can take a look at [all our existing code over on Github](https://github.com/synereo/). We're still in the process of documenting it and making it more user/developer friendly, but feel free to hack on it if you think you have the necessary chops!
 

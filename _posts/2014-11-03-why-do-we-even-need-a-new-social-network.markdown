@@ -23,7 +23,7 @@ Freemium games have perfected the art of wasting the user's time by making dull,
 
 The animations, notifications and constantly-increasing numbers make you feel as if you've accomplished something, when in fact you've wasted your most precious assets: your time and attention. And the reason you were made to waste these is... monetization. Deepening someone else's pocket.
 
-![Optimized waste of time](/img/blog/unnamed.jpg)
+![Optimized waste of time](/img/uploads/unnamed.jpg)
 
 ### How do these meaningless games prevent us from getting bored and stopping, then?
 
