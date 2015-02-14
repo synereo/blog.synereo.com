@@ -4,8 +4,6 @@ status: publish
 published: true
 title: Synereo  Project Unveiled
 date: '2014-10-17 21:16:42 +0300'
-categories:
-- blog
 ---
 
 The [Synereo](http://www.synereo.com) project has been in the works for quite some time and we are proud to finally make our efforts public. Synereo represents a new collection of ideas and paradigms, and a very realistic set of changes that we would like to see in our world.

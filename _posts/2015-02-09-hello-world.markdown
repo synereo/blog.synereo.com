@@ -4,8 +4,6 @@ status: publish
 published: true
 title: Hello World!
 date: '2015-02-09 12:45:15 +0200'
-categories:
-- blog
 ---
 The Synereo tech team has been hard at work drafting out our final architecture and putting all the tiny little details in our soon-to-be-published whitepaper. We'd like to share some of this information with you and provide updates and teasers about our development plans.
 

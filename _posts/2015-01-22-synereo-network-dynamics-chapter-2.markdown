@@ -4,8 +4,6 @@ status: publish
 published: true
 title: Synereo Network Dynamics Chapter 2
 date: '2015-01-22 22:14:48 +0200'
-categories:
-- blog
 ---
 
 The Network Dynamics presentation was created to provide a glimpse into the functioning of the Synereo network and its attention model, governing how information flows through the wires. Slide by slide, the presentation walks through typical scenarios on the network, showcasing how it self-organizes based on the activity of users and on where they place their attention.

@@ -4,8 +4,6 @@ status: publish
 published: true
 title: On social contracts - Part I
 date: '2015-02-10 22:37:02 +0200'
-categories:
-- blog
 ---
 In a decentralized, distributed web nobody's in charge. Or rather, everybody's in charge of themselves. How do we get from that place of potential chaos to a self-organizing and civilized web? Person or program, what agents can insist on in a decent(ralized) and polite web is how they are to be engaged if someone wants or needs their engagement. In other words, just as in life, it's all about the protocol. Taking it up one level, it's the web of protocols that make up a more social and socially intelligent notion of contracts -- social contracts, for short -- that make Synereo a civil and self-organizing web, and place where people can engage safely and effectively. (This is part I of a two part blog post.)
 

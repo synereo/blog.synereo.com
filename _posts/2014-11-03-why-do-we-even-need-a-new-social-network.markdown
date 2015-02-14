@@ -4,9 +4,6 @@ status: publish
 published: true
 title: 'The Great Attention Heist, or: How Our Mind Was Hacked'
 date: '2014-11-03 15:21:33 +0200'
-categories:
-- blog
-tags: []
 ---
 
 Why do we need a new social network? Aren't our current networks just fine? People spend hours on Facebook! Surely they're that means they're doing something right.

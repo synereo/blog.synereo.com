@@ -4,8 +4,6 @@ status: publish
 published: true
 title: Why Synereo?
 date: '2015-02-07 00:50:52 +0200'
-categories:
-- blog
 ---
 A new decentralized, distributed social network is emerging, and naturally people are curious. Gideon Rosenblatt earns his keep as Synereo advisory board member by asking the right questions, like: Why Synereo instead of Facebook?
 

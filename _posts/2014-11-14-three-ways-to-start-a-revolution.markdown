@@ -4,8 +4,6 @@ status: publish
 published: true
 title: 'Three Ways to Start a Revolution, Part 1: Decentralization'
 date: '2014-11-14 00:33:22 +0200'
-categories:
-- blog
 ---
 
 How do you overthrow the king? Who do you put in his place?
