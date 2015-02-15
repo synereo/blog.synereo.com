@@ -243,3 +243,12 @@
         }
     }
 }
+
+.post-nav {
+    a.prev {
+        float: left;
+    }
+    a.next {
+        float: right;
+    }
+}
