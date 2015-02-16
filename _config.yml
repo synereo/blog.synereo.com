@@ -7,5 +7,7 @@ url: "http://blog.synereo.com"
 twitter_username: synereo
 github_username:  synereo
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
