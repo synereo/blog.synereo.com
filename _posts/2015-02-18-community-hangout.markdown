@@ -10,3 +10,5 @@ We’re hosting a community hangout today, February 18th, at 21:00 GMT. We're go
 Joining us are our advisory board member, Matt Black (Coldcut, Ninja Tune) and DJ Oil.
 
 We'll also discuss Synereo's collaborative filtering system as well as how Amplification will help content creators both by spreading their message and through compensating them for their contributions.
+
+<div style="clear: both"></div>
