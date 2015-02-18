@@ -11,6 +11,6 @@ Joining us are our advisory board member, Matt Black ([Coldcut](https://www.face
 
 We'll also discuss Synereo's collaborative filtering system as well as how Amplification will help content creators both by spreading their message and through compensating them for their contributions.
 
-Join us on: [Google Hangouts on Air](https://plus.google.com/u/0/b/109002904706315055045/events/cc7jk1s5mpp4epdcvcresucu0gs), this evening at 21:00 GMT.
+Join us on: [Google Hangouts on Air](https://plus.google.com/u/0/b/109002904706315055045/events/cqpq67hhhaqkd1kr9cnoul8h3v8), this evening at 21:00 GMT.
 
 <div style="clear: both"></div>
