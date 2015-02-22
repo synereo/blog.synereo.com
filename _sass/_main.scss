@@ -1,0 +1,61 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic);
+
+body {
+    font-family: "PT Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+    nav.topbar {
+        background-color: rgba(0, 0, 0, 0.9);
+        padding-left: 15px;
+        padding-right: 20px;
+        &.fixed {
+            position: fixed;
+            z-index: 1000;
+            width: 100%;
+        }
+        span {
+            float: left;
+            img {
+                padding: 9px 0px 5px 6px;
+            }
+        }
+        ul {
+            float: right;
+            padding-top: 17px;
+            li {
+                padding-left: 19px;
+                a {
+                    text-transform: uppercase;
+                    color: #fff;
+                }
+                a:hover {
+                    color: $synereo-blue;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+
+    h2 a {
+        color: $synereo-blue;
+    }
+
+    div.posts {
+        div.post {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+            .post-meta {
+                text-align: center;
+                .day {
+                    display: block;
+                    font-size: 3em;
+                    color: $synereo-blue;
+                    font-weight: bold;
+                }
+                .month-year {
+
+                }
+            }
+        }
+    }
+}
