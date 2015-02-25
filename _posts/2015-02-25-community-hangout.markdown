@@ -5,7 +5,7 @@ date: '2015-02-25 14:00:00 +0200'
 ---
 We’re hosting a community hangout tomorrow, February 25th, at 21:00 GMT. We’re going to talk about music sharing and social networking on Synereo, where artists collaborate with fans to create the venue.
 
-![Party Music Hangout](/img/uploads/party-music-hangout-2c.jpg){: style="float: left; height: 450px; margin-right: 15px;"}
+![Party Music Hangout](/img/uploads/party-music-hangout-2c.jpg){: style="float: left; height: 250px; margin-right: 15px;"}
  
 Joining us are Bert Lams and Paul Richards of the [California Guitar Trio](http://www.cgtrio.com/) and [Tony Levin](http://www.papabear.com/) (Peter Gabriel, King Crimson).
 
