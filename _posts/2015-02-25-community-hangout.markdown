@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Hangout – Music sharing and social networks
-date: '2015-02-18 14:00:00 +0200'
+date: '2015-02-25 14:00:00 +0200'
 ---
 We’re hosting a community hangout tomorrow, February 25th, at 21:00 GMT. We’re going to talk about music sharing and social networking on Synereo, where artists collaborate with fans to create the venue.
 
