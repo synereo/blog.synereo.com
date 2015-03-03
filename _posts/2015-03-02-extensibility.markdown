@@ -5,15 +5,18 @@ published: true
 title: Extensibility in Synereo
 date: '2015-03-02 12:58:02 -0800'
 ---
-Synereo addresses the needs of multiple communities. In the last couple of posts and community hangouts we talked about serving the needs of performing artists and other members of the creative classes. In this post, we’ll talk about addressing the needs of another creative community: developers! Developers are the lifeblood of the Internet. They make bits sing and dance. Naturally, we want to make it possible for them to work their magic with Synereo. So, this post is all about extensibility, and how developers can shape, mold, and extend Synereo to build apps that we, the founders, didn’t even think about. 
 
-The entire class of social services we all use today are dubbed *networks,* though they are little more than behemoth *applications*. Sure, they give you APIs to build your app on - to their immediate monetary benefit, of course - but the *networks* themselves are walled gardens which you are not allowed to play in. In that regard, Synereo *truly is* a social **network**. This post will show you why. 
+Synereo addresses the needs of multiple communities. In the last couple of posts and community hangouts we talked about serving the needs of performing artists and other members of the creative classes. In this post, we’ll talk about addressing the needs of another creative community: developers! Developers are the lifeblood of the Internet. They make bits sing and dance. Naturally, we want to make it possible for them to work their magic with Synereo. So, this post is all about extensibility, and how developers can shape, mold, and extend Synereo to build apps that we, the founders, didn’t even think about.
 
-In our previous post,[ we introduced some of the key concepts Synereo is built on](http://blog.synereo.com/2015/02/09/hello-world/). Today, we'd like to broaden the discussion on an issue that is very important for the future growth of the network: extensibility. Synereo is built from the ground up to not only deliver a complete user experience, but not less importantly, to enable an entire ecosystem around the attention economy model we have implemented. 
+![image alt text](/img/uploads/rosie-coder.png){: style="float: left; margin-right: 15px;"}
+
+The entire class of social services we all use today are dubbed *networks,* though they are little more than behemoth *applications*. Sure, they give you APIs to build your app on - to their immediate monetary benefit, of course - but the *networks* themselves are walled gardens which you are not allowed to play in. In that regard, Synereo *truly is* a social **network**. This post will show you why.
+
+In our previous post, [we introduced some of the key concepts Synereo is built on](http://blog.synereo.com/2015/02/09/hello-world/). Today, we'd like to broaden the discussion on an issue that is very important for the future growth of the network: extensibility. Synereo is built from the ground up to not only deliver a complete user experience, but not less importantly, to enable an entire ecosystem around the attention economy model we have implemented. 
 
 First, lets recap what the Synereo tech stack looks like:
 
-![image alt text](/img/uploads/synereo-stack.png)
+![Synereo stack](/img/uploads/synereo-stack.png)
 
 For the sake of this discussion, we'll ignore the two bottom layers (they’re both interesting, and will receive the proper treatment in future posts) and start the discussion from the actual deliverables. On the top layer, we have Synereo, the social network *par excellence*. When most users think of Synereo, they think of the actual application, where they can write posts, listen to their favorite artists’ latest hits, and catch up with their friends' photos from their vacation in Costa Rica. Further down the stack, we have the **Synereo attention economy model API** and the **Synereo network model API**. These not only provide the core functionality for the network, but are also the main entry points for external applications interfacing with the Synereo network.
 
@@ -32,6 +35,13 @@ Synereo's Attention Economy Model provides APIs that are on a slightly lower-lev
 Want an app that organizes a call for help and takes up a collection for a friend in need, or disaster relief? That’s where these APIs come into play. Want an app that gets the word out and sells tickets for an online benefit concert? Reo is the way to measure community standing and community response. AMPs are the driving force to get content front and center for those who need to see it, while compensating them for their attention. The Attention Economy Model API makes these and other elements programmatically available.
 
 ## Technology bindings
+
+![image alt text](/img/uploads/synereo-logo1.png){: style="width: 80px;"}
+![image alt text](/img/uploads/scala-logo.png){: style="width: 80px;"}
+![image alt text](/img/uploads/java-logo.png){: style="width: 80px;"}
+![image alt text](/img/uploads/restful-area.png){: style="width: 80px;"}
+![image alt text](/img/uploads/rabbitmq-logo.png){: style="width: 80px;"}
+![image alt text](/img/uploads/nodejs-logo.png){: style="width: 80px;"}
 
 Each of these APIs is accessible through a number of options. There are language level bindings for a wide range of popular languages, from Java to Scala, from JRuby to Clojure. Additionally, there are several interprocess communication options, from normal web-based routes, like HTTP, to messaging routes like AMQP providers (e.g. RabbitMQ), and other popular options like ZeroMQ. Similarly, there are bulk data import options for integrating services with high data volume or throughput needs. We’ve even begun work on a node.js bridge. No one should feel uninvited to the party.
 
