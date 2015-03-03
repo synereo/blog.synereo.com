@@ -8,6 +8,8 @@ twitter_username: synereo
 github_username:  synereo
 
 permalink: pretty
+paginate: 5
+paginate_path: "/page:num/"
 
 # Build settings
 markdown: kramdown

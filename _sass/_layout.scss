@@ -251,4 +251,5 @@
     a.next {
         float: right;
     }
+    @extend %clearfix;
 }
