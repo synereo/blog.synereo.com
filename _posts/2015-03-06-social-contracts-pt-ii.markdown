@@ -9,7 +9,8 @@ In a decentralized, distributed web nobody's in charge. Or rather, everybody's i
 
 **TL;DR: Relax, nobody's in charge.**
 
-**Warning: for people who are used to "smart contracts" this idea may take some getting used to. Patience. There's a method to our madness.**
+      Warning: for people who are used to "smart contracts" this idea
+      may take some getting used to. Patience. There's a method to our madness.
 
 ### Examining a social contract in more detail
 
@@ -81,144 +82,16 @@ Synereo attracts such amazingly insightful people i'm guessing that you, Dear Re
 
 ### Specifying the core language for social contracts
 
-##### Syntax
-
-`` agent **::=** {}							// the empty contract ``
-
-``     **|** for( v <- channel?( cnxn )( pattern ) ) { agent }		// wait on channel for messages ``
-
-``                                                                      //	matching pattern then ``
-
-``                                                                      //	become agent ``
-
-``     **|** channel!( cnxn ) ( message )				// send message on channel ``
-
-``     **|** agent | agent					        // parallel composition of agents ``
-
-``     **|** new channel { agent }			                // create a fresh channel for use in agent ``
-
-``     **|** ( def X( channel ) = agent )( channel )	                // recursive definition and initial ``
-
-``                                                                      // 	invocation ``
-
-``     **|** X( channel )						// invocation of recursively defined ``
-
-``                                                                      //	agent ``
-
-`` channel **::=** a, b, c, … 					        // entry point to a connected ``
-
-``                                                                      //	network of Synereo nodes ``
-
-`` cnxn **::=** A, B, C, …						// link between a pair of agents ``
-
-`` pattern **::=** value | variable | functor( pattern* )		// patterns are basically prolog ``
-
-``                                                                      //	terms ``
-
-`` value **::=** boolean | int | float | string | ... ``
-
-`` variable **::=** X, Y, Z, ... ``
-
-`` functor **::=** x, y, z, ... ``
-
-##### Structural equivalence
-
-A | B ≡ B | A
-
-A | {} ≡ A
-
-new c { new c { A } } ≡ new c { A }
-
-new c { new d { A } } ≡ new d { new c { A } }
-
-new c { A } | B ≡ new c { A | B }			// provided c doesn't occur free in B
-
-##### Operational semantics
-
-If unifies( pattern, message, subst ) then 
-
-for( v <- c?( pattern ) ) { A } | c!( message ) -> subst( A )
-
-If A -> A' then A | B -> A' | B
-
-If A -> A' then new c { A }  -> new c { A' } 
-
-If A ≡ A', A' -> B', B' ≡ B then A -> B
+![image alt text](/img/uploads/social-contracts-language.jpg){: style="display: block; margin: 0 auto; " }
 
 **Specifying the core language for social graces**
 
-formula ::= formula | formula 
-
-        | formula || formula 
-
-        | formula => formula 
-
-        | formula <=> formula 
-
-        | formula and formula 
-
-        | formula or formula 
-
-        | ( formula ) 
-
-        | not formula 
-
-        | void 
-
-        | true 
-
-        | false 
-
-        | pattern == pattern
-
-        | pattern != pattern
-
-        | @ name
-
-        | exists name . formula 
-
-        | forall name . formula 
-
-        | reveal name . formula 
-
-        | revealall name . formula 
-
-        | hidden name . formula 
-
-        | fresh name . formula 
-
-        | formula 
-
-        | [label]formula 
-
-        | minfix CapsId.formula 
-
-        | (minfix CapsId (pattern).formula)(pattern) 
-
-        | maxfix CapsId.formula 
-
-        | (maxfix CapsId (pattern).formula)(pattern) 
-
-        | CapsId 
-
-        | CapsId(pattern) 
-
-        | k 
-
-        | inside formula 
-
-        | always formula 
-
-        | eventually formula 
-
-        | Id(pattern,formulalist) 
-
-label ::= tau | name | ? | ! | name? | name! | name?( cnxn )(pattern) | name!( cnxn )(pattern) | *
+![image alt text](/img/uploads/social-graces-syntax.jpg){: style="display: block; margin: 0 auto; " }
 
 The relationship of contract to formula is one of satisfaction. ;-) We
 write contract |= formula just when contract satisfies formula. The
 semantics of the satisfaction relation is given in Caires' paper,
-here. A model-checker that implements an algorithmic approach to
+[here](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.9964). A model-checker that implements an algorithmic approach to
 checking satisfaction between contract and formula can be found
 [here](http://ctp.di.fct.unl.pt/SLMC/).
 
