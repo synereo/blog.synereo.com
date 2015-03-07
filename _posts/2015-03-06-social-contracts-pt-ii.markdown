@@ -15,7 +15,7 @@ In a decentralized, distributed web nobody's in charge. Or rather, everybody's i
 
 Previously, on [Synereo's social contracts](http://blog.synereo.com/2015/02/10/social-contracts-pt/): we asked if there are decentralized, distributed protocols or social contracts that make it possible to uplevel trust and gave an example of the *verification* protocol. In the verification protocol, the roles are the *claimant*, like our character Abed who is pursuing a gig with SoftShop, and making a claim about having a degree in communications; and the *relying party*, like SoftShop, who wants to hire a videographer, and requires them to have a degree in communications; and the *verifier*, a third party, like Greendale Community College, who is mutually trusted just for this one communication to verify to SoftShop just this one claim about Abed's degree.
 
-![image alt text](/img/uploads/verification-protocol-whole.jpg)
+![image alt text](/img/uploads/verification-protocol-whole.jpg){: style="float: left; margin-right: 15px;"}
 
 Then we asked about a language of social contracts that could map back all the way to running code in a Synereo node. Interestingly, rendering this diagram in such a language clarifies exactly how it is distributed. To see this we need to understand the language in more detail. 
 
@@ -37,7 +37,7 @@ describes outputting message on that same channel form. For those with a strong 
 
 In our diagrams, each vertical line constitutes (the observable behavior of) an agent. Each horizontal line (arrow) constitutes the exchange of a message with an agent either being the sender or the recipient of a message, depending on whether the tail or the head of the arrow touches the vertical line. With just this information it is possible to walk each line and render it as an agent in the language of social contracts. Each of these agents can run independently and autonomously of the others, and hence can be distributed throughout the Synereo network. Of equally vital importance is that the *whole system of agents* in the verification protocol, the concurrent and distributed collection of claimant, verifier, and relying party agents, working together in concert to verify a claim, *is also an agent*! This is how the language of social contracts, and the Synereo architecture more generally, can address both group dynamics as well as building up contracts recursively in terms of subcontracts and subsubcontracts and … 
 
-![image alt text](/img/uploads/verification-protocol-eye-of-sauron.png)
+![image alt text](/img/uploads/verification-protocol-eye-of-sauron.jpg){: style="display: block; margin: 0 auto; max-height: 80%; max-width: 100%;" }
 
 This latter point is also crucial to **being able to have contracts and contract enforcement without an all-seeing eye in the sky, not even a blockchain.** In particular, claimant, verifier, and relying party could each not only run independently and autonomously, but indeed specify their behavioral policy independently and autonomously, and then the policy of the total system would be built, post facto, as the *parallel composition* of each policy. 
 
@@ -59,7 +59,7 @@ Further, it is well established that there is a very expressive sublanguage of t
 
 Back in the day, i was the principal architect for Microsoft's business process orchestration tool, BizTalk Process Orchestration. i used a language very similar to the one for social contracts as the basis for specifying business processes. One day while i was working on this, SimonPeyton-Jones stopped by my office to talk to me about his work on composing contracts. i learned from [his presentation](http://ulf.wiger.net/fp_seminar/Options-Ericsson-Feb08.pdf) that when [when he said contracts he meant financial instruments](http://research.microsoft.com/en-us/um/people/simonpj/papers/financial-contracts/contracts-icfp.pdf). We both wondered what might be the relationship between his contracts and the kind of business processes, or social contracts considered here. 
 
-![image alt text](/img/uploads/spj.png)
+![image alt text](/img/uploads/spj.jpg){: style="display: block; margin: 0 auto; max-height: 80%; max-width: 100%;" }
 
 What was even more intriguing was that -- as i pointed out to him at the time -- his combinators for building up financial instruments were remarkably similar to [a well known logic called ](http://en.wikipedia.org/wiki/Linear_logic)*[linear logi*c](http://en.wikipedia.org/wiki/Linear_logic). There is [a deep connection between linear logic and the maths underlying social contracts](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-sessions/propositions-as-sessions.pdf), presented here. i mention this by way of saying that we at Synereo believe we are only at the beginning of a very exciting journey that connects contracts, the blockchain, and other powerful instruments into a framework for self-organization and self-determination in a decentralized setting, a framework with the power to shape the way we conduct ourselves online and offline for decades to come. 
 
@@ -69,11 +69,11 @@ Perhaps more intriguingly, the brinkmanship of the idea of "gas" is thrilling! W
 
 ### On the origins of social contracts and social graces
 
-![image alt text](/img/uploads/robin-milner.png)
+![image alt text](/img/uploads/robin-milner.jpg){: style="float: left; margin-right: 15px;"}
 
 For some the language of social contracts and social graces will be familiar. They are a variant of [Robin Milner's π-calculus](http://www.lfcs.inf.ed.ac.uk/reports/91/ECS-LFCS-91-180/) and [Luis Caires' spatial behavioral logic](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.3.9964), respectively. Being able to base our work on the work of a [Turing award winner](http://dl.acm.org/citation.cfm?id=151240) has some benefits. Firstly, the core ideas have been fairly decently QA'd. ;-) Secondly, it means that there is [a wealth of literature that anyone can consult](http://en.wikipedia.org/wiki/Π-calculus). No one need remain in the dark. Thirdly, having such a theory is what allows us to be precise about such things as the sublanguage for which checking logical properties is terminating. Fourthly, not only have these ideas been worked out on paper, there are reference implementations. [Luis Caires' team, for example, have built an open source version of the spatial logic model checker that can be downloaded and played with, ](http://ctp.di.fct.unl.pt/SLMC/)[right now](http://ctp.di.fct.unl.pt/SLMC/). You don't have to wait for Synereo to explore these ideas. You can try them out for yourself. 	
 
-								![image alt text](/img/uploads/luis-caires.png)
+![image alt text](/img/uploads/luis-caires.jpg){: style="float: right; margin-left: 15px;"}
 
 ### Relating social contracts to code running in a Synereo node
 
@@ -83,45 +83,43 @@ Synereo attracts such amazingly insightful people i'm guessing that you, Dear Re
 
 ##### Syntax
 
-agent **::=** {}							// the empty contract
+`` agent **::=** {}							// the empty contract ``
 
-     **|** for( v <- channel?( cnxn )( pattern ) ) { agent }		// wait on channel for messages 
+``     **|** for( v <- channel?( cnxn )( pattern ) ) { agent }		// wait on channel for messages ``
 
-//	matching pattern then 
+``                                                                      //	matching pattern then ``
 
-//	become agent
+``                                                                      //	become agent ``
 
-     **|** channel!( cnxn ) ( message )				// send message on channel
+``     **|** channel!( cnxn ) ( message )				// send message on channel ``
 
-     **|** agent | agent						// parallel composition of agents
+``     **|** agent | agent					        // parallel composition of agents ``
 
-     **|** new channel { agent }					// create a fresh channel for use in 
+``     **|** new channel { agent }			                // create a fresh channel for use in agent ``
 
-//	agent
+``     **|** ( def X( channel ) = agent )( channel )	                // recursive definition and initial ``
 
-     **|** ( def X( channel ) = agent )( channel )			// recursive definition and initial 
+``                                                                      // 	invocation ``
 
-// 	invocation
+``     **|** X( channel )						// invocation of recursively defined ``
 
-     **|** X( channel )						// invocation of recursively defined 
+``                                                                      //	agent ``
 
-//	agent
+`` channel **::=** a, b, c, … 					        // entry point to a connected ``
 
-channel **::=** a, b, c, … 						// entry point to a connected 
+``                                                                      //	network of Synereo nodes ``
 
-//	network of Synereo nodes
+`` cnxn **::=** A, B, C, …						// link between a pair of agents ``
 
-cnxn **::=** A, B, C, …						// link between a pair of agents
+`` pattern **::=** value | variable | functor( pattern* )		// patterns are basically prolog ``
 
-pattern **::=** value | variable | functor( pattern* )		// patterns are basically prolog 
+``                                                                      //	terms ``
 
-//	terms
+`` value **::=** boolean | int | float | string | ... ``
 
-value **::=** boolean | int | float | string | …
+`` variable **::=** X, Y, Z, ... ``
 
-variable **::=** X, Y, Z, …
-
-functor **::=** x, y, z, …
+`` functor **::=** x, y, z, ... ``
 
 ##### Structural equivalence
 
@@ -151,71 +149,76 @@ If A ≡ A', A' -> B', B' ≡ B then A -> B
 
 formula ::= formula | formula 
 
-| formula || formula 
+        | formula || formula 
 
-| formula => formula 
+        | formula => formula 
 
-| formula <=> formula 
+        | formula <=> formula 
 
-| formula and formula 
+        | formula and formula 
 
-| formula or formula 
+        | formula or formula 
 
-| ( formula ) 
+        | ( formula ) 
 
-| not formula 
+        | not formula 
 
-| void 
+        | void 
 
-| true 
+        | true 
 
-| false 
+        | false 
 
-| pattern == pattern
+        | pattern == pattern
 
-| pattern != pattern
+        | pattern != pattern
 
-| @ name
+        | @ name
 
-| exists name . formula 
+        | exists name . formula 
 
-| forall name . formula 
+        | forall name . formula 
 
-| reveal name . formula 
+        | reveal name . formula 
 
-| revealall name . formula 
+        | revealall name . formula 
 
-| hidden name . formula 
+        | hidden name . formula 
 
-| fresh name . formula 
+        | fresh name . formula 
 
-| formula 
+        | formula 
 
-| [label]formula 
+        | [label]formula 
 
-| minfix CapsId.formula 
+        | minfix CapsId.formula 
 
-| (minfix CapsId (pattern).formula)(pattern) 
+        | (minfix CapsId (pattern).formula)(pattern) 
 
-| maxfix CapsId.formula 
+        | maxfix CapsId.formula 
 
-| (maxfix CapsId (pattern).formula)(pattern) 
+        | (maxfix CapsId (pattern).formula)(pattern) 
 
-| CapsId 
+        | CapsId 
 
-| CapsId(pattern) 
+        | CapsId(pattern) 
 
-| k 
+        | k 
 
-| inside formula 
+        | inside formula 
 
-| always formula 
+        | always formula 
 
-| eventually formula 
+        | eventually formula 
 
-| Id(pattern,formulalist) 
+        | Id(pattern,formulalist) 
 
 label ::= tau | name | ? | ! | name? | name! | name?( cnxn )(pattern) | name!( cnxn )(pattern) | *
 
-The relationship of contract to formula is one of satisfaction. ;-) We write contract |= formula just when contract satisfies formula. The semantics of the satisfaction relation is given in Caires' paper, here. A model-checker that implements an algorithmic approach to checking satisfaction between contract and formula can be found [here](http://ctp.di.fct.unl.pt/SLMC/).
+The relationship of contract to formula is one of satisfaction. ;-) We
+write contract |= formula just when contract satisfies formula. The
+semantics of the satisfaction relation is given in Caires' paper,
+here. A model-checker that implements an algorithmic approach to
+checking satisfaction between contract and formula can be found
+[here](http://ctp.di.fct.unl.pt/SLMC/).
 
