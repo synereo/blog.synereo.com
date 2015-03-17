@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: SpecialK/KVDB - A Pattern Language for the Web
-date: '2015-03-23 22:37:02 +0200'
+date: '2015-03-17 22:37:02 +0200'
 ---
 
 After 26 years in the industry, i can still say what excites me about technology. For me, it has always been about the potential to bring together precision, beauty, and utility into a single functioning whole. For example, take the code that organizes entire networks of computers and the services running on those computers into an application that serves real people. That code needs to be just so: neither too rigid to fail to accommodate a certain misuse, nor too informal to allow any behavior whatsoever. In order for code like that to last long enough for people to be able to realize any benefit from it, it has to have a good enough shape that people can recognize when it is out of shape and also when that shape needs to change to continue to serve people. 
