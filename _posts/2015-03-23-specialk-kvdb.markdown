@@ -24,7 +24,7 @@ Finally, i knew that this was an incredibly tall order, much too tall for someon
 
 ## A pattern language for the Web
 
-And, to make a long story short, that’s what SpecialK/KVDB is. It’s kind of funny, because it’s much easier to write down the patterns than to say why they’re important! That page and half before this paragraph is just a preamble to get a sense of why the patterns you’re about to see should be of interest to you, the web developer. So, without further ado, here they are. This is how application programmers query for 
+And, to make a long story short, that’s what SpecialK/KVDB is. Yes, it's a decentralized, distributed storage mechanism that's been in commercial use for over two years, but really, it's a pattern language for building decentralized, distributed applications. It’s kind of funny, because it’s much easier to write down the patterns than to say why they’re important! That page and half before this paragraph is just a preamble to get a sense of why the patterns you’re about to see should be of interest to you, the web developer. So, without further ado, here they are. This is how application programmers query for 
 
 for( e <- chan?( cnxn )( pattern ) where cond( e ) ) { handle( e ) }
 
@@ -46,7 +46,7 @@ In a simplified view of the data/query duality, when a query seeks resources at 
 
 for( e <- chan?( cnxn )( pattern ) where cond( e ) ) { handle( e ) }.
 
-The system guarantees that the expression handle( e ) will only ever wake up and start running if a resource sastifying cond( e )shows up at 
+The system guarantees that the expression handle( e ) will only ever wake up and start running if a resource satisfying cond( e )shows up at 
 
 chan?( cnxn )( pattern ). 
 
@@ -64,11 +64,11 @@ The principal reason to organize things this way is because all the of modern pr
 
 One of my key goals was to be able to help more programmers see their vision of the end-to-end system reflected back at them through their code. A real test of that would be to take programmers who are not familiar with things like π-calculus or monads and give them this pattern language and see whether and how well they could build distributed web scale applications. 
 
-We did just that at Protegra. We were able to take programmers predominantly familiar with Java web stack technologies and have them programming distributed applications in weeks. You can look at [Protunity](http://www.protunity.com) to see one of the services built this way.
+We did just that with the folks at Protegra. We were able to take programmers predominantly familiar with Java web stack technologies and have them programming decentralized, distributed applications in weeks. You can look at [Protunity](http://www.protunity.com) to see one of the services built this way.
 
 Another key feature is that many of the advanced capabilities coming from the source technologies apply directly to this pattern language. Among these technologies, perhaps the most exciting are the behavioral types. Behavioral types represent a dramatic extension of the notion of typing; ordinary typing principally ensures things like that a function receives data the shape of which matches the shape it was expecting. Behavioral typing ensures properties of the *behaviors* of programs and processes. For example, session types—a particular kind of behavioral type discipline—can be used to guarantee that concurrent programs don’t deadlock. Think about that for a minute: before code passes successfully through the type-checker, it’s guaranteed to be free of deadlocks. That dramatically simplifies one of the thorniest issues in writing distributed systems, and it’s done automatically.
 
-Behavioral types can also express and ensure properties of information flow. For example, they can ensure that information isn’t leaked to unauthorized parties. This means there is a compile-time technology to manage security on the web that becomes available when developers use the pattern language proposed here.
+Behavioral types can also express and ensure properties of information flow. For example, they can ensure that information isn’t leaked to unauthorized parties. This means there is a compile-time technology to manage security on the web that becomes available when developers use the pattern language proposed here. Behavioral types are the secret sauce inside Synereo's [social contracts and social graces](http://blog.synereo.com/2015/03/06/social-contracts-pt-ii/).
 
 Again, reflect for a moment: today developers write in scores of idioms over dozens of technologies. The verbosity of such code serves predominantly to obfuscate the design, making it expensive to track the relationship of design to implementation. In this pattern language, the code becomes an ally to support programmers’ intuitions about the system in the small and in the large. At the same time a whole new kind of compiler and type-checking technology becomes available to help manage the complexity of writing distributed applications. This should be more than enough to justify the development and adoption of such a pattern language—but in point of fact, it’s actually just the beginning of what’s possible with this approach to programming the Web.
 
@@ -77,6 +77,8 @@ Again, reflect for a moment: today developers write in scores of idioms over doz
 We’d like to tell you more about these possibilities, and that’s why we’re inviting you to engage with us. We believe that it’s time for a dialogue about what you find exciting about technology and the Web. We believe that you already know when something has that quality of being just so, of being a functioning whole that serves a real need; together, we can bring that knowledge into direct applications.
 
 # Bibliography
+
+Rather than just providing in place links, we thought it might be a nice old school gesture to provide an actual bibliography. If you haven't had the pleasure of reading these texts, you're in luck! Some of these books and papers just might change the way you engage your life beyond the Internet.
 
 Alexander, Christopher (1977). *A Pattern Language: Towns, Buildings, Construction*. Oxford University Press, USA. p. 1216. [ISBN](http://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-19-501919-9](http://en.wikipedia.org/wiki/Special:BookSources/0-19-501919-9).
 
