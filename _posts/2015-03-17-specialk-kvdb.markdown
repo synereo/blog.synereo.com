@@ -62,7 +62,7 @@ The principal reason to organize things this way is because all the of modern pr
 
 ## The features, advantages, and benefits of web-scale pattern language
 
-One of my key goals was to be able to help more programmers see their vision of the end-to-end system reflected back at them through their code. A real test of that would be to take programmers who are not familiar with things like π-calculus or monads and give them this pattern language and see whether and how well they could build distributed web scale applications. 
+One of my key goals was to be able to help more programmers see their vision of the end-to-end system reflected back at them through their code. A real test of that would be to take programmers who are not familiar with things like π-calculus or monads, the mathematical underpinnings of the SpecialK pattern language, and give them this pattern language and see whether and how well they could build distributed web scale applications. 
 
 We did just that with the folks at Protegra. We were able to take programmers predominantly familiar with Java web stack technologies and have them programming decentralized, distributed applications in weeks. You can look at [Protunity](http://www.protunity.com) to see one of the services built this way.
 
