@@ -26,11 +26,13 @@ Finally, I knew that this was an incredibly tall order, much too tall for someon
 
 And, to make a long story short, that’s what SpecialK/KVDB is. Yes, it's a decentralized, distributed storage mechanism that's been in commercial use for over two years, but really, it's a pattern language for building decentralized, distributed applications. It’s kind of funny, because it’s much easier to write down the patterns than to say why they’re important! That page and half before this paragraph is just a preamble to get a sense of why the patterns you’re about to see should be of interest to you, the web developer. So, without further ado, here they are. This is how application programmers query for:
 
-	for( e <- chan?( cnxn )( pattern ) where cond( e ) ) { handle( e ) }
+    for ( e <- chan?( cnxn )( pattern ) where cond( e ) ) {
+        handle( e )
+    }
 
 and publish data:
 
-	chan!( cnxn )( pattern, data )
+    chan!( cnxn )( pattern, data )
 
 This single pattern covers all the models, from pub/sub to traditional transacted store to no-sql to distributed transactions.
 
@@ -38,17 +40,19 @@ Here’s a picture of how this basic pattern maps onto storage and messaging.
 
 ![image alt text](/img/uploads/patternlanguage4web.jpg)
 
-One entry into the pattern begins with an intuitive map between this pattern and URLs. The chan?( cnxn ) part of a query or publication can be likened to the `protocol://host:port` part of a URL. The pattern part can be likened to the `path?query-string` part of a URL. A full treatment of the details reveals that this shape is a generalization of the URL notion. Perhaps the biggest generalization is that pattern can cover not just a single resource, but a whole range of resources because it identifies not just a single location in the network of resources, but a whole range of locations that match the pattern. That said, I believe the key insight underlying this design pattern, the one that gives it potency and reach, is the duality of data and query. 
+One entry into the pattern begins with an intuitive map between this pattern and URLs. The `chan?( cnxn )` part of a query or publication can be likened to the `protocol://host:port` part of a URL. The pattern part can be likened to the `path?query-string` part of a URL. A full treatment of the details reveals that this shape is a generalization of the URL notion. Perhaps the biggest generalization is that pattern can cover not just a single resource, but a whole range of resources because it identifies not just a single location in the network of resources, but a whole range of locations that match the pattern. That said, I believe the key insight underlying this design pattern, the one that gives it potency and reach, is the duality of data and query.
 
 ## Duality between data and query
 
 In a simplified view of the data/query duality, when a query seeks resources at a pattern and it finds nothing, then a *continuation* is stored at the pattern, instead. The continuation represents what the program or process querying for the resource will do after it gets a resource, were it to have gotten one. We have access to this because the programmer gave it to us explicitly; it’s what’s between the curly braces of the for-comprehension in a query expression:
 
-	for( e <- chan?( cnxn )( pattern ) where cond( e ) ) { handle( e ) }.
+    for( e <- chan?( cnxn )( pattern ) where cond( e ) ) {
+        handle( e )
+    }
 
 The system guarantees that the expression `handle( e )` will only ever wake up and start running if a resource satisfying `cond( e )` shows up at 
 
-	chan?( cnxn )( pattern ). 
+    chan?( cnxn )( pattern )
 
 Thus, when data is published via `chan!( cnxn )( pattern, data )`, the first things to do are check to see if there are any continuations waiting there and whether data satisfies the necessary conditions to hand them to the any of the awaiting continuations. If there are, then each such continuation is applied to the data.
 
