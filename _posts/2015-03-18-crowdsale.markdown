@@ -35,7 +35,7 @@ Synereo is being built to provide the absolute best social experience online, tr
 
 Synereo is the change we want to see in the world. We are finally at a point where we, as a society, have the technology and resources to build a network that doesn’t depend on any central entity dictating to it.
 
-### How Is Your Money Being Put To Work?
+### How is your money being put to work?
 
 We’re glad you asked! You may be surprised to know this, but **we’ve been working on the Synereo tech stack for more than 4 years.** Now, we need to package it up so that with just a few button clicks, the non-technorati can get it up and running. One way to think about this kind of task is to compare it to Gmail.
 
@@ -157,7 +157,7 @@ Make sure that you’re sending BTC from an address under your direct control; n
 
 Alternatively, you can buy AMPs using any fiat currency. Mail [founders@synereo.com](mailto:founders@synereo.com) and we’ll give you all the details. 
 
-### Early Access
+### Early access
 
 The first public version of Synereo will be invite-only.
 
