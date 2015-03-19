@@ -105,7 +105,7 @@ The AMP distribution logic is designed to facilitate the development and growth 
 
 * 7.5% will be awarded to content creators who begin operating on the network. We already have a few major musicians waiting to join and distribute their art on Synereo!
 
-* 10% are awarded to the founders of Synereo
+* 10% are awarded to the founders of Synereo, vested over a period of 30 months
 
 * 11.5% are kept for bounties, awarded to contributors and developers
 
