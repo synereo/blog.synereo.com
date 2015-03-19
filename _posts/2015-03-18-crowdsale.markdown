@@ -59,23 +59,23 @@ You are welcome to **learn more about Synereo** and read the whitepaper:
 
 ![image alt text](/img/uploads/amptoken.png){: style="display: block; margin: 0 auto; width: 250px;"}
 
-### Crowdsale Details
+## Crowdsale Details
 
-#### When?
+### When?
 
 The crowdsale starts on **March 23rd, 8:00 PM GMT**. 
 
-#### How many AMPs are sold in this crowdsale?
+### How many AMPs are sold in this crowdsale?
 
 18.5% of all initially created AMPs will be sold. 
 
-#### How many AMPs are there? Can more be created?
+### How many AMPs are there? Can more be created?
 
 One Billion (1,000,000,000) AMPs will be created initially.
 
 Five percent will be created yearly to reward people as part of the Proof of Social Contribution (PoSC) mechanism.
 
-#### How can I buy AMPs?
+### How can I buy AMPs?
 
 The crowdsale will go live at [https://crowdsale.synereo.com](https://crowdsale.synereo.com).
 
@@ -85,17 +85,17 @@ Contact [founders@synereo.com](mailto:founders@synereo.com) for wire transfers.
 
 Currencies used will be measured against USD at the time of transfer to determine how many AMPs have been purchased.
 
-#### What is the rate of USD/AMP?
+### What is the rate of USD/AMP?
 
 1 USD will buy 154 AMPs.
 
-#### Will the rate of USD/AMP change throughout the sale?
+### Will the rate of USD/AMP change throughout the sale?
 
 **No**. We believe this mechanic skews the markets later on and prefer to avoid it.
 
 If you're interested in buying AMP tokens and supporting Synereo, just do it! If we succeed, a percent here or there will not matter.
 
-#### How are other AMPs distributed?
+### How are other AMPs distributed?
 
 The AMP distribution logic is designed to facilitate the development and growth of the Synereo social network through years to come.
 
@@ -117,11 +117,11 @@ To protect the market, AMPs awarded to people who join the network and to conten
 
 ![image alt text](/img/uploads/ampeconomy.jpg)
 
-#### How long will the crowdsale last?
+### How long will the crowdsale last?
 
 The crowdsale will be open for 30 days or until the cap is reached.
 
-#### Are there any other ways to get AMPs?
+### Are there any other ways to get AMPs?
 
 1. AMPs can be bought during an initial crowdsale phase which will fund the development of Synereo and its deployment.
 
@@ -131,7 +131,7 @@ The crowdsale will be open for 30 days or until the cap is reached.
 
 4. Bounties. People working to contribute to the development, deployment, and expansion of the network will receive AMP rewards for their efforts.
 
-#### Third party evaluators
+### Third party evaluators
 
 Wallets holding AMPs designed to be released at a later date will be locked such that an outside evaluator has to certify that the conditions for their release has been met. AMPs locked in that manner include:
 
@@ -145,21 +145,21 @@ Wallets holding AMPs designed to be released at a later date will be locked such
 
 We’ll announce the identity of this third party evaluator soon!
 
-#### Multi-signature mechanism
+### Multi-signature mechanism
 
 All funds received will be kept in a multi-sig wallet. This protects the funds - both the BTC sent during the crowdsale and the AMPs to be sent out - from any one point of failure, whether theft, the loss of a key, or the inability of one holder to access the wallet. 
 
 One of the keys will be held by [Andreas M. Antonopoulos](http://antonopoulos.com/), who has also assisted in creating the right solution for our crowdsale - assuring the security of the funds.
 
-#### How will the sale work?
+### How will the sale work?
 
 Simple! All you have to do is sign up with your email, receive a BTC address, send as many BTC as you like to it, and wait until the sale is over to receive AMPs to that address.
 
 Make sure that you’re sending BTC from an address under your direct control; no exchanges, no Coinbase, no Circle. (Blockchain.info is fine, but you’ll have to know how to export your wallet!)
 
-Alternatively, you can buy AMPs using any fiat currency. Mail founders@synereo.com and we’ll give you all the details. 
+Alternatively, you can buy AMPs using any fiat currency. Mail [founders@synereo.com](mailto:founders@synereo.com) and we’ll give you all the details. 
 
-#### Early Access
+### Early Access
 
 The first public version of Synereo will be invite-only.
 
@@ -171,9 +171,9 @@ The cryptocurrency and decentralization scene is full of opportunities. We have 
 
 We appreciate your attention and involvement. Thank you, Internet, and good night! 
 
-[http://synereo.com/](http://synereo.com/)
+<p style="display: block; text-align: center;"><a href="https://crowdsale.synereo.com/">https://crowdsale.synereo.com/</a></p>
 
-The Synereo Team
+<p style="display: block; text-align: center;">The Synereo Team</p>
 
-Be Part of the Solution
+<p style="display: block; text-align: center;">Be Part of the Solution</p>
 
