@@ -123,13 +123,11 @@ The crowdsale will be open for 30 days or until the cap is reached.
 
 ### Are there any other ways to get AMPs?
 
-1. AMPs can be bought during an initial crowdsale phase which will fund the development of Synereo and its deployment.
+1. Registering for Synereo and migrating your information from an existing social network account.
 
-2. Registering for Synereo and migrating your information from an existing social network account.
+2. Expanding Synereo by inviting users who register on the network and migrate to it.
 
-3. Expanding Synereo by inviting users who register on the network and migrate to it.
-
-4. Bounties. People working to contribute to the development, deployment, and expansion of the network will receive AMP rewards for their efforts.
+3. Bounties. People working to contribute to the development, deployment, and expansion of the network will receive AMP rewards for their efforts.
 
 ### Third party evaluators
 
