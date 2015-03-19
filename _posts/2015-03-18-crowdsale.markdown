@@ -131,7 +131,7 @@ The crowdsale will be open for 30 days or until the cap is reached.
 
 4. Bounties. People working to contribute to the development, deployment, and expansion of the network will receive AMP rewards for their efforts.
 
-**Third party evaluators **
+**Third party evaluators**
 
 Wallets holding AMPs designed to be released at a later date will be locked such that an outside evaluator has to certify that the conditions for their release has been met. AMPs locked in that manner include:
 
@@ -141,7 +141,7 @@ Wallets holding AMPs designed to be released at a later date will be locked such
 
 3. **AMPs kept for future funding rounds. These AMPs can only be released if and when we do another crowdsale or when accepting an investment.**
 
-4. **The generation of AMPs as part of the Proof of Social Contribution (PoSC) mechanism, capped at 5% per year, will also require certification by this third party. **
+4. **The generation of AMPs as part of the Proof of Social Contribution (PoSC) mechanism, capped at 5% per year, will also require certification by this third party.**
 
 We’ll announce the identity of this third party evaluator soon!
 
