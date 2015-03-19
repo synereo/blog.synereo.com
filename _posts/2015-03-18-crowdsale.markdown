@@ -171,7 +171,7 @@ The cryptocurrency and decentralization scene is full of opportunities. We have 
 
 We appreciate your attention and involvement. Thank you, Internet, and good night! 
 
-<p style="display: block; text-align: center;"><a href="https://crowdsale.synereo.com/">https://crowdsale.synereo.com/</a></p>
+<p style="display: block; text-align: center;"><a href="http://synereo.com/">http://synereo.com/</a></p>
 
 <p style="display: block; text-align: center;">The Synereo Team</p>
 
