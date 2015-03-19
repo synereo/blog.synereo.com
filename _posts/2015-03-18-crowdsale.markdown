@@ -147,8 +147,6 @@ We’ll announce the identity of this third party evaluator soon!
 
 All funds received will be kept in a multi-sig wallet. This protects the funds - both the BTC sent during the crowdsale and the AMPs to be sent out - from any one point of failure, whether theft, the loss of a key, or the inability of one holder to access the wallet. 
 
-One of the keys will be held by [Andreas M. Antonopoulos](http://antonopoulos.com/), who has also assisted in creating the right solution for our crowdsale - assuring the security of the funds.
-
 ### How will the sale work?
 
 Simple! All you have to do is sign up with your email, receive a BTC address, send as many BTC as you like to it, and wait until the sale is over to receive AMPs to that address.
