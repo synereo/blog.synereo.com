@@ -6,31 +6,33 @@ title: SpecialK/KVDB - A Pattern Language for the Web
 date: '2015-03-17 22:37:02 +0200'
 ---
 
-After 26 years in the industry, i can still say what excites me about technology. For me, it has always been about the potential to bring together precision, beauty, and utility into a single functioning whole. For example, take the code that organizes entire networks of computers and the services running on those computers into an application that serves real people. That code needs to be just so: neither too rigid to fail to accommodate a certain misuse, nor too informal to allow any behavior whatsoever. In order for code like that to last long enough for people to be able to realize any benefit from it, it has to have a good enough shape that people can recognize when it is out of shape and also when that shape needs to change to continue to serve people. 
+After 26 years in the industry, I can still say what excites me about technology. For me, it has always been about the potential to bring together precision, beauty, and utility into a single functioning whole. For example, take the code that organizes entire networks of computers and the services running on those computers into an application that serves real people. That code needs to be just so: neither too rigid to fail to accommodate a certain misuse, nor too informal to allow any behavior whatsoever. In order for code like that to last long enough for people to be able to realize any benefit from it, it has to have a good enough shape that people can recognize when it is out of shape and also when that shape needs to change to continue to serve people. 
 
-In practical terms, the code for real Internet-scale applications—at least ones that help people do something they actually want or need to do—not only has a form that supports its function, it has a lifespan and a lifecycle. People who maintain that code throughout its lifecycles and through its whole lifespan have to be able to relate said code’s function to its form. The relationship of form and function in a codebase for an Internet-scale application—and, again, i’m talking about the ones that manage to stay in the game long enough for people to get something out of them—is all about a kind of wabi-sabi, rough-and-ready, just-so quality. That’s what i mean by bringing precision, beauty, and utility together into a single whole.
+In practical terms, the code for real Internet-scale applications—at least ones that help people do something they actually want or need to do—not only has a form that supports its function, it has a lifespan and a lifecycle. People who maintain that code throughout its lifecycles and through its whole lifespan have to be able to relate said code’s function to its form. The relationship of form and function in a codebase for an Internet-scale application—and, again, i’m talking about the ones that manage to stay in the game long enough for people to get something out of them—is all about a kind of wabi-sabi, rough-and-ready, just-so quality. That’s what I mean by bringing precision, beauty, and utility together into a single whole.
 
-## ![image alt text](/img/uploads/magnitude.jpg){: style="float: left; margin-right: 15px;"}
+![image alt text](/img/uploads/magnitude.jpg){: style="float: left; margin-right: 15px;"}
 
 ## Pop, pop! Or, the *Magnitude* of making precision, beauty, and utility evident in real code 
 
-As i built SpecialK/KVDB, that was the quality i had in mind. What could help people who build these kinds of large scale systems see more clearly when that quality was present in their code? What could enable more than just a handful of people to be able to get to that place? What could help the majority of developers get to the point where they could see for themselves the relationship of form and function; and not just of their code, but of the entire end-to-end system they were helping to build? What could make it so that the vision wasn’t obscured by the details, but rather the details were seen clearly as necessary elaborations of the vision?
+As I built SpecialK/KVDB, that was the quality I had in mind. What could help people who build these kinds of large scale systems see more clearly when that quality was present in their code? What could enable more than just a handful of people to be able to get to that place? What could help the majority of developers get to the point where they could see for themselves the relationship of form and function; and not just of their code, but of the entire end-to-end system they were helping to build? What could make it so that the vision wasn’t obscured by the details, but rather the details were seen clearly as necessary elaborations of the vision?
 
-To build something like that, i knew it had to be something a little different from an API, something a little different from a programming model, something a little different from a formalism. There are plenty of each of those. Being a big fan of the architect Christopher Alexander, i realized i was looking for something akin to what he calls a *pattern language*. i was looking for something like the set of basic motifs, patterns, and forms that people in cultures around the world use to build houses that feel like homes: the kinds of patterns that make a dwelling in Brazil or South Africa or the south of France immediately recognizable as specific to that region yet also recognizable as ‘home’ to just about anyone. 
+To build something like that, I knew it had to be something a little different from an API, something a little different from a programming model, something a little different from a formalism. There are plenty of each of those. Being a big fan of the architect Christopher Alexander, I realized I was looking for something akin to what he calls a *pattern language*. I was looking for something like the set of basic motifs, patterns, and forms that people in cultures around the world use to build houses that feel like homes: the kinds of patterns that make a dwelling in Brazil or South Africa or the south of France immediately recognizable as specific to that region yet also recognizable as ‘home’ to just about anyone. 
 
-Moreover, i knew i was looking for a set of design patterns i could embed in a modern programming language, while at the same time making them available via all the modern protocols, from HTTP to AMQP. i also knew it had to be possible to layer known design patterns—like CRUD, for example—over top of these patterns in a way that people could see how the tried and true related to the new. 
+Moreover, I knew I was looking for a set of design patterns I could embed in a modern programming language, while at the same time making them available via all the modern protocols, from HTTP to AMQP. I also knew it had to be possible to layer known design patterns—like CRUD, for example—over top of these patterns in a way that people could see how the tried and true related to the new. 
 
-Finally, i knew that this was an incredibly tall order, much too tall for someone like me to fill. i was going to have to stand on the shoulders of people already standing on the shoulders of giants if i was going to have a hope of fulfilling it. The trick, it seemed to me, was to seek out the people at the forefront of concurrency theory—people like Robin Milner, and Tony Hoare, and Samson Abramksy, and Kohei Honda, and Luca Cardelli, and Andy Gordon—and the people at the forefront of modern language design—people like Simon Peyton-Jones, and Oleg Kiselyov, Xavier Leroy and Martin Odersky, and Erik Meijer and Anders Hejlsberg—and take their best insights.  Take what the concurrency theorists were sharing about how autonomous communicating processes can be organized via a few simple design patterns, and fit those ideas together with what the programming language people were saying about the utility of monads for adding design patterns into a core language. And in particular, pay attention to the patterns, like LINQ, that related data storage and access to messaging and complex event processing at web-scale.
+Finally, I knew that this was an incredibly tall order, much too tall for someone like me to fill. I was going to have to stand on the shoulders of people already standing on the shoulders of giants if I was going to have a hope of fulfilling it. The trick, it seemed to me, was to seek out the people at the forefront of concurrency theory—people like Robin Milner, and Tony Hoare, and Samson Abramksy, and Kohei Honda, and Luca Cardelli, and Andy Gordon—and the people at the forefront of modern language design—people like Simon Peyton-Jones, and Oleg Kiselyov, Xavier Leroy and Martin Odersky, and Erik Meijer and Anders Hejlsberg—and take their best insights.  Take what the concurrency theorists were sharing about how autonomous communicating processes can be organized via a few simple design patterns, and fit those ideas together with what the programming language people were saying about the utility of monads for adding design patterns into a core language. And in particular, pay attention to the patterns, like LINQ, that related data storage and access to messaging and complex event processing at web-scale.
 
 ## A pattern language for the Web
 
-And, to make a long story short, that’s what SpecialK/KVDB is. Yes, it's a decentralized, distributed storage mechanism that's been in commercial use for over two years, but really, it's a pattern language for building decentralized, distributed applications. It’s kind of funny, because it’s much easier to write down the patterns than to say why they’re important! That page and half before this paragraph is just a preamble to get a sense of why the patterns you’re about to see should be of interest to you, the web developer. So, without further ado, here they are. This is how application programmers query for 
+And, to make a long story short, that’s what SpecialK/KVDB is. Yes, it's a decentralized, distributed storage mechanism that's been in commercial use for over two years, but really, it's a pattern language for building decentralized, distributed applications. It’s kind of funny, because it’s much easier to write down the patterns than to say why they’re important! That page and half before this paragraph is just a preamble to get a sense of why the patterns you’re about to see should be of interest to you, the web developer. So, without further ado, here they are. This is how application programmers query for:
 
-for( e <- chan?( cnxn )( pattern ) where cond( e ) ) { handle( e ) }
+    for ( e <- chan?( cnxn )( pattern ) where cond( e ) ) {
+        handle( e )
+    }
 
-and publish data
+and publish data:
 
- chan!( cnxn )( pattern, data )
+    chan!( cnxn )( pattern, data )
 
 This single pattern covers all the models, from pub/sub to traditional transacted store to no-sql to distributed transactions.
 
@@ -38,19 +40,21 @@ Here’s a picture of how this basic pattern maps onto storage and messaging.
 
 ![image alt text](/img/uploads/patternlanguage4web.jpg)
 
-One entry into the pattern begins with an intuitive map between this pattern and URLs. The chan?( cnxn ) part of a query or publication can be likened to the protocol://host:port part of a URL. The pattern part can be likened to the path?query-string part of a URL. A full treatment of the details reveals that this shape is a generalization of the URL notion. Perhaps the biggest generalization is that pattern can cover not just a single resource, but a whole range of resources because it identifies not just a single location in the network of resources, but a whole range of locations that match the pattern. That said, i believe the key insight underlying this design pattern, the one that gives it potency and reach, is the duality of data and query. 
+One entry into the pattern begins with an intuitive map between this pattern and URLs. The `chan?( cnxn )` part of a query or publication can be likened to the `protocol://host:port` part of a URL. The pattern part can be likened to the `path?query-string` part of a URL. A full treatment of the details reveals that this shape is a generalization of the URL notion. Perhaps the biggest generalization is that pattern can cover not just a single resource, but a whole range of resources because it identifies not just a single location in the network of resources, but a whole range of locations that match the pattern. That said, I believe the key insight underlying this design pattern, the one that gives it potency and reach, is the duality of data and query.
 
 ## Duality between data and query
 
 In a simplified view of the data/query duality, when a query seeks resources at a pattern and it finds nothing, then a *continuation* is stored at the pattern, instead. The continuation represents what the program or process querying for the resource will do after it gets a resource, were it to have gotten one. We have access to this because the programmer gave it to us explicitly; it’s what’s between the curly braces of the for-comprehension in a query expression:
 
-for( e <- chan?( cnxn )( pattern ) where cond( e ) ) { handle( e ) }.
+    for( e <- chan?( cnxn )( pattern ) where cond( e ) ) {
+        handle( e )
+    }
 
-The system guarantees that the expression handle( e ) will only ever wake up and start running if a resource satisfying cond( e )shows up at 
+The system guarantees that the expression `handle( e )` will only ever wake up and start running if a resource satisfying `cond( e )` shows up at 
 
-chan?( cnxn )( pattern ). 
+    chan?( cnxn )( pattern )
 
-Thus, when data is published via chan!( cnxn )( pattern, data ), the first things to do are check to see if there are any continuations waiting there and whether data satisfies the necessary conditions to hand them to the any of the awaiting continuations. If there are, then each such continuation is applied to the data.
+Thus, when data is published via `chan!( cnxn )( pattern, data )`, the first things to do are check to see if there are any continuations waiting there and whether data satisfies the necessary conditions to hand them to the any of the awaiting continuations. If there are, then each such continuation is applied to the data.
 
 ![image alt text](/img/uploads/traddbops.jpg)
 

@@ -3,7 +3,7 @@ layout: post
 title: Community Hangout – Synereo White Paper Review
 date: '2015-03-18 14:00:00 +0200'
 ---
-We’re hosting a community hangout Wednesday, March 18th, at 21:00 GMT. We'll be discussing the [Synereo white paper](https://github.com/synereo/whitepapers/releases/download/RC2/synereo.pdf). Get your Geek on
+We’re hosting a community hangout Wednesday, March 18th, at 21:00 GMT. We'll be discussing the [Synereo white paper](http://www.synereo.com/whitepapers/synereo.pdf). Get your Geek on
 
 ![Extensibility Hangout](/img/uploads/NodeBehaviorToPi.jpg){: style="float: left; margin-right: 15px; margin-bottom: 15px;"}
 
