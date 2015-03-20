@@ -79,7 +79,7 @@ Five percent will be created yearly to reward people as part of the Proof of Soc
 
 The crowdsale will go live at [https://crowdsale.synereo.com](https://crowdsale.synereo.com).
 
-You'll be able to send in BTC at any amount (no dust, please!) and wire transfer us fiat at sums equaling $1000 or more.
+You'll be able to send in BTC at any amount (no dust, please!) and wire transfer us fiat at sums equaling $100 or more.
 
 Contact [founders@synereo.com](mailto:founders@synereo.com) for wire transfers.
 
