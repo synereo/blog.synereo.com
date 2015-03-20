@@ -145,7 +145,9 @@ We’ll announce the identity of this third party evaluator soon!
 
 ### Multi-signature mechanism
 
-All funds received will be kept in a multi-sig wallet. This protects the funds - both the BTC sent during the crowdsale and the AMPs to be sent out - from any one point of failure, whether theft, the loss of a key, or the inability of one holder to access the wallet - assuring the security of the funds.
+All bitcoins received will be kept in a multi-sig wallet. This protects the funds received from any one point of failure, whether theft, the loss of a key, or the inability of one holder to access the wallet. 
+
+Some of the keys will be kept by external, trusted entities. More details coming soon. 
 
 ### How will the sale work?
 
