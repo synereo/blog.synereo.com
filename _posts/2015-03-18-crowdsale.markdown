@@ -144,7 +144,7 @@ Wallets holding AMPs designed to be released at a later date will be locked such
 
 4. The generation of AMPs as part of the Proof of Social Contribution (PoSC) mechanism, capped at 5% per year, will also require certification by this third party.
 
-For more details, See our [Asset Policies document.](https://docs.google.com/document/d/1zLBm8OHt5-81flihJ6iSKEm0WbRa6FL0mJ5ivBN34Po/edit?userstoinvite=greg@synereo.com&actionButton=1#){: style="display: block; text-align: left;"}
+For more details, See our [Asset Policies document.](https://docs.google.com/document/d/1zLBm8OHt5-81flihJ6iSKEm0WbRa6FL0mJ5ivBN34Po/edit?userstoinvite=greg@synereo.com&actionButton=1#)
 
 ### Multi-signature mechanism
 
@@ -152,7 +152,7 @@ All bitcoins received will be kept in a multi-sig wallet. This protects the fund
 
 Some of the keys will be kept by external, trusted entities. 
 
-For more details, See our [Asset Policies document.](https://docs.google.com/document/d/1zLBm8OHt5-81flihJ6iSKEm0WbRa6FL0mJ5ivBN34Po/edit?userstoinvite=greg@synereo.com&actionButton=1#){: style="display: block; text-align: left;"}
+For more details, See our [Asset Policies document.](https://docs.google.com/document/d/1zLBm8OHt5-81flihJ6iSKEm0WbRa6FL0mJ5ivBN34Po/edit?userstoinvite=greg@synereo.com&actionButton=1#)
 
 ### How will the sale work?
 
