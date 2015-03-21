@@ -65,7 +65,7 @@ You are welcome to **learn more about Synereo** and read the whitepaper:
 
 The crowdsale starts on **March 23rd, 8:00 PM GMT**. 
 
-We are taking great care to secure and safeguard all funds in our hands. As well, AMP wallet use must receive external approval from a trustee. See our [Asset Policies document here.](https://docs.google.com/document/d/1zLBm8OHt5-81flihJ6iSKEm0WbRa6FL0mJ5ivBN34Po/edit?userstoinvite=greg@synereo.com&actionButton=1#) 
+We are taking great care to secure and safeguard all funds in our hands. As well, our use of AMP wallets must receive external approval from a trustee. See our [Asset Policies document here.](https://docs.google.com/document/d/1zLBm8OHt5-81flihJ6iSKEm0WbRa6FL0mJ5ivBN34Po/edit?userstoinvite=greg@synereo.com&actionButton=1#) 
 
 
 ### How many AMPs are sold in this crowdsale?
