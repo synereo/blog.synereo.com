@@ -8,7 +8,7 @@ date: '2015-03-22 16:00:00 +0200'
 
 From a technological standpoint,  the AMP token is not particularly innovative. It’s a cryptocurrency deployed as a meta-coin on top of the bitcoin blockchain, using the Omni-Layer.
 
-However - unlike most other cryptocurrencies - its value is not based on news cycles, bitcoin adoption numbers, the weather, and only partially on speculation. The value of the AMP token comes from its inherent uses in the Synereo network, as a means for paying for user attention. 
+However - unlike most other cryptocurrencies - its value is not based on news cycles, bitcoin adoption numbers, the weather, and only partially on speculation. The value of the AMP token comes from its inherent use in the Synereo network, as a means for paying for user attention. 
 
 To understand the nature of this value, we will briefly explain the existing attention economy that powers the free-to-use Internet today.
 
