@@ -65,7 +65,7 @@ You are welcome to **learn more about Synereo** and read the whitepaper:
 
 The crowdsale starts on **March 23rd, 8:00 PM GMT**. 
 
-**The Synereo crowdsale is supervised by the [Omni Foundation**.](http://www.omnilayer.org/)**. The Omni Foundation has access to all transactional information, with their executives serving as trustee for the AMP tokens. Synereo has no access to these funds without their approval. See our [Asset Policies document](https://docs.google.com/document/d/1zLBm8OHt5-81flihJ6iSKEm0WbRa6FL0mJ5ivBN34Po/) for more information.
+**The Synereo crowdsale is supervised by the [Omni Foundation.](http://www.omnilayer.org/)**. The Omni Foundation has access to all transactional information, with their executives serving as trustee for the AMP tokens. Synereo has no access to these funds without their approval. See our [Asset Policies document](https://docs.google.com/document/d/1zLBm8OHt5-81flihJ6iSKEm0WbRa6FL0mJ5ivBN34Po/) for more information.
 
 We are taking great care to secure and safeguard all funds for this crowdsale and beyond. 
 
