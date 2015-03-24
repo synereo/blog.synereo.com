@@ -7,7 +7,7 @@ date: '2015-03-18 22:37:02 +0200'
 ---
 Since early November, everyone, and we mean everyone, has been asking us: "When is your crowdsale?". We had to smile, demur and defer because we wanted to line up everything just so. Now, though, the moment is upon us. We are pleased to announce the
 
-**[Synereo](http://www.synereo.com/) crowdsale begins**{: style="display: block; text-align: center; font-size: 1.4em;"}
+**[Synereo crowdsale](https://crowdsale.synereo.com/) begins**{: style="display: block; text-align: center; font-size: 1.4em;"}
 
 **23 March 2015, 8:00 PM GMT**{: style="display: block; text-align: center; font-size: 1.4em;"}
 
