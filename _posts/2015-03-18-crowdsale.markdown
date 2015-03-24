@@ -87,8 +87,6 @@ The crowdsale will go live at [https://crowdsale.synereo.com](https://crowdsale.
 
 You'll be able to send in BTC at any amount (no dust, please!) and wire transfer us fiat at sums equaling $30 or more.
 
-Contact [founders@synereo.com](mailto:founders@synereo.com) for wire transfers.
-
 Currencies used will be measured against USD at the time of transfer to determine how many AMPs have been purchased.
 
 ### What is the rate of USD/AMP?
