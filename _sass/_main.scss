@@ -58,4 +58,12 @@ body {
             }
         }
     }
+
+    ul.post-share-buttons {
+        list-style: none;
+        padding-left: 0px;
+        li {
+            display: inline;
+        }
+    }
 }
