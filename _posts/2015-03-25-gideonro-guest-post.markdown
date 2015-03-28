@@ -16,6 +16,8 @@ Pierre Teilhard de Chardin called it the noosphere. Andy Clark and David Chalmer
 
 Google and Wikipedia provide easy, instant access to vast stores of knowledge, with search as our primary method for that information recall. The streams of information flowing through news outlets and social media services could similarly be said to constitute a kind of collective stream of consciousness. The filtering algorithms of Facebook and other social networks then serve as mechanisms for focusing our attention within that stream. 
 
+![Collective Consciousness](http://stuffo.hswstatic.com/stuffyoushouldknow/wp-content/uploads/sites/14/2013/05/streamconscious_landing.jpg){: style="display: block; margin: 0 auto;"}
+
 **Paying Attention - to Shareholders**
 
 I am deeply appreciative of social network services like Facebook, Twitter, Google+, LinkedIn and reddit. As a society, we benefit tremendously from the investments these companies have made. They bring us closer together as a species, and perhaps more selfishly, I rely on these systems to help me focus my attention on the most relevant information that is flowing through my networks of relationships.
