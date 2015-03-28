@@ -32,5 +32,5 @@ When you read the[ Synereo white paper](http://www.synereo.com/whitepapers/syner
 
 I see social networks as the streams of our collective consciousness. I am investing in Synereo because it matters tremendously how these systems work, and because I believe it is worth betting on this team of mission-driven developers working to solve the thorny problems of how we, as a species, focus our attention.
 
-Gideon Rosenblatt writes about the relationship between humans and technology at[ the Vital Edge](http://www.the-vital-edge.com/), and is a member of the Synereo Advisory Board.
+Gideon Rosenblatt writes about the relationship between humans and technology at [the Vital Edge](http://www.the-vital-edge.com/), and is a member of the [Synereo Advisor Board](https://discuss.synereo.com/t/synereo-about-us/52468/2).
 
