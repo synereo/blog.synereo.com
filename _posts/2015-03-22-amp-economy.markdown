@@ -60,3 +60,7 @@ But we’re not in Facebook anymore, Dorothy. On Synereo, users can fully contro
 Thank you for your attention.
 
 ![img](/img/uploads/puppies.png)
+
+For a more detailed explanation of how AMPs themselves receive value, see this post:
+[The AMP - A Coin With an "Inherent" Value](http://blog.synereo.com/2015/03/27/how-amps-work/)
+
