@@ -16,7 +16,7 @@ In our previous post, [we introduced some of the key concepts Synereo is built o
 
 First, lets recap what the Synereo tech stack looks like:
 
-![Synereo stack](/img/uploads/synereo-stack.png){: style="display: block; margin: 0 auto;"}
+![Collective Consciousness](http://stuffo.hswstatic.com/stuffyoushouldknow/wp-content/uploads/sites/14/2013/05/streamconscious_landing.jpg){: style="display: block; margin: 0 auto;"}
 
 For the sake of this discussion, we'll ignore the two bottom layers (they’re both interesting, and will receive the proper treatment in future posts) and start the discussion from the actual deliverables. On the top layer, we have Synereo, the social network *par excellence*. When most users think of Synereo, they think of the actual application, where they can write posts, listen to their favorite artists’ latest hits, and catch up with their friends' photos from their vacation in Costa Rica. Further down the stack, we have the **Synereo attention economy model API** and the **Synereo network model API**. These not only provide the core functionality for the network, but are also the main entry points for external applications interfacing with the Synereo network.
 
