@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: AMPs - The Non-Fiat Cryptocurrency
+title: The Monetary Value of Attention on the Internet
 date: '2015-03-22 16:00:00 +0200'
 ---
 
