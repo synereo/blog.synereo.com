@@ -18,7 +18,7 @@ When a company offers you free service or free information, it often does it in 
 
 On social networks, however, the experience you get is centered around content created by your peers. Why, then, should your time and attention be monetized by a third party to the interaction between you and your friends?
 
-![img](/img/uploads/ppl.jpg){: style="float: right;"}
+![img](/img/uploads/ppl.jpg){: style="float: right;"}{: style="width: 220px;" }
 
 That’s where Synereo comes in. By eliminating the middleman - Facebook, Twitter, and the like - all value - any type of value - generated in the social network remains in your hands.
 
