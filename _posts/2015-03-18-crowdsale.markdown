@@ -14,7 +14,7 @@ Since early November, everyone, and we mean everyone, has been asking us: "When 
 We’re selling AMP tokens, Synereo’s information flow currency.
 
 ![image alt text](/img/uploads/amphand.png)
-
+h
 ### Why Even Build Synereo?
 
 Because social media must be decentralized.
@@ -100,7 +100,7 @@ Each AMP sold in our crowdsale will be more expensive than the one preceding it.
 
 *This means that people who believe in Synereo and who choose to support it sooner will enjoy a greater AMP reward.* 
 
-See the exact details [Here](https://docs.google.com/document/d/1ZuHgLfJmdCpiTXW7iFCBZB6L4UJb2usXc40j7NxzQTU).
+See the exact details [here](https://docs.google.com/document/d/1ZuHgLfJmdCpiTXW7iFCBZB6L4UJb2usXc40j7NxzQTU).
 
 ### How are other AMPs distributed?
 
