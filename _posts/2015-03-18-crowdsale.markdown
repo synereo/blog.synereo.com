@@ -96,6 +96,7 @@ Currencies used will be measured against USD at the time of transfer to determin
 ### Will the rate of USD/AMP change throughout the sale?
 
 Yes.
+
 Each AMP sold in our crowdsale will be more expensive than the one preceding it. As more people contribute and as the crowdsale cap gets closer, the price of AMPs will increase. 
 
 *This means that people who believe in Synereo and who choose to support it sooner will enjoy a greater AMP reward.* 
