@@ -14,7 +14,7 @@ Since early November, everyone, and we mean everyone, has been asking us: "When 
 We’re selling AMP tokens, Synereo’s information flow currency.
 
 ![image alt text](/img/uploads/amphand.png)
-h
+
 ### Why Even Build Synereo?
 
 Because social media must be decentralized.
