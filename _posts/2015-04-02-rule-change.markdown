@@ -43,9 +43,9 @@ People who jump in now will also enjoy a higher reward than before.
 
 Another change we are making is that **all coins allocated for this crowdsale and not sold will be destroyed** rather than returned to their wallet pool. 
 
-This means that the total value of coins out there will be lower if we don’t reach our sale cap, giving our supporters another hedge against their early contribution: with a lower cryptocurrency marketcap valuation, there will be more room for growth for their AMPs, and their relative stake of the overall AMP pool will be higher. 
+This means that the total value of coins out there will be lower if we don’t reach our sale cap, giving our supporters another hedge against their early contribution: with a lower cryptocurrency marketcap valuation, there will be more room for growth for their AMPs, and their relative stake of the overall AMP pool will be higher.
 
-***
+<p>***</p>
 
 Social networks are the most important tool we have right now for getting an insight into the collective stream of consciousness and we need to be able to read it - as well as focus our collective attention - without the process being subject to the kind of manipulation that is inevitable when that consciousness is slaved to the financial goals of external shareholders. There absolutely cannot exist a social network that achieves this without the grassroots support of a community dedicated to making this a reality.
 
