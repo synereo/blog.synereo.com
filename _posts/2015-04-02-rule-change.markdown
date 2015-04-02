@@ -35,7 +35,7 @@ The second dollar is worth 185 - (185-154)/600,000 AMPs, or 184.99994833 AMPs.<b
 The one hundred thousandth dollar is going to be worth 179.8333 AMPs.<br>
 And so on.
 
-![AMP Price](/img/uploads/amp_price.png)
+![AMP Price](/img/uploads/amp_price.png){: style="float: center;"}
 
 *The sooner you buy, the more AMPs you receive*{: style="display: block; text-align: center;"}
 
