@@ -53,5 +53,5 @@ Social networks are the most important tool we have right now for getting an ins
 
 We appreciate your support.
 
-Dor Konforty,
+Dor Konforty,<br>
 CEO, Synereo
