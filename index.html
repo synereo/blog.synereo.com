@@ -16,9 +16,20 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        
         {% if post.author %}
-        <div class="meta"><img src="/img/team/{{ post.author|slugify }}.jpg">{{ post.author }}</div>
+        <div class="meta">
+          <img src="/img/team/{{ post.author|slugify }}.jpg">
+          <span>{{ post.author }}</span>
+        </div>
         {% endif %}
+
+        {% if post.cover_image %}
+        <div class="cover">
+          <img src="{{ post.cover_image }}">
+        </div>
+        {% endif %}
+
         {{ post.excerpt }}
       </div>
     </div>
