@@ -4,6 +4,7 @@ status: publish
 published: true
 title: Rule Change
 date: '2015-04-02 12:00:00 +0200'
+author: Dor Konforty
 ---
 
 Dear Synereo community,
