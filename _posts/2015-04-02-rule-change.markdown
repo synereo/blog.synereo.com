@@ -27,15 +27,17 @@ Hopefully, this will provide those who are waiting on the sidelines the extra li
 
 **Here are the exact details:**
 
-The first dollar contributed is worth 185 AMPs.
-The six hundred thousand and first (600,001) dollar, the middle point of the sale, will be worth 154 AMPs.
+The first dollar contributed is worth 185 AMPs.<br>
+The six hundred thousand and first (600,001) dollar, the middle point of the sale, will be worth 154 AMPs.<br>
 The last dollar contributed in the crowdsale will be worth 123 AMPs.
 
-The second dollar is worth 185 - (185-154)/600,000 AMPs, or 184.99994833 AMPs.
-The one hundred thousandth dollar is going to be worth 179.8333 AMPs.
+The second dollar is worth 185 - (185-154)/600,000 AMPs, or 184.99994833 AMPs.<br>
+The one hundred thousandth dollar is going to be worth 179.8333 AMPs.<br>
 And so on.
 
 ![AMP Price](/img/uploads/amp_price.png)
+
+*The sooner you buy, the more AMPs you receive*{: style="display: block; text-align: center;"}
 
 What does this mean for people who have already contributed?
 Well, you’re in luck! Your early support means you will receive a greater AMP reward than what was previously promised to you. 
