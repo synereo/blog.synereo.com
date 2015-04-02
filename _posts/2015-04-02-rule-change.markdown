@@ -8,7 +8,7 @@ date: '2015-04-02 12:00:00 +0200'
 
 Dear Synereo community,
 
-It wasn’t an easy decision, but we have resolved to make a change to the rules of the crowdsale. 
+It wasn’t an easy decision, but we have resolved to make a change to the rules of the [crowdsale/](https://crowdsale.synereo.com/). 
 
 Initially, we wanted the USD/AMP rate to remain the same throughout the entire period of the sale. Synereo did not have a pre-sale or distribute any coins until this point, and we wanted everyone to have bought them for the exact same price. Keep it simple.
  
