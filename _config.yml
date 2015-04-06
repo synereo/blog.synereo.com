@@ -8,7 +8,7 @@ twitter_username: synereo
 github_username:  synereo
 
 permalink: pretty
-paginate: 5
+paginate: 4
 paginate_path: "/page:num/"
 
 # Build settings

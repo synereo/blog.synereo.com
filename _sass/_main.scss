@@ -1,4 +1,9 @@
 body {
+    p {
+        img {
+            width: 100%;
+        }
+    }
     div.posts {
         margin-top: 40px;
         div.post {
@@ -48,4 +53,15 @@ body {
             display: inline;
         }
     }
+
+    .post-nav {
+        margin-bottom: 30px;
+        a.prev {
+            float: left;
+        }
+        a.next {
+            float: right;
+        }
+    }
+
 }

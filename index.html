@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <div class="row post">
       <div class="col-md-2">
         <div class="post-date">
@@ -30,10 +30,19 @@ layout: default
         </div>
         {% endif %}
 
-        {{ post.excerpt }}
+        {{ post.content }}
       </div>
     </div>
   {% endfor %}
 </div>
 
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="post-nav clearfix">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="prev">&laquo; Newer Posts</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Older Posts &raquo;</a>
+  {% endif %}
+</div>
+
+<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
