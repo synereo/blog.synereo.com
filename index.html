@@ -19,7 +19,11 @@ layout: default
         
         {% if post.author %}
         <div class="meta">
+          {% if post.guest %}
+          <img src="/img/team/guest-{{ post.guest }}.png">
+          {% else %}
           <img src="/img/team/{{ post.author|slugify }}.jpg">
+          {% endif %}
           <span>{{ post.author }}</span>
         </div>
         {% endif %}

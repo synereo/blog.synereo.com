@@ -17,7 +17,11 @@ layout: default
 
       {% if page.author %}
       <div class="meta">
+        {% if page.guest %}
+        <img src="/img/team/guest-{{ page.guest }}.png">
+        {% else %}
         <img src="/img/team/{{ page.author|slugify }}.jpg">
+        {% endif %}
         <span>{{ page.author }}</span>
       </div>
       {% endif %}
