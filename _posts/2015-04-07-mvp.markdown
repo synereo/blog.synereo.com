@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Synereo MVP Features - 50,000 AMPs Bounty
+date: '2015-04-07 18:00:00 +0300'
+---
+
+*TL;DR*: Tweet or post suggestions on [discuss.synereo.com](https://discuss.synereo.com) for your preferred Synereo MVP (Minimal Viable Product) features using #SynereoMVP and join our [Hangout](https://plus.google.com/u/0/b/109002904706315055045/events/colr93mn6al4ubcvdkn6e8l4m8s) on Wednesday, April 8 to discuss the features to be developed first to win a share of the 50,000 AMP bounty.
+
+An MVP is a crucial stage in every project’s life. This is the stage in development where early adopters and hackers can start playing with a functional version of the product, helping it evolve and improve until it’s ready for the mainstream user.
+
+The first implemented features, then, must be the ones that we, the core developers, along with our core users and supporters, perceive as the most important and immediate. For example, “Events” will definitely be a great feature that will eventually find its way into the system, but that may not be implemented on this first version. 
+
+Join our [hangout](https://plus.google.com/u/0/b/109002904706315055045/events/colr93mn6al4ubcvdkn6e8l4m8s) on Wednesday and plead the case for your chosen MVP feature. 
+50,000 AMPs will be distributed among 3 winners that make the short list.
+When pitching your must-have MVP feature, consider the following questions. 
+
+ 1. How does searching and trending stack against privacy and security?
+ 2. How does being able to configure and control what shows up in your feed stack against sharing formats like audio and video?
+ 3. What cryptocurrency-related features are important?
+ 4. Is an in-app currency exchange more important than a social networking feature like groups or tagging friends?
+ 5. Is there something that every other social network misses that is so obvious you just can't believe it's not there? 
+ 
+See you at the Hangout!
+
+![Developers, developers, developers](/img/uploads/developers2.jpg)
