@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Crowdsale Milestones
+title: Crowdsale Funding-Based Milestones
 date: '2015-04-07 14:00:00 +0300'
 ---
 
