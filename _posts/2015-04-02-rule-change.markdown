@@ -10,7 +10,7 @@ Dear Synereo community,
 
 It wasn’t an easy decision, but we have resolved to make a change to the rules of the [crowdsale](https://crowdsale.synereo.com/). 
 
-Initially, we wanted the USD/AMP rate to remain the same throughout the entire period of the sale. Synereo did not have a pre-sale or distribute any coins until this point, and we wanted everyone to have bought them for the exact same price. Keep it simple.
+Initially, we wanted the USD/AMP rate to remain the same throughout the entire period of the sale. Synereo did not have a pre-sale or distribute any coins [until this point](http://omnichest.info/lookupsp.aspx?sp=39), and we wanted everyone to have bought them for the exact same price. Keep it simple.
  
 We wanted to allow people to purchase AMPs at their leisure, and, perhaps more importantly, to prevent the market being skewed later on. A noble goal(?), but perhaps a naive one. 
 
