@@ -4,6 +4,7 @@ status: publish
 published: true
 title: The AMP - A Coin With an "Inherent" Value
 date: '2015-03-28 01:00:00 +0200'
+cover_image: /img/uploads/amp_hand_text.png
 ---
 
 **Synereo’s crypto-token, the AMP, has an inherent use and value on the Synereo network.**

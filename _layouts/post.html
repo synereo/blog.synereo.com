@@ -1,30 +1,58 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-    <ul class="post-share-buttons">
-        <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&t={{ page.title | cgi_escape }}" target="_blank"><img src="/img/share/Facebook.png"></a></li>
-        <li><a href="https://twitter.com/intent/tweet?source={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&text={{ page.title }}:%20{{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" target="_blank" title="Tweet"><img src="/img/share/Twitter.png"></a></li>
-        <li><a href="https://plus.google.com/share?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" target="_blank" title="Share on Google+"><img src="/img/share/Google+.png"></a></li>
-        <li><a href="http://www.reddit.com/submit?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&title={{ page.title | cgi_escape }}" target="_blank" title="Submit to Reddit"><img src="/img/share/Reddit.png"></a></li>
-    </ul>
-  </header>
+<div class="posts">
+  <div class="row post">
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+    <div class="col-md-2">
+      <div class="post-date">
+        <span class="day">{{ page.date | date: "%-d" }}</span>
+        <span class="month-year">{{ page.date | date: "%b %Y" }}</span>
+      </div>
+    </div>
 
-  <div class="post-nav clearfix">
-    {% if page.previous.url %}
-      <a class="prev" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
-    {% endif %}
-    {% if page.next.url %}
-      <a class="next" href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
-    {% endif %}
+    <div class="col-md-8">
+      <h2>{{ page.title }}</h2>
+
+      {% if page.author %}
+      <div class="meta">
+        {% if page.guest %}
+        <img src="/img/team/guest-{{ page.guest }}.png">
+        {% else %}
+        <img src="/img/team/{{ page.author|slugify }}.jpg">
+        {% endif %}
+        <span>{{ page.author }}</span>
+      </div>
+      {% endif %}
+
+      <ul class="post-share-buttons">
+          <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&t={{ page.title | cgi_escape }}" target="_blank"><img src="/img/share/Facebook.png"></a></li>
+          <li><a href="https://twitter.com/intent/tweet?source={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&text={{ page.title }}:%20{{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" target="_blank" title="Tweet"><img src="/img/share/Twitter.png"></a></li>
+          <li><a href="https://plus.google.com/share?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}" target="_blank" title="Share on Google+"><img src="/img/share/Google+.png"></a></li>
+          <li><a href="http://www.reddit.com/submit?url={{ site.url | cgi_escape }}{{ page.url | cgi_escape }}&title={{ page.title | cgi_escape }}" target="_blank" title="Submit to Reddit"><img src="/img/share/Reddit.png"></a></li>
+      </ul>
+
+      {% if post.cover_image %}
+      <div class="cover">
+        <img src="{{ post.cover_image }}">
+      </div>
+      {% endif %}
+
+      <article class="post-content">
+        {{ content }}
+      </article>
+
+      <div class="post-nav clearfix">
+        {% if page.previous.url %}
+          <a class="prev" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+        {% endif %}
+        {% if page.next.url %}
+          <a class="next" href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+        {% endif %}
+      </div>
+
+    </div>
   </div>
 
   <div id="discourse-comments"></div>
@@ -39,5 +67,4 @@ layout: default
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
     })();
   </script>
-
 </div>

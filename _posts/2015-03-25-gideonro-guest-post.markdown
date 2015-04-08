@@ -2,8 +2,10 @@
 layout: post
 status: publish
 published: true
-title: Guest Post - Gideon Rosenblatt - Why I'm Investing in Synereo
+title: Why I'm Investing in Synereo
 date: '2015-03-25 16:00:00 +0200'
+author: Gideon Rosenblatt
+guest: male
 ---
 
 When it comes to launching a new social network, proving a real need is tough these days. The *"all my friends are on Facebook"* refrain has proven largely insurmountable to Ello, Tsu, Diaspora, and some would even say Google. So why pay attention to a new social network like Synereo, especially when it hasn’t even been built yet?

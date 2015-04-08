@@ -2,32 +2,51 @@
 layout: default
 ---
 
-<div class="home">
+<div class="posts">
+  {% for post in paginator.posts %}
+    <div class="row post">
+      <div class="col-md-2">
+        <div class="post-date">
+          <span class="day">{{ post.date | date: "%-d" }}</span>
+          <span class="month-year">{{ post.date | date: "%b %Y" }}</span>
+        </div>
+      </div>
 
-  <h1 class="page-heading">Recent Posts</h1>
-
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+      <div class="col-md-8">
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        
+        {% if post.author %}
+        <div class="meta">
+          {% if post.guest %}
+          <img src="/img/team/guest-{{ post.guest }}.png">
+          {% else %}
+          <img src="/img/team/{{ post.author|slugify }}.jpg">
+          {% endif %}
+          <span>{{ post.author }}</span>
+        </div>
+        {% endif %}
+
+        {% if post.cover_image %}
+        <div class="cover">
+          <img src="{{ post.cover_image }}">
+        </div>
+        {% endif %}
+
         {{ post.content }}
-      </li>
-    {% endfor %}
-  </ul>
-
-  <div class="post-nav">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="prev">&laquo; Newer Posts</a>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Older Posts &raquo;</a>
-    {% endif %}
-  </div>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+      </div>
+    </div>
+  {% endfor %}
 </div>
+
+<div class="post-nav clearfix">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="prev">&laquo; Newer Posts</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Older Posts &raquo;</a>
+  {% endif %}
+</div>
+
+<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
