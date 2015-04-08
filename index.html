@@ -28,13 +28,15 @@ layout: default
         </div>
         {% endif %}
 
-        {% if post.cover_image %}
+        <!-- {% if post.cover_image %}
         <div class="cover">
           <img src="{{ post.cover_image }}">
         </div>
-        {% endif %}
+        {% endif %} -->
 
-        {{ post.content }}
+        <div class="content">
+          {{ post.content }}
+        </div>
       </div>
     </div>
   {% endfor %}

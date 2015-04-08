@@ -31,7 +31,6 @@ body {
             }
             div.meta {
                 color: #989898;
-                margin-bottom: 30px;
                 img {
                     height: 30px;
                     border-radius: 15px;
@@ -39,17 +38,20 @@ body {
                 }
             }
             div.cover {
+                margin-top: 40px;
                 img {
                     width: 100%;
                 }
+            }
+            div.content {
+                margin-top: 30px;
             }
         }
     }
 
     ul.post-share-buttons {
         list-style: none;
-        margin-top: 20px;
-        margin-bottom: 20px;
+        margin-top: 30px;
         padding-left: 0px;
         li {
             display: inline;
