@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Guest Post - Ed Eykholt - LivelyGig Adopts Synereo’s Technology Implementation
+title: LivelyGig Adopts Synereo’s Technology Implementation
 date: '2015-04-15 16:00:00 +0200'
 ---
 
@@ -11,6 +11,9 @@ decentralized and distributed employment market. I appreciate the
 invitation from the Synereo team to post on their blog. Let me tell
 you a bit more about LivelyGig, how we came to learn about Synereo,
 and how we look forward to working collaboratively with Synereo.
+
+[(Join us today, Wednesday 21:00 BST, in the Synereo Community Hangout to speak with Ed and
+the team about the collaboration.)](https://plus.google.com/u/0/b/109002904706315055045/events/c9oi6biisaghei9dt950p0imfsg)
 
 LivelyGig is an early-stage startup, and one of our driving
 motivations is to provide for better social interaction between the
