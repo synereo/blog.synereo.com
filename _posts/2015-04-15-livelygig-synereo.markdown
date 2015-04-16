@@ -61,16 +61,16 @@ These parallels that the LivelyGig team noticed in Synereo’s attention
 economy, social contracts, and interactions piqued our interest in
 Synereo’s technology stack, especially when compared with other
 available options for a distributed and decentralized
-infrastructure. Ed was impressed by how social interactions are
+infrastructure. I was impressed by how social interactions are
 modeled by software agent interactions in Synereo’s SpecialK
 architecture and how these interactions are directly reflected in the
 runtime implementation. Plus, SpecialK’s foundation in solid
 mathematics and recent demonstrations gave him confidence the solution
 will be successful, both for Synereo and for LivelyGig.
 
-Ed reached out to Lucius Greg Meredith, Synereo’s Chief Science
+I reached out to Lucius Greg Meredith, Synereo’s Chief Science
 Officer, to better understand Synereo. As the conversation evolved,
-both Ed and Greg realized the potential for collaboration. The rest of
+both Greg and I realized the potential for collaboration. The rest of
 the leadership team met and discovered that an employment market
 offering has been on Synereo’s product roadmap, along with other
 solutions requiring high-trust interaction.
