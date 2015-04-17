@@ -4,6 +4,7 @@ status: publish
 published: true
 title: Twitter Bounties
 date: '2015-04-17 16:00:00 +0200'
+author: Nicola Minichiello
 ---
 **[BOUNTY] Win 50,000 AMPs for Best Tweet - Ends April 22, 8:00PM GMT!**
 
@@ -32,8 +33,3 @@ AMPs will awarded after the end of our crowdsale. We will get in touch with the 
 We will be monitoring all submissions for the duration of the bounty. We will choose between the ones that stand out for their originality, creativity, and best feedback (i.e. retweets, quotes, etc). We'll also be retweeting and quoting the posts we like the most.
 
 Go wild!
-
-Nicola Minichiello ![image alt text](/img/uploads/nicolaminichiello_360.png){: style="float: right; max-height: 20%; max-width: 20%"}
-
-VP Marketing Communications
-
