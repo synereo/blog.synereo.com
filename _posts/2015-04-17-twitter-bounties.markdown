@@ -19,7 +19,7 @@ _Sample Tweet_: *Be part of the solution with [@Synereo](https://titter.com/Syne
 _Sample Tweet_: *You could soon have all your social networks and platforms in one, with [@Synereo](https://titter.com/Synereo)*. [#SyenereoMeme](https://twitter.com/search?q=%23SyenereoMeme&src=typd) (add your meme)               ![image alt text](/img/uploads/cube.png){: style="display: block; margin: 0 auto; max-height: 80%; max-width: 100%;"}
 3. **Synereo Haiku**: *nothing says it like / haiku, keep it lean and clean / @Synereo #SynereoKu*
 4. **Social Ops Week**: promote Synereo in any (respectable) way you can for a week. Use hashtag #SynereoOps.
-_Sample Tweet_: [@Synereo](https://titter.com/Synereo) is a social platform owned by the people who use it. [#SynereoOps](https://twitter.com/search?q=%23SynereoOps&src=typd)* #bitcoin*
+_Sample Tweet_: *[@Synereo](https://titter.com/Synereo) is a social platform owned by the people who use it. [#SynereoOps](https://twitter.com/search?q=%23SynereoOps&src=typd) #bitcoin*
 5. **Celebrity Hunt**: get the attention of an artist, musician, actor/actress, company, Bitcoin personality, etc. Tweet to your favourite celebrities to raise awareness of Synereo. Success weighs a lot when considering your submissions for the prize! Use hashtag #SynereoHunt.
 _Sample Tweet:_ *Would you like to be rewarded while sharing your content @celebrityname? On [@Synereo](https://titter.com/Synereo) you will.* [#SynereoHunt](https://twitter.com/search?q=%23SynereoHunt&src=typd)
 
