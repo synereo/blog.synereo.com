@@ -33,7 +33,7 @@ We will be monitoring all submissions for the duration of the bounty. We will ch
 
 Go wild!
 
-Nicola Minichiello
+Nicola Minichiello ![image alt text](/img/uploads/nicolaminichiello_360.png){: style="float: right; max-height: 20%; max-width: 20%"}
 
-VP Marketing Communications
+VP Marketing Communications
 
