@@ -3,13 +3,14 @@ layout: post
 status: publish
 published: true
 title: Synereo + Factom Announce Partnership
-date: '2015-04-17 12:00:00 +0200'
+date: '2015-04-18 15:00:00 +0200'
 author: Nicola Minichiello
 ---
 
 **London, UK and Tel-Aviv, Israel - April 17th, 2015**
 
-Today, [Synereo](http://synereo.com) and [Factom](http://factom.org) are proud to announce a new partnership. Synereo will be integrating Factom’s time stamped immutable ledger into Synereo’s decentralized social network platform.
+
+Today, [Synereo](http://synereo.com) and [Factom](http://factom.org) are proud to announce a new partnership. Synereo will be integrating Factom’s time stamped immutable ledger into Synereo’s decentralized social network platform.
 
 *"This is a great opportunity to use Factom's blockchain technology to build identity and reputation tools and explore new ways of looking at the attention economy. Synereo is building a fascinating smart social networking platform."* Peter Kirby, President of Factom, stated.
 
