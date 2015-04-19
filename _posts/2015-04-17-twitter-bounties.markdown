@@ -17,7 +17,7 @@ To be eligible, your Tweets need to contain both **@Synereo** and the hashtag fo
 1. **Find a Slogan for Synereo**: say it with a slogan. Tweet a short slogan for Synereo. Use the hashtag #SynereoSlogan.
 _Sample Tweet_: *Be part of the solution with [@Synereo](https://titter.com/Synereo)*. [#SynereoSlogan](https://twitter.com/search?q=%23SynereoSlogan&src=typd)
 2. **Best Synereo Meme**: Say it with a meme. Tweet a meme about Synereo. Use the hashtag #SynereoMeme.
-_Sample Tweet_: *You could soon have all your social networks and platforms in one, with [@Synereo](https://titter.com/Synereo)*. [#SyenereoMeme](https://twitter.com/search?q=%23SyenereoMeme&src=typd) (add your meme)               ![image alt text](/img/uploads/cube.png){: style="display: block; margin: 0 auto; max-height: 80%; max-width: 100%;"}
+_Sample Tweet_: *You could soon have all your social networks and platforms in one, with [@Synereo](https://titter.com/Synereo)*. [#SynereoMeme](https://twitter.com/search?q=%23SyenereoMeme&src=typd) (add your meme)               ![image alt text](/img/uploads/cube.png){: style="display: block; margin: 0 auto; max-height: 80%; max-width: 100%;"}
 3. **Synereo Haiku**: *nothing says it like / haiku, keep it lean and clean / @Synereo #SynereoKu*
 4. **Social Ops Week**: promote Synereo in any (respectable) way you can for a week. Use hashtag #SynereoOps.
 _Sample Tweet_: *[@Synereo](https://titter.com/Synereo) is a social platform owned by the people who use it. [#SynereoOps](https://twitter.com/search?q=%23SynereoOps&src=typd) #bitcoin*
