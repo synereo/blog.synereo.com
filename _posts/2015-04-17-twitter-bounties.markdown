@@ -34,5 +34,5 @@ We will be monitoring all submissions for the duration of the bounty. We will ch
 
 Go wild!
 
-Nicola Minichiello
+Nicola Minichiello<br>
 VP Marketing Communications, Synereo
