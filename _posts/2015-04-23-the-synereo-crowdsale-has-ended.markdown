@@ -7,8 +7,6 @@ date: '2015-04-23 17:00:00 +0200'
 author: Nicola Minichiello
 ---
 
-**The Synereo Crowdsale Has ended**
-
 The Synereo crowdsale has now ended. We want to thank each one of the contributors who have supported us. We also would like to tell you what’s next.
 
 **Crowdsale End Date and Time**
