@@ -33,3 +33,6 @@ AMPs will awarded after the end of our crowdsale. We will get in touch with the 
 We will be monitoring all submissions for the duration of the bounty. We will choose between the ones that stand out for their originality, creativity, and best feedback (i.e. retweets, quotes, etc). We'll also be retweeting and quoting the posts we like the most.
 
 Go wild!
+
+Nicola Minichiello
+VP Marketing Communications, Synereo
