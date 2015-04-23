@@ -12,6 +12,7 @@ author: Nicola Minichiello
 The Synereo crowdsale has now ended. We want to thank each one of the contributors who have supported us. We also would like to tell you what’s next.
 
 **Crowdsale End Date and Time**
+
 The crowdsale end date and time was set for 20:00 UTC but we did receive contributions after that time. Therefore, we will honor any transaction that came in the following 24 hours, up until 20:00 UTC on April 23rd. Also note that we have several pending wire transfers that were initiated during the crowdsale but have not cleared yet, so the total amount of AMPs purchased will take a few days to finalize.
 
 **Total Amount of AMPs Purchased**
@@ -20,10 +21,12 @@ As previously stated once all BTC contributions and wire transfers are cleared a
 
 
 **AMPs Distribution**
+
 AMPs will be distributed at once within 2 weeks of the crowdsale end. As AMPs are an Omni asset we strongly recommend using [https://omniwallet.org](https://omniwallet.org). If you have contributed to the crowdsale using Omniwallet there is nothing else you should do. If you have used a personal or online wallet where you control the private key - as advised on the crowdsale page - we suggest you import your contribution address into Omniwallet; there you will be able to see your balance and transfer your AMPs when needed. If you prefer to keep your coins in your personal or online wallet you can do so but you won’t be able to transfer your coins to another wallet or an exchange. In this case you will only be able to see your balance by using Omni’s block explorer: [https://masterchest.org](https://masterchest.org). However, if your intention is to hold AMPs until the Synereo network goes live you will be able to transfer them directly into your Synereo wallet at launch. This will apply to Omniwallet as well as your local/online BTC address, so long as you are in control of its private key.
 
 
 **Destroying Unsold AMPs**
+
 We will be destroying the unsold AMPs after we have determined the difference between the maximum, 184,800,000 AMPs - that were available for sale - minus the total amount purchased. 
 
 **Exchanges**
