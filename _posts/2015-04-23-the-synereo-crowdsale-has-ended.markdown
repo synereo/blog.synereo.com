@@ -17,11 +17,9 @@ The crowdsale end date and time was set for 20:00 UTC but we did receive contrib
 
 As previously stated once all BTC contributions and wire transfers are cleared and accounted for we will release the total amount of AMPs purchased during the crowdsale.
 
-
 **AMPs Distribution**
 
-AMPs will be distributed at once within 2 weeks of the crowdsale end. As AMPs are an Omni asset we strongly recommend using [https://omniwallet.org](https://omniwallet.org). If you have contributed to the crowdsale using Omniwallet there is nothing else you should do. If you have used a personal or online wallet where you control the private key - as advised on the crowdsale page - we suggest you import your contribution address into Omniwallet; there you will be able to see your balance and transfer your AMPs when needed. If you prefer to keep your coins in your personal or online wallet you can do so but you won’t be able to transfer your coins to another wallet or an exchange. In this case you will only be able to see your balance by using Omni’s block explorer: [https://masterchest.org](https://masterchest.org). However, if your intention is to hold AMPs until the Synereo network goes live you will be able to transfer them directly into your Synereo wallet at launch. This will apply to Omniwallet as well as your local/online BTC address, so long as you are in control of its private key.
-
+AMPs will be distributed at once within 2 weeks of the crowdsale end. As AMPs are an Omni asset we strongly recommend using [https://omniwallet.org](https://omniwallet.org). If you have contributed to the crowdsale using Omniwallet there is nothing else you should do. However, if your intention is to hold AMPs until the Synereo network goes live you will be able to transfer them directly into your Synereo wallet at launch. This will apply to Omniwallet as well as your local/online BTC address, so long as you are in control of its private key. If you have used a personal or online wallet where you control the private key - as advised on the crowdsale page - we suggest you import your contribution address into Omniwallet; there you will be able to see your balance and transfer your AMPs when needed. If you prefer to keep your coins in your personal or online wallet you can do so but you won’t be able to transfer your coins to another wallet or an exchange. In this case you will only be able to see your balance by using Omni’s block explorer: [https://omnichest.info](http://omnichest.info). 
 
 **Destroying Unsold AMPs**
 
