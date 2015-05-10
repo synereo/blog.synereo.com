@@ -11,6 +11,8 @@ Dear Synereo supporters,
 
 The team has been working hard to deliver all AMPs purchased during the crowdsale. And as most of your have noticed by now - AMPs are here! 
 
+![AMP](/img/uploads/amp.png){: style="width: 100px; margin: 0 auto; display: block;" }
+
 We would like to take this opportunity and thank each and every one of our supporters again for believing in Synereo’s vision, team and technology.
 
 * Total USD raised: $126,023
