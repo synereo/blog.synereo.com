@@ -71,7 +71,7 @@ I will follow the original course of action committed by the Synereo team, and w
 
 We have now finished the distribution of additional AMPs to all wallets belonging to users who participated in the crowdsale, and will soon issue tokens to all other wallets to finalize the allocation as per the logic described above. As always, all information about these wallets is completely transparent and available here:
 
-#### [Existing Wallets:](http://omnichest.info/lookupsp.aspx?sp=39)
+##### [Existing Wallets:](http://omnichest.info/lookupsp.aspx?sp=39)
 
 * [Crowdsale Wallet](http://omnichest.info/lookupadd.aspx?address=3Q7T1ES6atTpeSid3w17HS3eEsHbhQC9jf) 
 
@@ -85,7 +85,7 @@ We have now finished the distribution of additional AMPs to all wallets belongin
 
 * [Future Funding Wallet](http://omnichest.info/lookupadd.aspx?address=34MWvp1xfxaaqXENxWW45uqDfuNY9f8hr2) 
 
-*Transparency is key. *We will be happy to answer any question you may have regarding the AMP distribution process so that you are satisfied with the solution we’ve implemented.
+*Transparency is key.* We will be happy to answer any question you may have regarding the AMP distribution process so that you are satisfied with the solution we’ve implemented.
 
 We are happy to have you with us.<br>
 
@@ -95,7 +95,7 @@ The Synereo Team
 
 ###P.S.
 
-####Here's what happened
+**Here's what happened**
 
 After testing 5 mini txns which worked correctly, we ran 5 of our actual txn's, which also worked correctly. We then ran:
 
@@ -119,7 +119,7 @@ We cut our script into two smaller batches from the point where we believed the 
 
 We launched the first of the smaller batches and noticed we were beginning to get insufficient funds errors, that's when we discovered the double payouts, and stopped the whole process to figure out what was going on.
 
-####Here's our analysis
+**Here's our analysis**
 
 Since we never ran the second of the smaller batches, but we confirmed txn's in the blockchain addresses in the second of the smaller batches, what must have happened is the script process kept running even though the screen process died.
 
@@ -129,7 +129,7 @@ Then, the mastercored server logs must have been behind in being updated so that
 
 So, when we restarted we restarted from where we believed it had failed, those txn's were already in flight.
 
-####Here's what we did in response
+**Here's what we did in response**
 
 We have run two independent calculations to make sure we know exactly who was double paid - because we needn't pay them any more AMPs at all.
 
