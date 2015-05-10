@@ -87,7 +87,9 @@ We have now finished the distribution of additional AMPs to all wallets belongin
 
 *Transparency is key. *We will be happy to answer any question you may have regarding the AMP distribution process so that you are satisfied with the solution we’ve implemented.
 
-We are happy to have you with us.<br>The Synereo Team
+We are happy to have you with us.<br>
+
+The Synereo Team
 
 *Be Part of the Solution*<br>
 
@@ -127,7 +129,7 @@ Then, the mastercored server logs must have been behind in being updated so that
 
 So, when we restarted we restarted from where we believed it had failed, those txn's were already in flight.
 
-###Here's what we did in response**
+###Here's what we did in response
 
 We have run two independent calculations to make sure we know exactly who was double paid - because we needn't pay them any more AMPs at all.
 
