@@ -85,6 +85,8 @@ We have now finished the distribution of additional AMPs to all wallets belongin
 
 We are happy to have you with us.
 
+<br>
+
 The Synereo Team
 
 *Be Part of the Solution*
