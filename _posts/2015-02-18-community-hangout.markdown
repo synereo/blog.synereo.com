@@ -5,7 +5,7 @@ date: '2015-02-18 14:00:00 +0200'
 ---
 We’re hosting a community hangout today, February 18th, at 21:00 GMT. We're going to talk about content creation and distribution on Synereo, where artists will be able to take complete control over how they express themselves and enjoy a direct line to their fans, present and future. 
 
-![Party Music Hangout](/img/uploads/party-hangout.jpg){: style="float: left; height: 450px; margin-right: 15px;"}
+![Party Music Hangout](/img/uploads/party-hangout.jpg){: style="float: left; height: 450px; width: 250px; margin-right: 15px;"}
  
 Joining us are our advisory board member, Matt Black ([Coldcut](https://www.facebook.com/coldcutofficial), [Ninja Tune](https://www.facebook.com/ninjatuneofficial)) and [DJ Oil](https://www.facebook.com/djoil13).
 
