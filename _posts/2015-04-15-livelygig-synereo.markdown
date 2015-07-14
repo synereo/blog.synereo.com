@@ -4,6 +4,9 @@ status: publish
 published: true
 title: LivelyGig Adopts Synereo’s Technology Implementation
 date: '2015-04-15 16:00:00 +0200'
+author: Ed Eykholt
+guest: male
+
 ---
 
 Hi, I’m Ed Eykholt, Founder and CEO of LivelyGig. We are building a
