@@ -13,6 +13,8 @@ Follow Synereo [CSO @leithaus](https://twitter.com/leithaus) to get real time up
 
 ![image alt text](img/uploads/ethereum_dev_grant_tweet.jpg){: style="float: left; margin-right: 15px;"}
 
+<br>
+
 ### Synereo has recently received a developer grant from Ethereum
 
 Maybe you’ve even seen [the recent slide deck](https://github.com/leithaus/casper/blob/master/casper/docs/CasperInteraction.pdf). But what does it mean? How can Ethereum and Synereo be collaborating? What’s going on?
@@ -22,6 +24,8 @@ As we mentioned previously, Synereo’s entire backend is built on [a distribute
 Meanwhile, Ethereum is hard at work on a very cool [proof-of-stake protocol](http://www.slideshare.net/_hd/demystifying-blockchains) they call Casper. After reading Vlad Zamfir’s paper about Casper i was really excited to help make this happen, and i knew we had the technology to do that! (Btw, [Vlad also did some very Synereo-like work on Ethereum in the past](https://www.youtube.com/watch?v=vGTd1Bi7Jrc.))
 
 ![image alt text](img/uploads/casper_the_friendly_ghost.png){: style="float: left; margin-right: 15px;width: 80px;"}
+
+<br>
 
 ### The method
 
