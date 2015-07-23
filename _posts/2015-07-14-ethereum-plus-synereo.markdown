@@ -35,13 +35,10 @@ However, as we discussed [in our white paper](http://www.synereo.com/whitepapers
 
 We can also turn those into a format that we can feed into the [spatial logic model checker](http://ctp.di.fct.unl.pt/SLMC/) to check the protocol for a variety of properties, such as availability under network partition, and effectively prove the protocol correct.  
 
-Additionally, we can also turn the interaction diagrams into a format that we can feed into [the stochastic π-machine](http://research.microsoft.com/en-us/projects/spim/) to investigate how Casper performs under various load conditions. 
+Additionally, we can also turn the interaction diagrams into a format that we can feed into [the stochastic π-machine](http://research.microsoft.com/en-us/projects/spim/) to investigate how Casper performs under various load conditions.
 
 We figure this ought to really help understand Casper. Understanding of this kind for a protocol potentially this sensitive is vital. Blockchain technology is exciting. The potential is enormous, and no one wants this technology to succeed more than the Synereo team. We also have to be realistic: there’s a huge risk in putting global scale financial dependencies on these new technologies. That’s why we want to help Ethereum. 
 
 ### The big(ger) picture
 
 This is also what we’re doing for all of Synereo’s protocols, such as the Reo calculation, and all the other protocols involved in the attention economy. [LivelyGig](http://blog.synereo.com/2015/04/15/livelygig-synereo/) is taking this same route. We’re doing the same for their gig-making and escrow protocols. In a decentralized world, it’s all about the protocol, baby. ;-)
-
-![image alt text](img/uploads/royal_wedding.png){: style="float: left; margin-right: 15px;max-height: 60%;"}
-
