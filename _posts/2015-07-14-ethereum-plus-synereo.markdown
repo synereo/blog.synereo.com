@@ -13,7 +13,7 @@ Follow Synereo [CSO @leithaus](https://twitter.com/leithaus) to get real time up
 
 ![Tweet](img/uploads/ethereum_dev_grant_tweet.jpg){: style="width: 100px; margin: auto; display: block;" }
 
-<br>
+<hr>
 
 ### Synereo has recently received a developer grant from Ethereum
 
