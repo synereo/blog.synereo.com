@@ -6,13 +6,13 @@ title: Ethereum+Synereo=<3
 date: '2015-07-23 2:37:02 +0200'
 author: Greg Meredith
 ---
+
 *TL;DR:* We’re using Synereo tech to help Ethereum flesh out their new Proof-of-Stake mechanism. 
 Using our distributed protocol machine, we can create an implementation of the Ethereum protocol that we then run distributedly to probe and prod for possible issues. We can check what happens under load, when the network partitions, and effectively prove the protocol correct.  
 
 Follow Synereo [CSO @leithaus](https://twitter.com/leithaus) to get real time updates on our progress and follow the development process as we interact with Etherium’s tech and team.
 
-![image alt text](img/uploads/ethereum_dev_grant_tweet.jpg){: style="float: left; margin-right: 15px;"}
-
+![image alt text](/img/uploads/ethereum_dev_grant_tweet.jpg)
 
 ### Synereo has recently received a developer grant from Ethereum
 
@@ -22,7 +22,7 @@ As we mentioned previously, Synereo’s entire backend is built on [a distribute
 
 Meanwhile, Ethereum is hard at work on a very cool [proof-of-stake protocol](http://www.slideshare.net/_hd/demystifying-blockchains) they call Casper. After reading Vlad Zamfir’s paper about Casper i was really excited to help make this happen, and i knew we had the technology to do that! (Btw, [Vlad also did some very Synereo-like work on Ethereum in the past](https://www.youtube.com/watch?v=vGTd1Bi7Jrc.))
 
-![image alt text](img/uploads/casper_the_friendly_ghost.png){: style="float: left; margin-right: 15px;width: 80px;"}
+![image alt text](/img/uploads/casper_the_friendly_ghost.png){: style="width: 80px"}
 
 
 ### The method
