@@ -11,7 +11,7 @@ Using our distributed protocol machine, we can create an implementation of the E
 
 Follow Synereo [CSO @leithaus](https://twitter.com/leithaus) to get real time updates on our progress and follow the development process as we interact with Etherium’s tech and team.
 
-![image alt text](img/uploads/ethereum_dev_grant_tweet.jpg){: style="width: 100px; margin: 0 auto; display: block;" }
+![Tweet](img/uploads/ethereum_dev_grant_tweet.jpg){: style="width: 100px; margin: auto; display: block;" }
 
 <br>
 
@@ -23,7 +23,7 @@ As we mentioned previously, Synereo’s entire backend is built on [a distribute
 
 Meanwhile, Ethereum is hard at work on a very cool [proof-of-stake protocol](http://www.slideshare.net/_hd/demystifying-blockchains) they call Casper. After reading Vlad Zamfir’s paper about Casper i was really excited to help make this happen, and i knew we had the technology to do that! (Btw, [Vlad also did some very Synereo-like work on Ethereum in the past](https://www.youtube.com/watch?v=vGTd1Bi7Jrc.))
 
-![image alt text](img/uploads/casper_the_friendly_ghost.png){: style="width: 100px; margin: 0 auto; display: block;" }
+![Casper](img/uploads/casper_the_friendly_ghost.png){: style="width: 100px; margin: auto; display: block;" }
 
 <br>
 
