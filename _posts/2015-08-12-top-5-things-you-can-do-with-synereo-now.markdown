@@ -6,11 +6,11 @@ title: Top 5 Things You Can Do With Synereo NOW
 date: '2015-08-12 08:00:00 +0200'
 author: Nicola Minichiello
 ---
-The most common questions we get asked are "When are you shipping?"  and “when can I start playing with the bits?”.
+The most common questions we get asked are "When are you shipping?" And “when can I start playing with the bits?”.
 
 The short answer is - we’ve shipped, and you can deploy nodes and work on developing decentralized apps using Synereo’s P2P stack RIGHT NOW. 
 
-![image alt text](/img/uploads/aws.png)
+![image alt text](/img/uploads/aws.png){: style="width: 80px"}
 
 ### How do you get started?
 
@@ -18,7 +18,7 @@ We already have a poor man’s one click install as an [AMI](http://docs.aws.ama
 
 This process will become even easier as we plan on releasing a Docker-based one-click deployment package in just a few short weeks. Until then, Dockerfile development can be followed [on the synereo/dockerfiles Github repo](http://github.com/synereo/dockerfiles).
 
-![image alt text](/img/uploads/docker.jpg)
+![image alt text](/img/uploads/docker.jpg){: style="width: 80px"}
 
 ### So, what can you actually do?
 
@@ -34,7 +34,7 @@ This process will become even easier as we plan on releasing a Docker-based one-
 
 * If you share the machine instance IP or have a name service for it, you can invite users to your node
 
-![image alt text](/img/uploads/scala.jpg)
+![image alt text](/img/uploads/scala.jpg){: style="width: 80px"}
 
 **2.** **You can connect nodes together**
 
