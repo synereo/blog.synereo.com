@@ -14,7 +14,7 @@ The short answer is - we’ve shipped, and you can deploy nodes and work on deve
 
 ### How do you get started?
 
-We already have a poor man’s one click install as an [AMI](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html). If you want to play with one, [send us ](mailto:hello@synereo.com)your Amazon account # and we’ll give you access to the AMI so you can get started. 
+We already have a poor man’s one click install as an [AMI](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html). If you want to play with one, [send us](mailto:hello@synereo.com) your Amazon Web Services (AWS) account # and we’ll give you access to the AMI so you can get started. 
 
 This process will become even easier as we plan on releasing a Docker-based one-click deployment package in just a few short weeks. Until then, Dockerfile development can be followed [on the synereo/dockerfiles Github repo](http://github.com/synereo/dockerfiles).
 
