@@ -10,7 +10,7 @@ The most common questions we get asked are "When are you shipping?" And “when 
 
 The short answer is - we’ve shipped, and you can deploy nodes and work on developing decentralized apps using Synereo’s P2P stack RIGHT NOW. 
 
-![image alt text](/img/uploads/aws.png){: style="width: 80px"}
+![image alt text](/img/uploads/aws.png){: style="width: 120px"}
 
 ### How do you get started?
 
@@ -18,7 +18,7 @@ We already have a poor man’s one click install as an [AMI](http://docs.aws.ama
 
 This process will become even easier as we plan on releasing a Docker-based one-click deployment package in just a few short weeks. Until then, Dockerfile development can be followed [on the synereo/dockerfiles Github repo](http://github.com/synereo/dockerfiles).
 
-![image alt text](/img/uploads/docker.jpg){: style="width: 80px"}
+![image alt text](/img/uploads/docker.jpg){: style="width: 120px"}
 
 ### So, what can you actually do?
 
@@ -34,7 +34,7 @@ This process will become even easier as we plan on releasing a Docker-based one-
 
 * If you share the machine instance IP or have a name service for it, you can invite users to your node
 
-![image alt text](/img/uploads/scala.jpg){: style="width: 80px"}
+![image alt text](/img/uploads/scala.jpg){: style="width: 120px"}
 
 **2.** **You can connect nodes together**
 
