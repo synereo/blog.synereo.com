@@ -6,8 +6,6 @@ title: Top 5 Things You Can Do With Synereo NOW
 date: '2015-08-12 08:00:00 +0200'
 author: Nicola Minichiello
 ---
-##Top 5 Things You Can Do With Synereo NOW
-
 The most common questions we get asked are "When are you shipping?"  and “when can I start playing with the bits?”.
 
 The short answer is - we’ve shipped, and you can deploy nodes and work on developing decentralized apps using Synereo’s P2P stack RIGHT NOW. 
