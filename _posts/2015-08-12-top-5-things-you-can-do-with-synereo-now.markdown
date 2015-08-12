@@ -24,7 +24,7 @@ This process will become even easier as we plan on releasing a Docker-based one-
 
 ### So, what can you actually do?
 
-**1. ****You can set up a node** and interact with it both programmatically and via our UI.
+**1.** **You can set up a node** and interact with it both programmatically and via our UI.
 
 * Take a look at [this blog post](http://blog.synereo.com/2015/03/17/specialk-kvdb/) to see more about the Scala language binding
 
@@ -38,11 +38,11 @@ This process will become even easier as we plan on releasing a Docker-based one-
 
 ![image alt text](/img/uploads/scala.jpg)
 
-**2. **** You can connect nodes together**
+**2.** **You can connect nodes together**
 
 * Right now, this involves modifying config files. If you want to do this, [let us know](http://slack.synereo.com) and we’ll explain the config file format to you -- the first one to document this process well gets a 15000 AMP bounty!
 
-**3.** **Build new, amazing, decentralized apps. **All of the information and media can be uploaded and hosted on the distributed network. The app can operate without relying on any type of central server or authority.
+**3.** **Build new, amazing, decentralized apps.** All of the information and media can be uploaded and hosted on the distributed network. The app can operate without relying on any type of central server or authority.
 
 * Want to build a new decentralized, distributed marketplace? This stack was made for that!
 
@@ -50,13 +50,13 @@ This process will become even easier as we plan on releasing a Docker-based one-
 
 ![image alt text](/img/uploads/gui.jpg)
 
-**4.** **Change the UI **
+**4.** **Change the UI**
 
 * Don’t like the look and feel of the Synereo UI? Change it! Break it! Make it better.
 
 * We would love to hear what you did. If you come up with a good front-end design, we’ll pay bounties for that as well. (Join our [weekly community hangouts](https://www.facebook.com/events/842771732478375/) to get a feel of the UI we’re building in-house.)
 
-**5. ****You can hack. You SHOULD hack.**
+**5.** **You can hack. You SHOULD hack.**
 
 * The [GLoSEval API](https://github.com/synereo/gloseval) is just one of many, feel free to make up your own
 
