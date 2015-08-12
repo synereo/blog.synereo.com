@@ -12,9 +12,9 @@ The most common questions we get asked are "When are you shipping?"  and “when
 
 The short answer is - we’ve shipped, and you can deploy nodes and work on developing decentralized apps using Synereo’s P2P stack RIGHT NOW. 
 
-![image alt text](/img/uploads/aws.jpg)
+![image alt text](/img/uploads/aws.png)
 
-## How do you get started?
+### How do you get started?
 
 We already have a poor man’s one click install as an [AMI](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html). If you want to play with one, [send us ](mailto:hello@synereo.com)your Amazon account # and we’ll give you access to the AMI so you can get started. 
 
@@ -22,7 +22,7 @@ This process will become even easier as we plan on releasing a Docker-based one-
 
 ![image alt text](/img/uploads/docker.jpg)
 
-## So, what can you actually do?
+### So, what can you actually do?
 
 **1. ****You can set up a node** and interact with it both programmatically and via our UI.
 
