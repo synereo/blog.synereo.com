@@ -16,8 +16,8 @@ The short answer is - we’ve shipped, and you can deploy nodes and work on deve
 
 We already have a poor man’s one click install as an Amazon Machine Image, [AMI](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html). Using an AMI, you can now set up your own Synereo node without having to download and install or build anything on your computer. If you have an Amazon account, these are the details for setting up a Synereo node:
 
-* Region: USWest (Oregon) region of AWS.
-* Image name: SynereoDemoNode.
+* Region: USWest (Oregon) region of AWS
+* Image name: SynereoDemoNode
 * Image ID: ami-6fae845f
 
 Just point and click it and you're good to go.
