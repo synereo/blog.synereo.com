@@ -82,17 +82,17 @@ See details here:[ https://bitcointalk.org/index.php?topic=995987.0](https://bit
 
 On November 17th, 2015[ MasterXChange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to[ Omniwallet](https://omniwallet.org/) before that time. There is no need to register; you can simply click "Create a Wallet" on the top right of the home page, fill in a password, and click the “Create Wallet” button.
 
-![createwallet.png](/img/uploads/createwallet.png){: style="width: 400px; display: block; margin: 0 auto;"}
+![createwallet.png](/img/uploads/createwallet.png){: style="width: 400px;"}
 
 Take note of your Wallet ID and the quick login URL as you will need these to login next time. On Omniwallet, you have the option to backup your wallet and we strongly recommend doing so for peace of mind.
 
 Click on "My addresses" on the left hand side:
 
-![addresses.png](/img/uploads/addresses.png){: style="width: 157px; display: block; margin: 0 auto;"}
+![addresses.png](/img/uploads/addresses.png){: style="width: 157px;"}
 
 You will see a "Wallet Options" button on top of the address list:
 
-![backupwallet.png](/img/uploads/backupwallet.png){: style="width: 218px; display: block; margin: 0 auto;"}
+![backupwallet.png](/img/uploads/backupwallet.png){: style="width: 218px;"}
 
 Select "Backup Wallet" and you will be able to download a .json file with your private keys and addresses. The filename will include your Wallet ID. Keep this file safe, you will always be able to import your wallet in Omniwallet if any issue arises.
 
