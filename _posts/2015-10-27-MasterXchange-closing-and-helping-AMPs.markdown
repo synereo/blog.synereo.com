@@ -80,7 +80,7 @@ See details here:[ https://bitcointalk.org/index.php?topic=995987.0](https://bit
 
 ### Withdrawing AMPs to Omniwallet
 
-On November 17th, 2015[ MasterXchange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to [Omniwallet](https://omniwallet.org/) before that time. There is no need to register; you can simply click "Create a Wallet" on the top right of the home page, fill in a password, and click the “Create Wallet” button.
+On November 17th, 2015 [MasterXchange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to [Omniwallet](https://omniwallet.org/) before that time. There is no need to register; you can simply click "Create a Wallet" on the top right of the home page, fill in a password, and click the “Create Wallet” button.
 
 ![createwallet.png](/img/uploads/createwallet.png){: style="width: 400px;"}
 
