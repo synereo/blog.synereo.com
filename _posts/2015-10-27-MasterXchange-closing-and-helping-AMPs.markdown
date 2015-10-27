@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: MasterXChange closing and helping AMPs get listed on new exchanges
+title: MasterXchange closing and helping AMPs get listed on new exchanges
 date: '2015-10-27 08:00:00 +0200'
 author: Nicola Minichiello
 ---
@@ -80,7 +80,7 @@ See details here:[ https://bitcointalk.org/index.php?topic=995987.0](https://bit
 
 ### Withdrawing AMPs to Omniwallet
 
-On November 17th, 2015[ MasterXChange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to[ Omniwallet](https://omniwallet.org/) before that time. There is no need to register; you can simply click "Create a Wallet" on the top right of the home page, fill in a password, and click the “Create Wallet” button.
+On November 17th, 2015[ MasterXchange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to [Omniwallet](https://omniwallet.org/) before that time. There is no need to register; you can simply click "Create a Wallet" on the top right of the home page, fill in a password, and click the “Create Wallet” button.
 
 ![createwallet.png](/img/uploads/createwallet.png){: style="width: 400px;"}
 
@@ -96,7 +96,7 @@ You will see a "Wallet Options" button on top of the address list:
 
 Select "Backup Wallet" and you will be able to download a .json file with your private keys and addresses. The filename will include your Wallet ID. Keep this file safe, you will always be able to import your wallet in Omniwallet if any issue arises.
 
-To transfer coins from MasterXChange to Omniwallet simply send them to one of the Bitcoin Addresses shown in your Omniwallet.
+To transfer coins from MasterXchange to Omniwallet simply send them to one of the Bitcoin Addresses shown in your Omniwallet.
 
 <BR>
 
