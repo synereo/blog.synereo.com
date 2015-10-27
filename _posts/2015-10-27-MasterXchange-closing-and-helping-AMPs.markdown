@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: MasterXchange closing and helping AMPs get listed on new exchanges
+title: MasterXChange closing and helping AMPs get listed on new exchanges
 date: '2015-10-27 08:00:00 +0200'
 author: Nicola Minichiello
 ---
@@ -46,11 +46,11 @@ Synereo’s coin, the AMP, is a unique [cryptocurrency with an inherent value](h
 
 	- [http://www.synereo.com/](http://www.synereo.com/)
 
+	
+	- [http://blog.synereo.com/](http://blog.synereo.com/)
+
 
 	- [https://www.facebook.com/synereo](https://www.facebook.com/synereo)
-
-
-	- [http://blog.synereo.com/](http://blog.synereo.com/)
 
 
 	- [https://twitter.com/Synereo](https://twitter.com/Synereo)
