@@ -70,7 +70,7 @@ Synereo’s coin, the AMP, is a unique [cryptocurrency with an inherent value](h
 
 * Tech demo:[ https://www.youtube.com/watch?v=pswRWPDzq6I](https://www.youtube.com/watch?v=pswRWPDzq6I) 
 
-* What is the concept behind your coin? See details here:[https://bitcointalk.org/index.php?topic=995987.0](https://bitcointalk.org/index.php?topic=995987.0)
+* What is the concept behind your coin? See details here: [https://bitcointalk.org/index.php?topic=995987.0](https://bitcointalk.org/index.php?topic=995987.0)
 
 ### Withdrawing AMPs to Omniwallet
 
