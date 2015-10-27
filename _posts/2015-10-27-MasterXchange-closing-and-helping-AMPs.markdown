@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: MasterXchange closing and helping AMPs get listed on new exchanges
+title: MasterXchange closing and helping AMP get listed on new exchanges
 date: '2015-10-27 08:00:00 +0200'
 author: Nicola Minichiello
 ---
@@ -10,9 +10,7 @@ author: Nicola Minichiello
 
 In the meantime, we want to get AMPs listed on standard exchanges. The following exchanges only list coins if they see a demand for them, and *this is where you come in*. The more these exchanges see interest by way of community requests, the more likely they are to list our tokens.
 
-To make it all easy, here’s the information you can simply copy-paste into their forms:
-
-Feel free to edit the information as you wish - it will help show your genuine interest. 
+To make it all easy, here’s the information you can simply copy-paste into their forms. Feel free to edit the information as you wish - it will help show your genuine interest. 
 
 **Exchanges coin request forms**
 
@@ -67,16 +65,12 @@ Synereo’s coin, the AMP, is a unique [cryptocurrency with an inherent value](h
 
 	- [https://bitcointalk.org/index.php?topic=995987.0](https://bitcointalk.org/index.php?topic=995987.0)
 
-**Optional information that heavily influences us**
 
 * Proof of dev:  Synereo’s technology has been in development for five years and is already in commercial use. We have partners already building their applications on top of our platform.
 
 * Tech demo:[ https://www.youtube.com/watch?v=pswRWPDzq6I](https://www.youtube.com/watch?v=pswRWPDzq6I) 
 
-**Information about your coin**  
-
-* What is the concept behind your coin? 
-See details here:[ https://bitcointalk.org/index.php?topic=995987.0](https://bitcointalk.org/index.php?topic=995987.0)
+* What is the concept behind your coin? See details here:[https://bitcointalk.org/index.php?topic=995987.0](https://bitcointalk.org/index.php?topic=995987.0)
 
 ### Withdrawing AMPs to Omniwallet
 
