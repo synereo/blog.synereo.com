@@ -46,13 +46,26 @@ Synereo’s coin, the AMP, is a unique [cryptocurrency with an inherent value](h
 
 	- [http://www.synereo.com/](http://www.synereo.com/)
 
-	- [https://www.facebook.com/synereo](https://www.facebook.com/synereo)
-	- [http://blog.synereo.com/](http://blog.synereo.com/)
-	- [https://twitter.com/Synereo](https://twitter.com/Synereo)
-	- [http://www.reddit.com/r/Synereo](http://www.reddit.com/r/Synereo)
-	- [https://www.youtube.com/channel/UCU5CBbxAeFYnodf32w3ahOQ](https://www.youtube.com/channel/UCU5CBbxAeFYnodf32w3ahOQ)
-	- [https://plus.google.com/u/1/+Synereo/posts](https://plus.google.com/u/1/+Synereo/posts)
-	- [https://bitcointalk.org/index.php?topic=995987.0](https://bitcointalk.org/index.php?topic=995987.0)
+
+	- [https://www.facebook.com/synereo](https://www.facebook.com/synereo)
+
+
+	- [http://blog.synereo.com/](http://blog.synereo.com/)
+
+
+	- [https://twitter.com/Synereo](https://twitter.com/Synereo)
+
+
+	- [http://www.reddit.com/r/Synereo](http://www.reddit.com/r/Synereo)
+
+
+	- [https://www.youtube.com/channel/UCU5CBbxAeFYnodf32w3ahOQ](https://www.youtube.com/channel/UCU5CBbxAeFYnodf32w3ahOQ)
+
+
+	- [https://plus.google.com/u/1/+Synereo/posts](https://plus.google.com/u/1/+Synereo/posts)
+
+
+	- [https://bitcointalk.org/index.php?topic=995987.0](https://bitcointalk.org/index.php?topic=995987.0)
 
 **Optional information that heavily influences us**
 
@@ -62,25 +75,28 @@ Synereo’s coin, the AMP, is a unique [cryptocurrency with an inherent value](h
 
 **Information about your coin**  
 
-* What is the concept behind your coin? See details here:[ https://bitcointalk.org/index.php?topic=995987.0](https://bitcointalk.org/index.php?topic=995987.0)
+* What is the concept behind your coin? 
+See details here:[ https://bitcointalk.org/index.php?topic=995987.0](https://bitcointalk.org/index.php?topic=995987.0)
 
 ### Withdrawing AMPs to Omniwallet
 
 On November 17th, 2015[ MasterXChange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to[ Omniwallet](https://omniwallet.org/) before that time. There is no need to register; you can simply click "Create a Wallet" on the top right of the home page, fill in a password, and click the “Create Wallet” button.
 
-![createwallet.png](/img/uploads/createwallet.png)
+![createwallet.png](/img/uploads/createwallet.png){: style="width: 400px; display: block; margin: 0 auto;"}
 
 Take note of your Wallet ID and the quick login URL as you will need these to login next time. On Omniwallet, you have the option to backup your wallet and we strongly recommend doing so for peace of mind.
 
 Click on "My addresses" on the left hand side:
 
-![addresses.png](/img/uploads/addresses.png)
+![addresses.png](/img/uploads/addresses.png){: style="width: 157px; display: block; margin: 0 auto;"}
 
 You will see a "Wallet Options" button on top of the address list:
 
-![backupwallet.png](/img/uploads/backupwallet.png)
+![backupwallet.png](/img/uploads/backupwallet.png){: style="width: 218px; display: block; margin: 0 auto;"}
 
-Select "Backup Wallet" and you will be able to download a .json file with your private keys and addresses. The filename will include your Wallet ID. Keep this file safe, you will always be able to import your wallet in Omniwallet if any issue arises.To transfer coins from MasterXChange to Omniwallet simply send them to one of the Bitcoin Addresses shown in your Omniwallet.
+Select "Backup Wallet" and you will be able to download a .json file with your private keys and addresses. The filename will include your Wallet ID. Keep this file safe, you will always be able to import your wallet in Omniwallet if any issue arises.
+
+To transfer coins from MasterXChange to Omniwallet simply send them to one of the Bitcoin Addresses shown in your Omniwallet.
 
 <BR>
 
