@@ -20,7 +20,7 @@ Work on both the design and bits of the frontend advanced.
 
 ### Frontend / Tech Update
 
-![image alt text](/img/uploads/mockup.png){: style="width: 500px;"}
+![image alt text](/img/uploads/guimockup.png){: style="width: 500px;"}
 
 *The sketch above is one of the first ones our new designer produced for our UI refresh. We’re pushing to make the parts people are used to very standard and familiar while making the unique Synereo features stand out.*
 
