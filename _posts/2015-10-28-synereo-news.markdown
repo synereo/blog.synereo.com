@@ -14,7 +14,7 @@ We've been hard at work here at the Synereo (distributed) HQ. Here are some of o
 
 Dor spent the last 2 weeks in the US, meeting with Synereo’s existing and potential partners and talking to investors. He spent a week working alongside Greg in Seattle, joined by Navneet, a new developer who is working both with Synereo and with our partners at LivelyGig.
 
-![image alt text](/img/uploads/seattleteam.jpg){: style="width: 500px;"}
+![image alt text](/img/uploads/seattleteam.png){: style="width: 500px;"}
 
 Work on both the design and bits of the frontend advanced.
 
@@ -54,5 +54,6 @@ The Synereo Team
 
 *Be Part of the Solution*
 
-
+
+
 
