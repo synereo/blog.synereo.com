@@ -6,9 +6,7 @@ title: Synereo News
 date: '2015-10-28 14:00:00 +0200'
 author: Nicola Minichiello
 ---
-Dear Synereo supporter,
-
-We've been hard at work here at the Synereo (distributed) HQ. Here are some of our latest updates. Check out the last item for an important notice about AMPs and about how you can help us list them on exchanges.
+We've been hard at work here at the Synereo (distributed) HQ. Here are some of our latest updates. Check out the last item for an important notice about AMPs.
 
 ### Team in Seattle
 
@@ -40,9 +38,7 @@ As always, we welcome you to join us for the [next hangout](https://plus.google.
 
 ### MasterXchange closing and helping AMP get listed on new exchanges
 
-On November 17th, 2015 [MasterXchange](https://masterxchange.com) will stop providing support for their exchange. 
-
-If you hold your AMPs there, make sure to transfer them to [Omniwallet](https://omniwallet.org/) before that time. For instructions on how to register and transfer your coins, see our guide [here](http://blog.synereo.com/2015/10/27/MasterXchange-closing-and-helping-AMPs/).
+On November 17th, 2015 [MasterXchange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to [Omniwallet](https://omniwallet.org/) before that time. For instructions on how to register and transfer your coins, see our guide [here](http://blog.synereo.com/2015/10/27/MasterXchange-closing-and-helping-AMPs/). There you will also find useful information to help us get on other exchanges. 
 
 *We’re working ardently to give you something you can play with soon!*
 
