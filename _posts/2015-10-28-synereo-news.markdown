@@ -22,6 +22,7 @@ Work on both the design and bits of the frontend advanced.
 
 *The sketch above is one of the first ones our new designer produced for our UI refresh. We’re pushing to make the parts people are used to very standard and familiar while making the unique Synereo features stand out.*
 
+<BR>
 We completed a major portion of converting the application to use scala.js instead of Haxe. This has been a long-awaited development, largely blocked by a viable scala -> js compiler. Scala.js is such an offering, enjoying a vibrant team and community behind it. 
 
 Instead of just doing a straight port of the Haxe code to scala.js, however, we are taking the opportunity to update the look and feel of the UI. This is done in collaboration with LivelyGig, as we aim to share the same basic frontend template.
