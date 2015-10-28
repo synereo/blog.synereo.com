@@ -39,7 +39,9 @@ As always, we welcome you to join us for the [next hangout](https://plus.google.
 
 ### MasterXchange closing and helping AMP get listed on new exchanges
 
-On November 17th, 2015 [MasterXchange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to [Omniwallet](https://omniwallet.org/) before that time. For instructions on how to register and transfer your coins, see our guide [here](http://blog.synereo.com/2015/10/27/MasterXchange-closing-and-helping-AMPs/). There you will also find useful information to help us get on other exchanges. 
+On November 17th, 2015 [MasterXchange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to [Omniwallet](https://omniwallet.org/) before that time. For instructions on how to register and transfer your coins, see our guide [here](http://blog.synereo.com/2015/10/27/MasterXchange-closing-and-helping-AMPs/).
+
+In the meantime, we want to get AMPs listed on standard exchanges. Exchanges only list coins if they see a demand for them, and **this is where you come in**. Check out this post for the information about the exchanges and all of the info you could simply copy and paste into their request forms. 
 
 *We’re working ardently to give you something you can play with soon!*
 
