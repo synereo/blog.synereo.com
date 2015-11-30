@@ -28,7 +28,7 @@ Synereo’s coin, the AMP, is a unique [cryptocurrency with an inherent value](h
 
 * Coin trading symbol: AMP
 
-* Coin Logo: [http://imgur.com/ij9iYOD](https://ip.bitcointalk.org/?u=http%3A%2F%2Fwww.old.synereo.com%2Flogo%2FAMPlogo.png&t=552&c=dYXAcC5vaV-D1g)
+* Coin Logo: [http://imgur.com/ij9iYOD](http://imgur.com/ij9iYOD)
 
 * Launch Date: April 2015
 
