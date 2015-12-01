@@ -4,7 +4,6 @@ status: publish
 published: true
 title: Synereo June Update
 date: '2015-06-23 08:00:00 +0200'
-author: Nicola Minichiello
 ---
 
 Dear Synereo supporters,
