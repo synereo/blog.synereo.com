@@ -4,7 +4,6 @@ status: publish
 published: true
 title: MasterXchange closing and helping AMP get listed on new exchanges
 date: '2015-10-27 08:00:00 +0200'
-author: Nicola Minichiello
 ---
 [MasterXchange](https://masterxchange.com), the exchange used to trade AMPs, is closing down. Our friends at Omni assure us that their decentralized exchange, featuring the AMP token and many others and allowing trade between any two pairs of coins, will be live soon.
 
