@@ -4,7 +4,6 @@ status: publish
 published: true
 title: Synereo News
 date: '2015-10-28 14:00:00 +0200'
-author: Nicola Minichiello
 ---
 We've been hard at work here at the Synereo (distributed) HQ. Here are some of our latest updates. Check out the last item for an important notice about AMPs.
 
