@@ -4,7 +4,6 @@ status: publish
 published: true
 title: Synereo + Factom Announce Partnership
 date: '2015-04-18 15:00:00 +0200'
-author: Nicola Minichiello
 ---
 
 **London, UK and Tel-Aviv, Israel - April 17th, 2015**
