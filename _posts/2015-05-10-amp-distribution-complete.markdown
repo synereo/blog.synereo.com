@@ -4,7 +4,6 @@ status: publish
 published: true
 title: AMP Distribution Complete
 date: '2015-05-10 14:45:00 +0200'
-author: Nicola Minichiello
 ---
 
 Dear Synereo supporters,
