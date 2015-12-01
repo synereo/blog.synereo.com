@@ -4,7 +4,6 @@ status: publish
 published: true
 title: Top 5 Things You Can Do With Synereo NOW
 date: '2015-08-12 08:00:00 +0200'
-author: Nicola Minichiello
 ---
 The most common questions we get asked are "when are you shipping?" And “when can I start playing with the bits?”
 
