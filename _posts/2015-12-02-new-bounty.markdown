@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: New Bounty: Community Hangout Scribe
+title: New Bounty - Community Hangout Scribe
 date: '2015-12-02 14:00:00 +0200'
 ---
 Today, Synereo is announcing a new opportunity to earn AMPs for community members who want to see this project grow. We have created a new role called the Scribe, responsible in helping us detail some of the most crucial aspects to our story and highlight our weekly operations. This role helps us show unprecedented transparency and lets the public know that we are an active and vital community tackling the largest problems in decentralized application design.
