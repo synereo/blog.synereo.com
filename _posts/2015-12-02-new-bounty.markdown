@@ -13,7 +13,7 @@ Our hangouts take place every [Wednesday at 11:00am PST](https://plus.google.com
 
 Your service will help the Synereo team and project greatly. As we are in crunch mode working to push out our first application and working closely with our partners creating their protocols and applications on top of the platform, taking the time to update our community in every channel and through more venues than the hangout would take a toll. This will make a meaningful impact on our ability to spread the word, especially to people who prefer to quickly go over the text summary rather than watch the video. 
 
-The reward is 60$ worth of AMPs per summary. We’ll add a bonus for every venue you share it on and send us a link to.
+The reward is 60$ worth of AMPs per summary. We’ll add a bonus for every venue (Reddit, FB, related forums, etc) you share it on and send us a link to.
 
 To apply, please send an email to [hello@synereo.com](mailto:hello@synereo.com).
 
