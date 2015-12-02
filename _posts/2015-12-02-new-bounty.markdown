@@ -19,6 +19,7 @@ To apply, please send an email to [hello@synereo.com](mailto:hello@synereo.com).
 
 Priority will be given to people who are already active participants in the hangouts and those who attach a sample of their writing - a post on a forum, a blog post, or anything showing that you can put down words on a page in a well-structured form.
 
+<BR>
 
 The Synereo Team
 
