@@ -67,13 +67,14 @@ Greg explains that the labeling structure in its relationship to the blob is kin
 
 
 ## [12:40 - How posts are structured in LivelyGig](https://youtu.be/mUF5hWVdxRQ?t=1240) <BR>
-
+![LivelyGig Posts](http://i.imgur.com/fa1f0Yv.png)
 
 Content of posts is hidden, however some labeling and metadata must necessarily be exposed in order for the system to operate. Synereo and LivelyGig share a common “MessagePost” that encapsulates these labels and metadata.
 
 Ed identifies some sub-types of Posts such as: Project, contest, offering, buyer profile, seller profile, moderator profile, and contract. Some of these sub-types contain meta-data which is publicly visible, ie profile. Contracts are a special sub-type that contains meta-data viewable only to the parties involved.
 
 ## [17:50 - Stack diagram of Synereo/LivelyGig](https://youtu.be/mUF5hWVdxRQ?t=1750) <BR>
+![Synereo Stack Diagram](http://i.imgur.com/juNN4vG.png)
 
 The “Agent User Model” layer is referenced as “UserAgent” in the preceding LivelyGig Web UI Class diagram. This layer is common to Apps on this platform that share the same Introduction Protocol, Labels, and Aliases.
 
@@ -82,16 +83,22 @@ The “Agent User Model” layer is referenced as “UserAgent” in the precedi
 Public information (Project, contest, offering, buyer profile, seller profile, moderator profile) are rebroadcast over the network, however contracts are not. There is likely, however, to be some mechanism by which LivelyGig derives a commission for facilitating the contract.
 
 ## [22:54 - Connections and Storage on Synereo (abstract), security model](https://youtu.be/mUF5hWVdxRQ?t=2254) <BR>
+![LivelyGig Posts](http://i.imgur.com/fa1f0Yv.png)
 
 
 Storage and communications are expressed as channels / connections . Channels encapsulate layers of nested labels (meta-data) and private posts. Everyone is an “Agent” that has their own “self” channel that stores private communications. Every communication between Agents occurs over its own unique channel.
 
 ## [26:29 - Synereo live demo - compilation and execution](https://youtu.be/mUF5hWVdxRQ?t=2629) <BR>
+![LivelyGig Posts](http://i.imgur.com/fa1f0Yv.png)
 
 
 Greg compiled the latest Synereo node from Scala and demonstrated a visitor connecting to Synereo through a web front end. The UI is under active development. Greg is awaiting graphic assets from Noykita so that he can re-skin to a more beautiful design.
 
-(More screen-shots follow)
+(More screenshots follow)
+![LivelyGig Posts](http://i.imgur.com/fa1f0Yv.png)
+![LivelyGig Posts](http://i.imgur.com/fa1f0Yv.png)
+![LivelyGig Posts](http://i.imgur.com/fa1f0Yv.png)
+![LivelyGig Posts](http://i.imgur.com/fa1f0Yv.png)
 
 
 
