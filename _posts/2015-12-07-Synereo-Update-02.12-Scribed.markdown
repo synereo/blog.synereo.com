@@ -8,30 +8,39 @@ date: '2015-12-07 08:00:00 +0200'
 
 ### Scribe Role Update
 [Last week](http://blog.synereo.com/2015/12/02/new-bounty/), we announced the new Scribe role and the bounty for undertaking it. In an awesome show of solidarity, our community split the task between each other and shared the take with the team. This is just the kind of thing we’ve come to appreciate from the Synereo community: it is truly a place where people are working together to realize a vision. 
+
 <BR>
+
 Because they worked together, the level of detail and precision in the meeting notes created by our scribes is amazing. We never expected to have this level of detail and we are happy to report that we will be delivering such quality in our weekly meeting notes. We can’t thank them enough. 
+
 <BR>
+
 This week we had a great update with the crew from LivelyGig: where it is at, how its UI functions, structure, and how they have successfully addressed some of the biggest technical challenges in their field. We discussed homomorphic obfuscation, which is a kind of encryption that happens in the Synereo system.
+
 <BR>
+
 We also ran through a live demo of Synereo. Greg created a Synereo node and demonstrated how Synereo operates. Noy, our designer, is busily working on graphics so we can roll out our visual design. Dor gave updates about his efforts to secure funding, negotiating with groups like Bank to The Future in order to find financial partners who truly care about changing the world for the better and who are aligned with our values. We also discussed streaming media over Synereo and more. 
 See the video index and more notes below.
-<BR>
-### Contents
 
+<BR>
+
+### Contents in Brief
 
 [Timeline of Hangout](https://www.youtube.com/watch?v=mUF5hWVdxRQ) <BR>
 [234 - LivelyGig Update](https://youtu.be/mUF5hWVdxRQ?t=234) <BR>
 [480 - LivelyGig Web UI Classes](https://youtu.be/mUF5hWVdxRQ?t=480) <BR>
-[855 - Homomorphic obfuscation of posts](https://youtu.be/mUF5hWVdxRQ?t=855)
-[1240 - How posts are structured in LivelyGig](https://youtu.be/mUF5hWVdxRQ?t=1240)
-[1750 - Stack diagram of Synereo/Livelygig](https://youtu.be/mUF5hWVdxRQ?t=1750)
-[1971 - Visibility and broadcasting of Gigs, Profiles, and Contracts](https://youtu.be/mUF5hWVdxRQ?t=1971)
-[2254 - Connections and Storage on Synereo (abstract), security model](https://youtu.be/mUF5hWVdxRQ?t=2254)
-[2629 - Synereo live demo - compilation and execution](https://youtu.be/mUF5hWVdxRQ?t=2629)
-[2993 - Dor's updates - banktothefuture.com](https://www.youtu.be/mUF5hWVdxRQ?t=2993)
-[3228 - Jim's updates and observations](https://youtu.be/mUF5hWVdxRQ?t=3228)
-[4006 - Streaming media content over Synereo](https://youtu.be/mUF5hWVdxRQ?t=4006)
-[4335 - bitnation.co & Self Determination](https://youtu.be/mUF5hWVdxRQ?t=4335)
+[855 - Homomorphic obfuscation of posts](https://youtu.be/mUF5hWVdxRQ?t=855) <BR>
+[1240 - How posts are structured in LivelyGig](https://youtu.be/mUF5hWVdxRQ?t=1240) <BR>
+[1750 - Stack diagram of Synereo/Livelygig](https://youtu.be/mUF5hWVdxRQ?t=1750) <BR>
+[1971 - Visibility and broadcasting of Gigs, Profiles, and Contracts](https://youtu.be/mUF5hWVdxRQ?t=1971) <BR>
+[2254 - Connections and Storage on Synereo (abstract), security model](https://youtu.be/mUF5hWVdxRQ?t=2254) <BR>
+[2629 - Synereo live demo - compilation and execution](https://youtu.be/mUF5hWVdxRQ?t=2629) <BR>
+[2993 - Dor's updates - banktothefuture.com](https://www.youtu.be/mUF5hWVdxRQ?t=2993) <BR>
+[3228 - Jim's updates and observations](https://youtu.be/mUF5hWVdxRQ?t=3228) <BR>
+[4006 - Streaming media content over Synereo](https://youtu.be/mUF5hWVdxRQ?t=4006) <BR>
+[4335 - bitnation.co & Self Determination](https://youtu.be/mUF5hWVdxRQ?t=4335) <BR>
+
+### Detailed Notes
 
 234 - LivelyGig Update 
 Feedback has been given:
