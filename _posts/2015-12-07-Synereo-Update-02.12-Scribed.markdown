@@ -47,10 +47,10 @@ We had several conversations:
 * And we’re working on fundraising activities.
 
 ## [04:80 - LivelyGig Web UI Classes](https://youtu.be/mUF5hWVdxRQ?t=480) <BR>
+![LivelyGig UML](http://i.imgur.com/u5mC06l.png)
 
 
-
-This is a UML class diagram. Not all the details are added. It’s a high level overview.
+This is a UML class diagram. Not all the details are added. It’s a [high level overview](high level overview).
 
 Green denotes classes that work on the Back-End of Synereo/SpecialK.
 The ‘Alias’ connection is a ‘self’ connection, in that it connects a user with him/herself and enables users to maintain more than one identity. Labels live on connections and can be nested. 
@@ -72,7 +72,7 @@ Content of posts is hidden, however some labeling and metadata must necessarily 
 
 Ed identifies some sub-types of Posts such as: Project, contest, offering, buyer profile, seller profile, moderator profile, and contract. Some of these sub-types contain meta-data which is publicly visible, ie profile. Contracts are a special sub-type that contains meta-data viewable only to the parties involved.
 
-## [17:50 - Stack diagram of Synereo/Livelygig](https://youtu.be/mUF5hWVdxRQ?t=1750) <BR>
+## [17:50 - Stack diagram of Synereo/LivelyGig](https://youtu.be/mUF5hWVdxRQ?t=1750) <BR>
 
 The “Agent User Model” layer is referenced as “UserAgent” in the preceding LivelyGig Web UI Class diagram. This layer is common to Apps on this platform that share the same Introduction Protocol, Labels, and Aliases.
 
@@ -101,7 +101,7 @@ Greg compiled the latest Synereo node from Scala and demonstrated a visitor conn
 
 ## [29:93 - Dor's updates - banktothefuture.com](https://www.youtu.be/mUF5hWVdxRQ?t=2993) <BR>
 
-Ramping up for Synereo release in a couple of months, Dor is lining up more investors. He will be judging an online Ethereum Hackathon [http://hack.ether.camp/judges]. Last week, he presented at the annual Israeli Bitcoin convention. You can see his presentation here. 
+Ramping up for Synereo release in a couple of months, Dor is lining up more investors. He will be judging an [online Ethereum Hackathon](http://hack.ether.camp/judges). Last week, he presented at the annual Israeli Bitcoin convention. You can see his presentation [here](https://www.dropbox.com/s/qtl4dyobandu4qh/Israeli%20Bitcoin%20Conference%20Synereo%20Presentation.pptx?dl=0). 
 
 ## [32:28 - Jim's updates and observations](https://youtu.be/mUF5hWVdxRQ?t=3228) <BR>
 
