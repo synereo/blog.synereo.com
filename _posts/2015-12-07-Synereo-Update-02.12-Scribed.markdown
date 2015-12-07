@@ -29,9 +29,9 @@ See the video index and more notes below.
 [2254 - Connections and Storage on Synereo (abstract), security model](https://youtu.be/mUF5hWVdxRQ?t=2254)
 [2629 - Synereo live demo - compilation and execution](https://youtu.be/mUF5hWVdxRQ?t=2629)
 [2993 - Dor's updates - banktothefuture.com](https://www.youtu.be/mUF5hWVdxRQ?t=2993)
-[3228 - Jim's updates and observations]
-[4006 - Streaming media content over Synereo]
-[4335 - bitnation.co & Self Determination]
+[3228 - Jim's updates and observations](https://youtu.be/mUF5hWVdxRQ?t=3228)
+[4006 - Streaming media content over Synereo](https://youtu.be/mUF5hWVdxRQ?t=4006)
+[4335 - bitnation.co & Self Determination](https://youtu.be/mUF5hWVdxRQ?t=4335)
 
 234 - LivelyGig Update 
 Feedback has been given:
