@@ -16,17 +16,17 @@ See the video index and more notes below.
 
 [Timeline of Hangout](https://www.youtube.com/watch?v=mUF5hWVdxRQ)
 [234 - LivelyGig Update](https://youtu.be/mUF5hWVdxRQ?t=234)
-480 - LivelyGig Web UI Classes
-855 - Homomorphic obfuscation of posts
-1240 - How posts are structured in LivelyGig
-1750 - Stack diagram of Synereo/Livelygig
-1971 - Visibility and broadcasting of Gigs, Profiles, and Contracts
-2254 - Connections and Storage on Synereo (abstract), security model
-2629 - Synereo live demo - compilation and execution
-2993 - Dor's updates - banktothefuture.com
-3228 - Jim's updates and observations
-4006 - Streaming media content over Synereo
-4335 - bitnation.co & Self Determination
+[480 - LivelyGig Web UI Classes](https://youtu.be/mUF5hWVdxRQ?t=480)
+[855 - Homomorphic obfuscation of posts](https://youtu.be/mUF5hWVdxRQ?t=855)
+[1240 - How posts are structured in LivelyGig]
+[1750 - Stack diagram of Synereo/Livelygig]
+[1971 - Visibility and broadcasting of Gigs, Profiles, and Contracts]
+[2254 - Connections and Storage on Synereo (abstract), security model]
+[2629 - Synereo live demo - compilation and execution]
+[2993 - Dor's updates - banktothefuture.com]
+[3228 - Jim's updates and observations]
+[4006 - Streaming media content over Synereo]
+[4335 - bitnation.co & Self Determination]
 
 234 - LivelyGig Update 
 Feedback has been given:
