@@ -73,7 +73,7 @@ Synereo’s coin, the AMP, is a unique [cryptocurrency with an inherent value](h
 
 On November 17th, 2015 [MasterXchange](https://masterxchange.com) will stop providing support for their exchange. If you hold your AMPs there, make sure to transfer them to [Omniwallet](https://omniwallet.org/) before that time. There is no need to register; you can simply click "Create a Wallet" on the top right of the home page, fill in a password, and click the “Create Wallet” button.
 
-![UML](http://i.imgur.com/u5mC06l.png){: style="width: 400px;"}
+-![createwallet.png](/img/uploads/createwallet.png){: style="width: 400px;"}
 
 Take note of your Wallet ID and the quick login URL as you will need these to login next time. On Omniwallet, you have the option to backup your wallet and we strongly recommend doing so for peace of mind.
 
