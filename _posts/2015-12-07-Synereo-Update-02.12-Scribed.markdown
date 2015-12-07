@@ -33,7 +33,7 @@ See the video index and the Scribe notes below.
 [19:71 - Visibility and broadcasting of Gigs, Profiles, and Contracts](https://youtu.be/mUF5hWVdxRQ?t=1971) <BR>
 [22:54 - Connections and Storage on Synereo (abstract), security model](https://youtu.be/mUF5hWVdxRQ?t=2254) <BR>
 [26:29 - Synereo live demo - compilation and execution](https://youtu.be/mUF5hWVdxRQ?t=2629) <BR>
-[29:93 - Dor's updates - banktothefuture.com](https://www.youtu.be/mUF5hWVdxRQ?t=2993) <BR>
+[29:93 - Dor's updates - bnktothefuture.com](https://www.youtu.be/mUF5hWVdxRQ?t=2993) <BR>
 [32:28 - Jim's updates and observations](https://youtu.be/mUF5hWVdxRQ?t=3228) <BR>
 [40:06 - Streaming media content over Synereo](https://youtu.be/mUF5hWVdxRQ?t=4006) <BR>
 [43:35 - bitnation.co & Self Determination](https://youtu.be/mUF5hWVdxRQ?t=4335) <BR>
