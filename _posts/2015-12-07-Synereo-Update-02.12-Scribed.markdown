@@ -48,6 +48,7 @@ We had several conversations:
 
 ## [04:80 - LivelyGig Web UI Classes](https://youtu.be/mUF5hWVdxRQ?t=480) <BR>
 ![LivelyGig UML](http://i.imgur.com/u5mC06l.png)
+![LivelyGig UML2](http://i.imgur.com/WFB0SY4.png)
 
 
 This is a UML class diagram. Not all the details are added. It’s a [high level overview](high level overview).
