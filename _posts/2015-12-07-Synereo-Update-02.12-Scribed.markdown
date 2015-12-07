@@ -29,7 +29,7 @@ See the video index and the Scribe notes below.
 [04:80 - LivelyGig Web UI Classes](https://youtu.be/mUF5hWVdxRQ?t=480) <BR>
 [08:55 - Homomorphic obfuscation of posts](https://youtu.be/mUF5hWVdxRQ?t=855) <BR>
 [12:40 - How posts are structured in LivelyGig](https://youtu.be/mUF5hWVdxRQ?t=1240) <BR>
-[17:50 - Stack diagram of Synereo/Livelygig](https://youtu.be/mUF5hWVdxRQ?t=1750) <BR>
+[17:50 - Stack diagram of Synereo](https://youtu.be/mUF5hWVdxRQ?t=1750) <BR>
 [19:71 - Visibility and broadcasting of Gigs, Profiles, and Contracts](https://youtu.be/mUF5hWVdxRQ?t=1971) <BR>
 [22:54 - Connections and Storage on Synereo (abstract), security model](https://youtu.be/mUF5hWVdxRQ?t=2254) <BR>
 [26:29 - Synereo live demo - compilation and execution](https://youtu.be/mUF5hWVdxRQ?t=2629) <BR>
@@ -83,7 +83,7 @@ Content of posts is hidden, however some labeling and metadata must necessarily 
 
 Ed identifies some sub-types of Posts such as: Project, contest, offering, buyer profile, seller profile, moderator profile, and contract. Some of these sub-types contain meta-data which is publicly visible, ie profile. Contracts are a special sub-type that contains meta-data viewable only to the parties involved.
 
-### [17:50 - Stack diagram of Synereo/LivelyGig](https://youtu.be/mUF5hWVdxRQ?t=1750) <BR>
+### [17:50 - Stack diagram of Synereo](https://youtu.be/mUF5hWVdxRQ?t=1750) <BR>
 ![Synereo Stack Diagram](http://i.imgur.com/juNN4vG.png)
 
 The “Agent User Model” layer is referenced as “UserAgent” in the preceding LivelyGig Web UI Class diagram. This layer is common to Apps on this platform that share the same Introduction Protocol, Labels, and Aliases.
