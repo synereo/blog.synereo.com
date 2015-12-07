@@ -16,7 +16,7 @@ Because they worked together, the level of detail and precision in the meeting n
 This week we had a great update with the crew from LivelyGig: where it is at, how its UI functions, structure, and how they have successfully addressed some of the biggest technical challenges in their field. We discussed homomorphic obfuscation, which is a kind of encryption that happens in the Synereo system.
 <BR>
 
-We also ran through a live demo of Synereo. Greg created a Synereo node and demonstrated how Synereo operates. Noy, our designer, is busily working with Dor on graphics so we can roll out our visual design. Dor gave updates about his efforts to secure funding, negotiating with investors in order to find financial partners who truly care about changing the world for the better and who are aligned with our values. As well, Synereo looking to go into an equity crowdsale using the Bank To The Future platform once the first public app is released. 
+We also ran through a live demo of Synereo. Greg created a Synereo node and demonstrated how Synereo operates. Noy, our designer, is busily working with Dor on graphics so we can roll out our visual design. Dor gave updates about his efforts to secure funding, negotiating with investors in order to find financial partners who truly care about changing the world for the better and who are aligned with our values. As well, Synereo is looking to go into an equity crowdsale using the Bank To The Future platform once the first public app is released. 
 
 We also discussed streaming media over Synereo, how to connect to the stack through a frontend, and more. 
 See the video index and the Scribe notes below.
