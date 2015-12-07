@@ -44,9 +44,9 @@ Feedback has been given:
 * UI trend and rational makes a lot of sense: be clear about the persona’s of the prototypical users that are on the site and understand quickly by either login info or by them specifying what their goals are. As a freelancer your primary goal is to find work and as a client your primary goal is to find a freelancer for a particular task in a project. That changes the UI accordingly. We will address that UI later, but we’re still building up the technology side of LivelyGig UI. <BR>
 
 * We had several conversations:
-* * freelance organisation Domino, which is a community that supports freelancers. 
-* * And also with Suzie Nguyen. Maybe Greg is going to visit her in Sydney this week.
-* * Engzig they working on a freelance market that will match up engineers in petroleum industry. Fascinating story about engineers that are put on 2 month jobs without the right credentials. So their referees are very important as well as credentials from certifying organisations
+** freelance organisation Domino, which is a community that supports freelancers. 
+** And also with Suzie Nguyen. Maybe Greg is going to visit her in Sydney this week.
+** Engzig they working on a freelance market that will match up engineers in petroleum industry. Fascinating story about engineers that are put on 2 month jobs without the right credentials. So their referees are very important as well as credentials from certifying organisations
 Onboarding of users onto LivelyGig and how to minimize the friction. Will we require basic login for doing searches or not? And at what point do we take that information.
 And we’re working on fundraising activities.
 
