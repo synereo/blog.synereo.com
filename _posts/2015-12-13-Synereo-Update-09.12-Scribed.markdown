@@ -84,7 +84,7 @@ Jed expressed his surprise at how well LivelyGig was known by his community of c
 
 ### [Jed Describes Marketing and Community Plans](https://youtu.be/JH4GLfccKY8?t=1374) <BR>
 
-Jed has been working behind the scenes for Synereo for more than a year now, advising the team in every step of the way. Now he’ll be more in the forefront, directing a coordinated marketing effort and handling public relations.  Attached Google meta-document for marketing, message drivers, inclusion -coalition of people and applications tackling big issues in the bitcoin community.  Coordinate with weekly scribing task to pull ideas, and create Message Drivers.
+Jed has been working behind the scenes for Synereo for more than a year now, advising the team in every step of the way. Now he’ll be more in the forefront, directing a coordinated marketing effort and handling public relations.  Attached Google [meta-document](https://docs.google.com/document/d/1c1vJks6RAhTynbkKkgQvl8RUanlJRBTr2PnyB1zW-_g/edit#heading=h.70o0r96eoghg) for marketing, message drivers, inclusion -coalition of people and applications tackling big issues in the bitcoin community.  Coordinate with weekly scribing task to pull ideas, and create Message Drivers.
 
 Message drivers do the following:
 
@@ -92,6 +92,7 @@ Message drivers do the following:
 2) Make sure everyone is on the same page.
 
 We want the messages leading to February to do the following: 
+
 * Message of inclusion 
 
 * Rallying community
@@ -99,6 +100,7 @@ We want the messages leading to February to do the following:
 * Keep us active in the media
 
 Drivers: 
+
 * We have spent the last six months tackling some of the biggest problems facing the community
 
 * We have met with community members all over the world in order to work together. 
