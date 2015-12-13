@@ -42,46 +42,69 @@ Another project aims to create a decentralized market for decentralized power di
 #### TCS, India
 Greg spoke with TCS, a large software services supplier (TATA) in India who is looking to implement blockchain services for their merchants.
 
-# Regulation on high level
+#### Regulation on high level
 Greg discussed smart contracts and securities with a panel of Australian regulators and legal experts. He explained some differences between contracts in the legal world, vs smart contracts capable of autonomous agency.
 
-# Concerns about Proof of Stake
+#### Concerns about Proof of Stake
 Greg has been working with Ethereum on Casper, a 'proof of stake' protocol that could replace the expensive 'proof of work' system for verifying transactions on the blockchain. He is concerned that Casper might enable an attack against a transaction by pricing it out of the scheduling queue.
 
-# GLoSEval
+#### GLoSEval
 Greg is working to patch a known bug in glosEval. Justin's importer has been pounding at it, causing server bounces and service bounces.
 
-# Eric & Dina help Noy with UI-design
+#### Eric & Dina help Noy with UI/design
 Greg met with Eric & Dina. Dor confirms that the couple will be helping Noy design Synereo's new user interface.
 
 
 ### [LivelyGig Update](https://youtu.be/JH4GLfccKY8?t=900) <BR>
-![LivelyGig UML](http://i.imgur.com/u5mC06l.png)
-![LivelyGig UML2](http://i.imgur.com/WFB0SY4.png)
 
+Ed is working on instructions to ease the setting up of an ami on Amazon AWS. He wants to get multiple nodes going so that we can start hitting the restful API.
 
-This is a UML class diagram. Not all the details are added. It’s a [high level overview](high level overview).
+#### Inspect traffic
+Ed set up a sniffer to inspect the html traffic between splicious and the web server in order to better document the glosEval API. This is necessary to help the group in India (Nirvanic Labs) who is writing the user interface for LivelyGig.
 
-Green denotes classes that work on the Back-End of Synereo/SpecialK.
-The ‘Alias’ connection is a ‘self’ connection, in that it connects a user with him/herself and enables users to maintain more than one identity. Labels live on connections and can be nested. 
+#### Presentation in San Diego, Inside Bitcoins
+Ed will be speaking at "inside bitcoins" in San Diego next week. To get an idea of how many bitcoin and blockchain startups there are, Ed refers us to a dashboard on William Mougayar’'s website: 
 
-Posts do not have searchable ID’s! They are blobs which can only be located by referencing labels that are associated with them. 
+http://startupmanagement.org/2015/10/22/the-global-landscape-of-blockchain-companies-in-financial-services/
 
 
 ### [Introducing Jed](https://youtu.be/JH4GLfccKY8?t=1159) <BR>
 
-The content of posts on LivelyGig and Synereo are secured in such a way as to expose only the minimal amount of metadata necessary for the system to function. The content of Posts are not even visible to the server running the application.
+#### Dor about BnkToTheFuture
+Talks are going on with [Bank To The Future](http://BnkToTheFure.com) about how to make the best pitch. Materials are being created for the site and campaign.
 
-Greg explains that the labeling structure in its relationship to the blob is kind of homomorphic encryption. The structural labeling mechanism where labels have a internal structure. So unlike tags and tagging you can have nested labels and collections of labels inside labels and so on. And there will be some mapping between that and the structure that the data is accessed be in a label. That mapping is entirely maintained by the application semantics. So the backend has no idea about what the relationship is between the label structure and the structure of the data that is retrieved by the label. So this gives us a layers security while at the same time it gives a mean to do search. The benefits of semantic access are that we can maintain our promise never to have access to user data. That’s part of the rational of this architecture.
+Dor introduced new member of Synereo, Jed, to handle marketing, public relations, branding, and community related matters.
 
+#### Everybody talking about LivelyGig in the Valley
+Jed expressed his surprise at how well LivelyGig was known by his community of contacts in Silicon Valley. 
 
 ### [Jed Describes Marketing and Community Plans](https://youtu.be/JH4GLfccKY8?t=1374) <BR>
 
-![LivelyGig Posts](http://i.imgur.com/fa1f0Yv.png)
+#### Marketing (Jed)
+Jed has been working behind the scenes for Synereo for more than a year now, advising us in every step of the way. Now he’ll be more in the forefront, directing a coordinated marketing effort and handling public relations.  Attached Google meta-document for marketing, message drivers, inclusion -coalition of people and applications tackling big issues in the bitcoin community.  Coordinate with weekly scribing task to pull ideas, and create Message Drivers.
 
-Content of posts is hidden, however some labeling and metadata must necessarily be exposed in order for the system to operate. Synereo and LivelyGig share a common “MessagePost” that encapsulates these labels and metadata.
+Message drivers do the following:
 
-Ed identifies some sub-types of Posts such as: Project, contest, offering, buyer profile, seller profile, moderator profile, and contract. Some of these sub-types contain meta-data which is publicly visible, ie profile. Contracts are a special sub-type that contains meta-data viewable only to the parties involved.
+1) Tell the underlying message used to inspire all copy
+2) Make sure everyone is on the same page.
+
+We want the messages leading to February to do the following: 
+• Message of inclusion 
+• Rallying community
+• Keep us active in the media
+
+Drivers: 
+• We have spent the last six months tackling some of the biggest problems facing the community
+• We have met with community members all over the world in order to work together. 
+• We are collaborating with Ethereum, Lively Gig, and you. 
+• We can continue to live under centralized control, or we can work together to solve these problems. 
+• Please join us on slack.
+
+@work@Synereo
+Greg says greg says blockchain community people are very inclusive. We are creating a movement. He suggested that we find more ways to reward community members with AMPs. 
+The content of posts on LivelyGig and Synereo are secured in such a way as to expose only the minimal amount of metadata necessary for the system to function. The content of Posts are not even visible to the server running the application.
+
+Greg explains that the labeling structure in its relationship to the blob is kind of homomorphic encryption. The structural labeling mechanism where labels have a internal structure. So unlike tags and tagging you can have nested labels and collections of labels inside labels and so on. And there will be some mapping between that and the structure that the data is accessed be in a label. That mapping is entirely maintained by the application semantics. So the backend has no idea about what the relationship is between the label structure and the structure of the data that is retrieved by the label. So this gives us a layers security while at the same time it gives a mean to do search. The benefits of semantic access are that we can maintain our promise never to have access to user data. That’s part of the rational of this architecture.
 
 ### [What Are The Best Growth Vectors For Synereo?](https://youtu.be/JH4GLfccKY8?t=2015) <BR>
 ![Synereo Stack Diagram](http://i.imgur.com/juNN4vG.png)
