@@ -11,6 +11,7 @@ date: '2015-12-13 08:00:00 +0200'
 <BR>
 
 This week brings updates from Greg's participation in a blockchain hackathon (spoiler: he was on the winning team, scoring $50k. Details next week), leading to his participation in several panels in what he describes as the best conference he's been to in the space. <BR>
+
 We further discuss Ethereum's Proof of Stake protocol that Greg's leading the design of using Synereo technology, talk about dev work done over the past week, and have the whole gang give their take on the best growth vectors for Synereo. (Dor thinks it's building a giant out of midgets.)
 <BR>
 
@@ -20,7 +21,7 @@ Another important announcement is about Synereo's newest team member, Jed Walls.
 
 ## Contents in Brief
 
-### [Timeline of Hangout](https://www.youtube.com/watch?v=JH4GLfccKY8) <BR>
+### [Watch the full Hangout](https://www.youtube.com/watch?v=JH4GLfccKY8) <BR>
 [Greg reports from Sydney, Australia](https://youtu.be/JH4GLfccKY8?t=187) <BR>
 [LivelyGig Update](https://youtu.be/JH4GLfccKY8?t=900) <BR>
 [Introducing Jed](https://youtu.be/JH4GLfccKY8?t=1159) <BR>
