@@ -17,7 +17,7 @@ We further discuss Ethereum's Proof of Stake protocol that Greg's leading the de
 
 Another important announcement is about Synereo's newest team member, Jed Walls. Jed has been on [Synereo's advisory board](https://discuss.synereo.com/t/synereo-about-us/52468/2?u=dor) for a year now, advising the team in every step of the way, and has now relocated to Silicon Valley to ramp up his involvement. Jed will be directing a coordinated marketing effort and handling public relations as well as developing the Synereo brand and coordinating our growing community. Welcome, Jed!
 ![Jed on the hangout](http://i.imgur.com/8cFBAum.jpg?1)
-
+<BR>
 
 ## Contents in Brief
 
@@ -31,6 +31,7 @@ Another important announcement is about Synereo's newest team member, Jed Walls.
 [Dor Wants To Map Communities, Calls For Help](https://youtu.be/JH4GLfccKY8?t=3225) <BR>
 [Jed Discusses Our Roadmap for Marketing and Community Efforts, Calls for Help ](https://youtu.be/JH4GLfccKY8?t=3351) <BR>
 
+<BR>
 
 ## Detailed Notes
 
