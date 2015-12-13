@@ -39,7 +39,7 @@ Greg is in Australia participating in a Hackathon on blockchain applications. In
 
 Another project aims to create a decentralized market for decentralized power distribution. The idea is that individuals or groups can meter, store, and exchange power within a local group, as well as sell it to the regional power grid.
 
-# TCS, India
+#### TCS, India
 Greg spoke with TCS, a large software services supplier (TATA) in India who is looking to implement blockchain services for their merchants.
 
 # Regulation on high level
