@@ -80,31 +80,36 @@ Jed expressed his surprise at how well LivelyGig was known by his community of c
 
 ### [Jed Describes Marketing and Community Plans](https://youtu.be/JH4GLfccKY8?t=1374) <BR>
 
-#### Marketing (Jed)
 Jed has been working behind the scenes for Synereo for more than a year now, advising us in every step of the way. Now he’ll be more in the forefront, directing a coordinated marketing effort and handling public relations.  Attached Google meta-document for marketing, message drivers, inclusion -coalition of people and applications tackling big issues in the bitcoin community.  Coordinate with weekly scribing task to pull ideas, and create Message Drivers.
 
 Message drivers do the following:
 
-1) Tell the underlying message used to inspire all copy
+1) Tell the underlying message used to inspire all copy <BR>
 2) Make sure everyone is on the same page.
 
 We want the messages leading to February to do the following: 
-• Message of inclusion 
-• Rallying community
-• Keep us active in the media
+* Message of inclusion 
+* Rallying community
+* Keep us active in the media
 
 Drivers: 
-• We have spent the last six months tackling some of the biggest problems facing the community
-• We have met with community members all over the world in order to work together. 
-• We are collaborating with Ethereum, Lively Gig, and you. 
-• We can continue to live under centralized control, or we can work together to solve these problems. 
-• Please join us on slack.
+* We have spent the last six months tackling some of the biggest problems facing the community
+* We have met with community members all over the world in order to work together. 
+* We are collaborating with Ethereum, LivelyGig, other application builders, and you. 
+* We can continue to live under centralized control, or we can work together to solve these problems. 
+* Please join us on slack.
 
-@work@Synereo
+#### @work@Synereo
 Greg says greg says blockchain community people are very inclusive. We are creating a movement. He suggested that we find more ways to reward community members with AMPs. 
-The content of posts on LivelyGig and Synereo are secured in such a way as to expose only the minimal amount of metadata necessary for the system to function. The content of Posts are not even visible to the server running the application.
 
-Greg explains that the labeling structure in its relationship to the blob is kind of homomorphic encryption. The structural labeling mechanism where labels have a internal structure. So unlike tags and tagging you can have nested labels and collections of labels inside labels and so on. And there will be some mapping between that and the structure that the data is accessed be in a label. That mapping is entirely maintained by the application semantics. So the backend has no idea about what the relationship is between the label structure and the structure of the data that is retrieved by the label. So this gives us a layers security while at the same time it gives a mean to do search. The benefits of semantic access are that we can maintain our promise never to have access to user data. That’s part of the rational of this architecture.
+#### To Do's for members
+In order to help manage jobs for community members, Dor suggested the creation of a running list of to-dos that community members can take on in exchange for a AMP rewards. 
+
+#### Decentralised Scribe
+Hank summarized how the last Hangout Summary document was created: Hank created the initial document. Ian added a timeline, hank added pictures, then we both filled summaries of each section.
+
+#### How to keep track
+Jed wants summary process written down so he can keep track.  Build a road map.
 
 ### [What Are The Best Growth Vectors For Synereo?](https://youtu.be/JH4GLfccKY8?t=2015) <BR>
 ![Synereo Stack Diagram](http://i.imgur.com/juNN4vG.png)
