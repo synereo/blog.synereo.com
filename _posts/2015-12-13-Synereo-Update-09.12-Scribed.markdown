@@ -7,11 +7,11 @@ date: '2015-12-13 08:00:00 +0200'
 ---
 
 ## Development Update
-[As we continue our tradition of summarizing the updates of our weekly hangout](http://blog.synereo.com/2015/12/02/new-bounty/), here are the highlights of this week - courtesy of our dedicated community members, @lapin7, @drbloom and @malthusjohn. Thanks, guys!
+[As we continue the tradition of summarizing the updates of our weekly hangout](http://blog.synereo.com/2015/12/02/new-bounty/), here are the highlights of this week - courtesy of our dedicated community members, @lapin7, @drbloom and @malthusjohn. Thanks, guys!
 <BR>
 
-This week brings updates from Greg's participation in a blockchain hackathon (spoiler: he was on the winning team, scoring $50k. Details next week), leading to his participation in several panels in what he describes as the best conference he's been to in the space. 
-We further discuss Ethereum's Proof of Stake protocol that Greg's leading the design of using Synereo technology, talk about dev work done over the past week, and the whole gang gives their take on the best growth vectors for Synereo. (Dor thinks it's building a giant out of midgets.)
+This week brings updates from Greg's participation in a blockchain hackathon (spoiler: he was on the winning team, scoring $50k. Details next week), leading to his participation in several panels in what he describes as the best conference he's been to in the space. <BR>
+We further discuss Ethereum's Proof of Stake protocol that Greg's leading the design of using Synereo technology, talk about dev work done over the past week, and have the whole gang give their take on the best growth vectors for Synereo. (Dor thinks it's building a giant out of midgets.)
 <BR>
 
 Another important announcement is about Synereo's newest team member, Jed Walls. Jed has been on [Synereo's advisory board](https://discuss.synereo.com/t/synereo-about-us/52468/2?u=dor) for a year now, advising the team in every step of the way, and has now relocated to Silicon Valley to ramp up his involvement. Jed will be directing a coordinated marketing effort and handling public relations as well as developing the Synereo brand and coordinating our growing community. Welcome, Jed!
