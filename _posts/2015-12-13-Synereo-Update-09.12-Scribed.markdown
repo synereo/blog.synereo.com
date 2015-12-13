@@ -45,7 +45,7 @@ Another project aims to create a decentralized market for decentralized power di
 Greg spoke with TCS, a large software services supplier (TATA) in India who is looking to implement blockchain services for their merchants.
 
 #### Regulation on high level
-Greg discussed smart contracts and securities with a panel of Australian regulators and legal experts. He explained some differences between contracts in the legal world, vs smart contracts capable of autonomous agency.
+Greg discussed smart contracts and securities with a panel of Australian regulators and legal expertsm including [*Lawrence Lessig*](https://en.wikipedia.org/wiki/Lawrence_Lessig). He explained some differences between contracts in the legal world, vs smart contracts capable of autonomous agency.
 
 #### Concerns about Proof of Stake
 Greg has been working with Ethereum on Casper, a 'proof of stake' protocol that could replace the expensive 'proof of work' system for verifying transactions on the blockchain. He is concerned that Casper might enable an attack against a transaction by pricing it out of the scheduling queue.
