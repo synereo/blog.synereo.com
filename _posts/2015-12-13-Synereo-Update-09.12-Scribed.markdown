@@ -17,7 +17,9 @@ We further discuss Ethereum's Proof of Stake protocol that Greg's leading the de
 
 Another important announcement is about Synereo's newest team member, Jed Walls. Jed has been on [Synereo's advisory board](https://discuss.synereo.com/t/synereo-about-us/52468/2?u=dor) for a year now, advising the team in every step of the way, and has now relocated to Silicon Valley to ramp up his involvement. Jed will be directing a coordinated marketing effort and handling public relations as well as developing the Synereo brand and coordinating our growing community. Welcome, Jed!
 ![Jed on the hangout](http://i.imgur.com/8cFBAum.jpg?1)
+
 <BR>
+
 
 ## Contents in Brief
 
@@ -45,24 +47,24 @@ Another project aims to create a decentralized market for decentralized power di
 Greg spoke with TCS, a large software services supplier (TATA) in India who is looking to implement blockchain services for their merchants.
 
 #### Regulation on high level
-Greg discussed smart contracts and securities with a panel of Australian regulators and legal expertsm including [*Lawrence Lessig*](https://en.wikipedia.org/wiki/Lawrence_Lessig). He explained some differences between contracts in the legal world, vs smart contracts capable of autonomous agency.
+Greg discussed smart contracts and securities with a panel of Australian regulators and legal expertsm including [**Lawrence Lessig**](https://en.wikipedia.org/wiki/Lawrence_Lessig). He explained some differences between contracts in the legal world, vs smart contracts capable of autonomous agency.
 
 #### Concerns about Proof of Stake
 Greg has been working with Ethereum on Casper, a 'proof of stake' protocol that could replace the expensive 'proof of work' system for verifying transactions on the blockchain. He is concerned that Casper might enable an attack against a transaction by pricing it out of the scheduling queue.
 
 #### GLoSEval
-Greg is working to patch a known bug in glosEval. Justin's importer has been pounding at it, causing server bounces and service bounces.
+Greg is working to patch a known bug in GLoSEval. Justin's importer has been pounding at it, causing server bounces and service bounces.
 
 #### Eric & Dina help Noy with UI/design
-Greg met with Eric & Dina. Dor confirms that the couple will be helping Noy design Synereo's new user interface.
+Greg met with Eric & Dina, two world class experts in crafting user experiences. Dor confirms that the couple will be helping Noy design Synereo's new user interface.
 
 
 ### [LivelyGig Update](https://youtu.be/JH4GLfccKY8?t=900) <BR>
 
-Ed is working on instructions to ease the setting up of an ami on Amazon AWS. He wants to get multiple nodes going so that we can start hitting the restful API.
+Ed is working on instructions to ease the setting up of an AMI on Amazon AWS. He wants to get multiple nodes going so that we can start hitting the restful API.
 
 #### Inspect traffic
-Ed set up a sniffer to inspect the html traffic between splicious and the web server in order to better document the glosEval API. This is necessary to help the group in India (Nirvanic Labs) who is writing the user interface for LivelyGig.
+Ed set up a sniffer to inspect the HTML traffic between Splicious and the web server in order to better document the glosEval API. This is necessary to help the group in India (Nirvanic Labs) who is writing the user interface for LivelyGig.
 
 #### Presentation in San Diego, Inside Bitcoins
 Ed will be speaking at "inside bitcoins" in San Diego next week. To get an idea of how many bitcoin and blockchain startups there are, Ed refers us to a dashboard on William Mougayar’'s website: 
@@ -82,7 +84,7 @@ Jed expressed his surprise at how well LivelyGig was known by his community of c
 
 ### [Jed Describes Marketing and Community Plans](https://youtu.be/JH4GLfccKY8?t=1374) <BR>
 
-Jed has been working behind the scenes for Synereo for more than a year now, advising us in every step of the way. Now he’ll be more in the forefront, directing a coordinated marketing effort and handling public relations.  Attached Google meta-document for marketing, message drivers, inclusion -coalition of people and applications tackling big issues in the bitcoin community.  Coordinate with weekly scribing task to pull ideas, and create Message Drivers.
+Jed has been working behind the scenes for Synereo for more than a year now, advising the team in every step of the way. Now he’ll be more in the forefront, directing a coordinated marketing effort and handling public relations.  Attached Google meta-document for marketing, message drivers, inclusion -coalition of people and applications tackling big issues in the bitcoin community.  Coordinate with weekly scribing task to pull ideas, and create Message Drivers.
 
 Message drivers do the following:
 
