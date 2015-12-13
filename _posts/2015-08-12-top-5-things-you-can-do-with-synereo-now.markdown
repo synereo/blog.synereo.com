@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: false
+published: true
 title: Top 5 Things You Can Do With Synereo NOW
 date: '2015-08-12 08:00:00 +0200'
 ---
