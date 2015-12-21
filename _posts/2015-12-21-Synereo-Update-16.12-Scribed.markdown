@@ -16,6 +16,7 @@ Synereo Ltd. is working on creating its next new role for the community: the Amb
 
 Dor announced the creation of a Q&A feature for the [Community Hangout](https://plus.google.com/u/0/b/109002904706315055045/events/cvnplaajtlu9oi07j2ut738ntm0)! Individuals will be able to submit text questions before and during the Community Hangout and have them answered live. In addition, he spoke about Bnktothefuture and our coming presale for investors, which will help us gain the best possible footing for moving forward. The price of AMPs was discussed, along with their increasing success in the market and the listing on [CoinMarketCap](http://coinmarketcap.com/assets/synereo/). 
 
+![Synereo Hangout - Greg](http://i.imgur.com/JAb7mji.jpg)
 
 <BR>
 
