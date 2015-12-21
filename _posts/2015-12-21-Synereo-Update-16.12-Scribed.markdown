@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: false
+published: true
 title: Scribe Notes For Synereo Weekly Update
 date: '2015-12-21 08:00:00 +0200'
 ---
@@ -25,11 +25,9 @@ Dor announced the creation of a Q&A feature for the [Community Hangout](https://
 ### [Watch the full Hangout](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg) <BR>
 [05:53 - Greg about Hackaton in Sydney, Australia.](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=353) <BR>
 [12:41 - Acoustic separation in law](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=761) <BR>
-[15:34 - Discussion of notions of identity](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=923) <BR>
 [17:57 - Legal requirements on contract “back doors”](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1077) <BR>
 [23:07 - Is the legal system corrupt?](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1387) <BR>
 [25:16 - Dor about decentralisation and large institutions](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1517) <BR>
-[29:14 - Jim: Trust is not a simple problem](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1754) <BR>
 [32:43 - Hackaton participation](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1963) <BR>
 [39:39 - Dor’s update](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2379) <BR>
 [42:34 - Synereo on CoinMarketCap, market discussion](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2554) <BR>
@@ -44,114 +42,80 @@ Dor announced the creation of a Q&A feature for the [Community Hangout](https://
 
 ## Detailed Notes
 
-### [Greg reports from Sydney, Australia](https://youtu.be/JH4GLfccKY8?t=187) <BR>
+### [05:53 - Greg about Hackaton in Sydney, Australia.](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=353) <BR>
 
-Greg is in Australia participating in a Hackathon on blockchain applications. Interesting projects include one that [Vlad Zamfir](https://twitter.com/VladZamfir) is working on to implement access control mechanisms on the blockchain.
+On December 11th, our CSO Greg attended the #BlockchainSYD Blockchain Workshops Hackaton event in Sydney Austraila. In our meeting he said that he was impressed by Lawrence Lessig's keynote given at the workshop on [Thinking Through Law and Code](https://vimeo.com/148665401). 
 
-Another project aims to create a decentralized market for decentralized power distribution. The idea is that individuals or groups can meter, store, and exchange power within a local group, as well as sell it to the regional power grid.
+Lessig’s presentation brought up an interesting idea that decentralized systems like Synereo and Ethereum must consider. Synereo’s social contracts and Ethereum’s smart contracts are about automating aspects of behavior, taking human actors out of the process. Once such a contract is put on the blockchain, it executes completely autonomously. If you get the architecture right, you can’t take it down even if they’re controlling potentially critical digital assets, such as commodities like BTCs or AMPs. That may have consequences that the Synereo community needs to think through. 
 
-#### TCS, India
-Greg spoke with TCS, a large software services supplier (TATA) in India who is looking to implement blockchain services for their merchants.
-
-#### Regulation on high level
-Greg discussed smart contracts and securities with a panel of Australian regulators and legal expertsm including [**Lawrence Lessig**](https://en.wikipedia.org/wiki/Lawrence_Lessig). He explained some differences between contracts in the legal world, vs smart contracts capable of autonomous agency.
-
-#### Concerns about Proof of Stake
-Greg has been working with Ethereum on Casper, a 'proof of stake' protocol that could replace the expensive 'proof of work' system for verifying transactions on the blockchain. He is concerned that Casper might enable an attack against a transaction by pricing it out of the scheduling queue.
-
-#### GLoSEval
-Greg is working to patch a known bug in GLoSEval. Justin's importer has been pounding at it, causing server bounces and service bounces.
-
-#### Eric & Dina help Noy with UI/design
-Greg met with Eric & Dina, two world class experts in crafting user experiences. Dor confirms that the couple will be helping Noy design Synereo's new user interface.
+We must carefully consider what controls to include in autonomous systems to keep them in balance. Financial markets use “circuit breakers” as a means to curb chaos in markets caused by algorithmic trading. Greg alluded to “Behavioral Types” as a possible solution.
 
 
-### [LivelyGig Update](https://youtu.be/JH4GLfccKY8?t=900) <BR>
 
-Ed is working on instructions to ease the setting up of an AMI on Amazon AWS. He wants to get multiple nodes going so that we can start hitting the restful API.
+### [12:41 - Acoustic separation in law](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=761) <BR>
 
-#### Inspect traffic
-Ed set up a sniffer to inspect the HTML traffic between Splicious and the web server in order to better document the glosEval API. This is necessary to help the group in India (Nirvanic Labs) who is writing the user interface for LivelyGig.
+During the hackathon event, Lawrence Lessig brought up another issue that is important for us to consider moving forward, the idea of “acoustic separation.” 
 
-#### Presentation in San Diego, Inside Bitcoins
-Ed will be speaking at "inside bitcoins" in San Diego next week. To get an idea of how many bitcoin and blockchain startups there are, Ed refers us to a dashboard on William Mougayar’'s website: 
+Lessig talks about “acoustic separation” meaning that you can be considered in one perspective to one party and be considered entirely differently to another party. This kind of subjectivity is difficult in the legal arena because it means that courts must be able to analyze and understand the context of a situation before applying judgement. Sometimes courts are put in the position to show mercy, they don’t just run law in a strict sense. Blockchain has a similar role, as it must make judgements on social contracts that are automated through its software. However, unlike courts, there is (currently) no room for mercy. Blockchain isn’t capable of understanding the context of a situation, and therefore it is strict every time. Lessig warns that groups working inside Blockchain must be conscious of these issues as they develop the technologies. 
 
-http://startupmanagement.org/2015/10/22/the-global-landscape-of-blockchain-companies-in-financial-services/
+### [17:57 - Legal requirements on contract “back doors”](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1077) <BR>
 
+Some countries require, by law, that “back doors” be created in legal documents, in order to protect parties involved from fraud and forms of contract errors. Australia, for instance, requires that such back doors be put in for issues involving bad contracts. The flip side to this is that this creates a potential hole in security when you adopt this system over to a piece of code or a computer application. This is a substantial issue for Blockchain technologies, which seek to minimize the possibility of outside control from contracts. While there are no legal precedents on these issues in regards to Blockchain, court systems throughout the world may be called to weigh in on them. Which court, and what power they’ll have, however, is questionable, as Blockchain spans international jurisdictions. Already, sites like [BitRated](https://www.bitrated.com/Dor) exist to help find trusted arbiters to intermediate in multi-sig transactions, allowing only the trusted third parties of your choice to enter into a contract. Their reputation mechanism depends on direct and manually entered feedback from users (unlike Synereo’s “Reo” system, which curates feedback based on standard user behavior on the network). Ultimately, issues such as this will require that the legal system to be actively involved in the conversation about Blockchain. 
 
-### [Introducing Jed](https://youtu.be/JH4GLfccKY8?t=1159) <BR>
+### [25:16 - Dor about decentralisation and large institutions](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1517) <BR>
 
-#### Dor about BnkToTheFuture
-Talks are going on with [Bank To The Future](http://BnkToTheFure.com) about how to make the best pitch. Materials are being created for the site and campaign.
+The potential of decentralized systems is huge. With a decentralized alternative, large institutions like courts, banks, and insurance companies may need to respond with transparent and useful services if they want to be a part of decentralized services that social contracts can provide. This is another reason why compassion and mercy should be important considerations moving forward. As Jim stated in our discussion, “Trust is not a simple problem.” 
 
-Dor introduced new member of Synereo, Jed, to handle marketing, public relations, branding, and community related matters.
+Dor mentions the discussion started by comments by Elon Musk about his fear of AIs representing the worst demons humanity has been dreading since the dawn of history, running rampant and without control. Elon has recently started a [non-profit AI research entity meant to advance humanity](http://fortune.com/2015/12/11/open-ai/) as a well without regard to financial return, and will put an emphasis on doing this right.
+Dor mentions the book [*Accelerando*, a 2005 science fiction novel](https://en.wikipedia.org/wiki/Accelerando), partially dealing with designing AI agents operating in decentralized networks and the effect this has on events leading up to the singularity. 
 
-#### Everybody talking about LivelyGig in the Valley
-Jed expressed his surprise at how well LivelyGig was known by his community of contacts in Silicon Valley. 
+### [32:43 - Hackaton participation](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1963) <BR>
 
-### [Jed Describes Marketing and Community Plans](https://youtu.be/JH4GLfccKY8?t=1374) <BR>
+As a part of the Sydney event, Greg took part in a Hackathon which was organised around cooperation instead of competition. Greg was a part of the winning team! The winning idea involved communities being able to manage their energy in a decentralized way. In this system, individuals would carry their power with them wherever they went, swapping it out for various purposes such as fueling their home, their transportation, and trade. $50,000 was awarded to explore the idea further. 
 
-Jed has been working behind the scenes for Synereo for more than a year now, advising the team in every step of the way. Now he’ll be more in the forefront, directing a coordinated marketing effort and handling public relations.  Attached Google [meta-document](https://docs.google.com/document/d/1c1vJks6RAhTynbkKkgQvl8RUanlJRBTr2PnyB1zW-_g/edit#heading=h.70o0r96eoghg) for marketing, message drivers, inclusion -coalition of people and applications tackling big issues in the bitcoin community.  Coordinate with weekly scribing task to pull ideas, and create Message Drivers.
+### [39:39 - Dor’s update](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2379) <BR>
 
-Message drivers do the following:
+Q&A has been enabled! From now on, participants and audience watching on youtube are invited to participate. Questions can be posed before the hangout begins or during it. We can also monitor Youtube and Google Hangout ‘comment sections’ during the meeting.
 
-1) Tell the underlying message used to inspire all copy <BR>
-2) Make sure everyone is on the same page.
+Dor created a [community directory](https://drive.google.com/drive/folders/0B2oJ08sgSZdaWTBVODh0eFhKTmM), where all documents relevant to community efforts can be found. We are also creating a [map of communities](https://drive.google.com/open?id=1dgcYgLlhMdV8dJPxAGv0NjHCWDfRoJKvR9SVHIOd21Y) that are likely to be interested in utilizing Synereo or hearing about its benefits and development progress. We need ambassadors in these communities, to spread the word. The ambassadors will be AMP-lified, meaning ambassadors will be granted AMPs in exchange for helping to facilitate. Get in touch with [Dor](mailto:hello@synereo.com) for details! 
 
-We want the messages leading to February to do the following: 
+### [42:34 - Synereo on CoinMarketCap, market discussion](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2554) <BR>
 
-* Message of inclusion 
+Now you can see how the AMP is doing on [CoinMarketCap](http://coinmarketcap.com/assets/synereo/). Not only is the price of AMPs getting attention of late, it is already going up! 
 
-* Rallying community
+### [43:34 - Technical updates; the DNA of the new Synereo application
+](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2614) <BR>
 
-* Keep us active in the media
+The UI for Synereo is currently in development. Our team in India is working hard on the UI and back end, making sure that the system is smooth and efficient. A demo is in the works, but before it can be shared the data importer must be tested and approved. In order to make this happen, the team is ready to load test data in JSON format, which will let us know that we have a solid demo in place. Currently, one of the challenges that the team faces is that the docker image in the UI is stalled, because there are too many threads that need to be incorporated for it to work properly. This is a challenge we are confident the team can overcome. 
 
-Drivers: 
+Dor talks about the DNA of the upcoming Synereo application: the three important focus points that will pervade the experience on the platform.
 
-* We have spent the last six months tackling some of the biggest problems facing the community
+The LivelyGig documentation of the API is well under way.
 
-* We have met with community members all over the world in order to work together. 
+### [55:18 - Drbloom and notion of Ceptrons, clarification from Dor
+](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=3318) <BR>
 
-* We are collaborating with Ethereum, LivelyGig, other application builders, and you. 
+Many people ask about what Synereo as a company will do once the users own Synereo as a network. Its very important to distinguish the difference between Synereo the ‘Social Networking Application’ and Synereo Ltd., the company. One of the core tasks of Synereo Ltd will be facilitating the development of 3rd party apps to ride on top of Synereo. Because the Synereo social platform runs on SpecialK, you can build on top of Synereo any application that you want in a decentralized manner while utilizing the benefits of the social layer. The potential is vast, because all the services that you can get on the Internet now could be integrated into Synereo! 
 
-* We can continue to live under centralized control, or we can work together to solve these problems. 
+Currently, the potential for different applications to interact with Synereo is profound: 
 
-* Please join us on slack.
-
-#### @work@Synereo
-Greg says greg says blockchain community people are very inclusive. We are creating a movement. He suggested that we find more ways to reward community members with AMPs. 
-
-#### To Do's for members
-In order to help manage jobs for community members, Dor suggested the creation of a running list of to-dos that community members can take on in exchange for a AMP rewards. 
-
-#### Decentralised Scribe
-Hank summarized how the last Hangout Summary document was created: Hank created the initial document. Ian added a timeline, hank added pictures, then we both filled summaries of each section.
-
-#### How to keep track
-Jed wants summary process written down so he can keep track.  Build a road map.
-
-### [What Are The Best Growth Vectors For Synereo?](https://youtu.be/JH4GLfccKY8?t=2015) <BR>
-
-Ed, Greg, and Dor discuss the growth of our platform and community. Who are are niche markets? What MVP will best serve them? Not all investors understand that we are a collaborative platform and not just one individual application. Massroots (https://massroots.com/) was given as an example cannabis related social network that has more than half a million members. They have strong interest in privacy, autonomy, and the resilience of their platform to attack. Rather than funneling users from existing networks, Dor suggests onboarding smaller groups and "building a giant out of midgets."
-
-### [A Discussion of Decentralized Reputation Systems](https://youtu.be/JH4GLfccKY8?t=2484) <BR>
-
-#### Engineers need a proper FreeLancePlatform
-
-John Conlin on the Hangout is an alias of Patrick Mockridge, a chartered chemical engineer that has created http://engzig.com, a platform to disrupt engineering recruitment. It uses evernote, credly, and mozilla open badges to implement a reputation system for oil and gas professionals. He describes shortcomings in the recruitment systems currently in use, and how enzig would like to give engineers the ability to rate their peers work and establish reputations that they can own and store on a blockchain.
-
-#### Greg's Comments on Reputation & Identity
-At the hackathon, Greg discussed identity and reputation with Matan Field (https://twitter.com/MatanField) and Primavera De Filippi (https://twitter.com/yaoeo) who are working on backfeed (http://backfeed.cc/). Greg says , "there is this possibility that there are these recursive relationships amongst identity and reputation and the notion of channel and being able to observe the behavior of channels over time."
-
-Dor discusses reputation on Synereo and points to the [attention economy slides](https://docs.google.com/presentation/d/12wZfRyF9XBMrc1ripXGfyNXCnO_MD7f2-Gc8AIa-v8o/pub?start=false&loop=false&slide=id.g4ecec4c43_37).
+       …...
++-----------+-----------+-----------+-----------+----------------------+
+|  Synereo Social Platform          | LivelyGig | Protunity |  NextApp |
++-----------+-----------+-----------+-----------+----------------------+
+|         Agent User Model                                  |  Casper  |
++-----------------------------------------------------------+----------+
+|                              SpecialK                                |
++----------------------------------------------------------------------+
+|                             Scala + JVM                              |
++----------------------------------------------------------------------+
 
 
-### [Dor Wants To Map Communities, Calls For Help](https://youtu.be/JH4GLfccKY8?t=3225) <BR>
-Dor wants the community to create a document mapping the communities that might be interested in what synereo has to offer. (privacy groups, open source groups, etc) What functionality do they need? We can then tailor our messaging when we release new features.
+### [1:00:02 - BnkToTheFuture and private Pre-Sale
+](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=3616) <BR>
 
-### [Jed Discusses Our Roadmap for Marketing and Community Efforts, Calls for Help ](https://youtu.be/JH4GLfccKY8?t=3351) <BR>
-
-Jed has begun a [roadmap document](https://docs.google.com/document/d/1c1vJks6RAhTynbkKkgQvl8RUanlJRBTr2PnyB1zW-_g/edit#heading=h.70o0r96eoghg) to keep us all on track.
-
+Dor discussed an upcoming pre-sale for investors. This is not a sale of AMPs, but rather a direct investment by investors into the company. One of the great aspects of the upcoming deal with bnktothefure is that Synereo can already receive investments before the pitch goes live. The higher the pre-investment, the more chances there are for a higher final investment. This means that we have a lot to gain by having individuals invest early, primarily because we can speed up the development process and set up nodes for the Synereo network early. 
 
 That's all for this week!
+
+
