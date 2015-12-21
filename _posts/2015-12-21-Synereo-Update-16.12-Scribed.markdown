@@ -29,8 +29,16 @@ Dor announced the creation of a Q&A feature for the [Community Hangout](https://
 [17:57 - Legal requirements on contract “back doors”](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1077) <BR>
 [23:07 - Is the legal system corrupt?](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1387) <BR>
 [25:16 - Dor about decentralisation and large institutions](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1517) <BR>
-[Dor Wants To Map Communities, Calls For Help](https://youtu.be/JH4GLfccKY8?t=3225) <BR>
-[Jed Discusses Our Roadmap for Marketing and Community Efforts, Calls for Help ](https://youtu.be/JH4GLfccKY8?t=3351) <BR>
+[29:14 - Jim: Trust is not a simple problem](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1754) <BR>
+[32:43 - Hackaton participation](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=1963) <BR>
+[39:39 - Dor’s update](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2379) <BR>
+[42:34 - Synereo on CoinMarketCap, market discussion](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2554) <BR>
+[43:34 - Technical updates; the DNA of the new Synereo application
+](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2614) <BR>
+[55:18 - Drbloom and notion of Ceptrons, clarification from Dor
+](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=3318) <BR>
+[1:00:02 - BnkToTheFuture and private Pre-Sale
+](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=3616) <BR>
 
 <BR>
 
