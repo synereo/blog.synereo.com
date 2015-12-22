@@ -110,6 +110,7 @@ Currently, the potential for different applications to interact with Synereo is 
 
 Dor discussed an upcoming pre-sale for investors. This is not a sale of AMPs, but rather a direct investment by investors into the company. One of the great aspects of the upcoming deal with bnktothefure is that Synereo can already receive investments before the pitch goes live. The higher the pre-investment, the more chances there are for a higher final investment. This means that we have a lot to gain by having individuals invest early, primarily because we can speed up the development process and set up nodes for the Synereo network early. 
 
-That's all for this week!
+
+That's all for this week! 
 
 
