@@ -103,7 +103,7 @@ Many people ask about what Synereo as a company will do once the users own Syner
 
 Currently, the potential for different applications to interact with Synereo is profound: 
 
-!(Stack Diagram)[http://i.imgur.com/juNN4vG.png]
+![Stack Diagram](http://i.imgur.com/juNN4vG.png)
 
 
 ### [1:00:02 - BnkToTheFuture and private Pre-Sale](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=3616) <BR>
