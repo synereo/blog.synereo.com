@@ -6,11 +6,11 @@ title: Scribe Notes For Synereo Weekly Update
 date: '2015-12-21 08:00:00 +0200'
 ---
 
-## Development Update
-[As we continue the tradition of summarizing the updates of our weekly hangout](http://blog.synereo.com/2015/12/02/new-bounty/), here's what happened last week in Synereo, courtesy of our bright and brave community members.
+## Update Summary
+[As we continue the tradition of summarizing the updates of our weekly hangout](http://blog.synereo.com/2015/12/02/new-bounty/), we bring to you a summary of the events of the past week, courtesy of our bright and brave community members.
 <BR>
 
-Greg has gotten many valuable insights into decentralized systems at #BlockchainSYD. Of note, Lawrence Lessig’s talk “Thinking Through Law and Code” provided valuable insights into how decentralized systems will affect the legal landscape. Most importantly, decentralized systems should be flexible and designed with compassion in mind, and allow for adjudication of their processes. In addition, Greg attended a collaborative Hackathon, where $50,000 was awarded to the winning idea, a project he participated in. 
+Greg has gotten many valuable insights into decentralized systems at #BlockchainSYD. Of note, Lawrence Lessig’s talk “Thinking Through Law and Code” provided valuable insights into how decentralized systems will affect the legal landscape. Most importantly, decentralized systems should be flexible and designed with compassion in mind, and allow for adjudication of their processes. In addition, Greg attended a collaborative Hackathon, where **$50,000 was awarded** to the winning idea, a project he participated in. 
 
 Synereo Ltd. is working on creating its next new role for the community: the Ambassador. The Ambassador will be responsible for going out into established networks and being a liaison between various groups interested in Synereo. Ambassadors will play a key role in helping the early network find its community abroad. 
 
