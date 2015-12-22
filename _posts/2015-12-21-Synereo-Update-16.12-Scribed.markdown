@@ -12,9 +12,11 @@ date: '2015-12-21 08:00:00 +0200'
 
 Greg has gotten many valuable insights into decentralized systems at #BlockchainSYD. Of note, Lawrence Lessig’s talk “Thinking Through Law and Code” provided valuable insights into how decentralized systems will affect the legal landscape. Most importantly, decentralized systems should be flexible and designed with compassion in mind, and allow for adjudication of their processes. In addition, Greg attended a collaborative Hackathon, where **$50,000 was awarded** to the winning idea, a project he participated in. 
 
-Synereo Ltd. is working on creating its next new role for the community: the Ambassador. The Ambassador will be responsible for going out into established networks and being a liaison between various groups interested in Synereo. Ambassadors will play a key role in helping the early network find its community abroad. 
+Synereo is working on creating its next new role for the community: the Ambassador. The Ambassador will be responsible for going out into established networks and being a liaison between various groups interested in Synereo. Ambassadors will play a key role in helping the early network find its community abroad. 
 
-Dor announced the creation of a Q&A feature for the [Community Hangout](https://plus.google.com/u/0/b/109002904706315055045/events/cvnplaajtlu9oi07j2ut738ntm0)! Individuals will be able to submit text questions before and during the Community Hangout and have them answered live. In addition, he spoke about Bnktothefuture and our coming presale for investors, which will help us gain the best possible footing for moving forward. The price of AMPs was discussed, along with their increasing success in the market and the listing on [CoinMarketCap](http://coinmarketcap.com/assets/synereo/). 
+Dor announced the creation of a Q&A feature for the [Community Hangout](https://plus.google.com/u/0/b/109002904706315055045/events/cvnplaajtlu9oi07j2ut738ntm0)! Individuals will be able to submit text questions before and during the Community Hangout and have them answered live. In addition, he spoke about Bnktothefuture and our coming presale for investors, which will help us gain the best possible footing for moving forward. The price of AMPs was discussed, along with their increasing success in the market and the listing on [CoinMarketCap](http://coinmarketcap.com/assets/synereo/).
+
+Lastly, Dor discussed the three unique aspects of the social platform that the team hope will pervade the experience of our soon-to-be-launched application.
 
 ![Synereo Hangout - Greg](http://i.imgur.com/JAb7mji.jpg)
 
