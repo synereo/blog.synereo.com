@@ -84,8 +84,7 @@ Dor created a [community directory](https://drive.google.com/drive/folders/0B2oJ
 
 Now you can see how the AMP is doing on [CoinMarketCap](http://coinmarketcap.com/assets/synereo/). Not only is the price of AMPs getting attention of late, it is already going up! 
 
-### [43:34 - Technical updates; the DNA of the new Synereo application
-](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2614) <BR>
+### [43:34 - Technical updates; the DNA of the new Synereo application](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=2614) <BR>
 
 The UI for Synereo is currently in development. Our team in India is working hard on the UI and back end, making sure that the system is smooth and efficient. A demo is in the works, but before it can be shared the data importer must be tested and approved. In order to make this happen, the team is ready to load test data in JSON format, which will let us know that we have a solid demo in place. Currently, one of the challenges that the team faces is that the docker image in the UI is stalled, because there are too many threads that need to be incorporated for it to work properly. This is a challenge we are confident the team can overcome. 
 
@@ -93,27 +92,16 @@ Dor talks about the DNA of the upcoming Synereo application: the three important
 
 The LivelyGig documentation of the API is well under way.
 
-### [55:18 - Drbloom and notion of Ceptrons, clarification from Dor
-](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=3318) <BR>
+### [55:18 - Drbloom and notion of Ceptrons, clarification from Dor](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=3318) <BR>
 
 Many people ask about what Synereo as a company will do once the users own Synereo as a network. Its very important to distinguish the difference between Synereo the ‘Social Networking Application’ and Synereo Ltd., the company. One of the core tasks of Synereo Ltd will be facilitating the development of 3rd party apps to ride on top of Synereo. Because the Synereo social platform runs on SpecialK, you can build on top of Synereo any application that you want in a decentralized manner while utilizing the benefits of the social layer. The potential is vast, because all the services that you can get on the Internet now could be integrated into Synereo! 
 
 Currently, the potential for different applications to interact with Synereo is profound: 
 
-       …...
-+-----------+-----------+-----------+-----------+----------------------+
-|  Synereo Social Platform          | LivelyGig | Protunity |  NextApp |
-+-----------+-----------+-----------+-----------+----------------------+
-|         Agent User Model                                  |  Casper  |
-+-----------------------------------------------------------+----------+
-|                              SpecialK                                |
-+----------------------------------------------------------------------+
-|                             Scala + JVM                              |
-+----------------------------------------------------------------------+
+!(Stack Diagram)[http://i.imgur.com/juNN4vG.png]
 
 
-### [1:00:02 - BnkToTheFuture and private Pre-Sale
-](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=3616) <BR>
+### [1:00:02 - BnkToTheFuture and private Pre-Sale](https://www.youtube.com/watch?feature=player_embedded&v=hu-1OGan3Hg#t=3616) <BR>
 
 Dor discussed an upcoming pre-sale for investors. This is not a sale of AMPs, but rather a direct investment by investors into the company. One of the great aspects of the upcoming deal with bnktothefure is that Synereo can already receive investments before the pitch goes live. The higher the pre-investment, the more chances there are for a higher final investment. This means that we have a lot to gain by having individuals invest early, primarily because we can speed up the development process and set up nodes for the Synereo network early. 
 
