@@ -21,7 +21,7 @@ This week, musician and bitcoin advocate [Tatiana Moroz](http://tatianamoroz.com
 [0712: Tatiana about her history with cryptocurrency](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=0712) <BR>
 [1025: Listen to song "Heart of Gold"](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1025)<BR>
 [1137: How will Synereo allow other artists to follow Tatiana's lead in the decentralized space?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1137) <BR>
-[1378: Tatiana’s ask how Synereo is built](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1378) <BR>
+[1378: Tatiana asks how Synereo is built](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1378) <BR>
 [1390: Greg answers](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1390) <BR>
 [1629: Integrating artist coins in Synereo](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1629) <BR>
 [2045: Synereo availability](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2045) <BR>
