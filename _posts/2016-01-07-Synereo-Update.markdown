@@ -13,7 +13,7 @@ date: '2016-01-12 08:00:00 +0200'
 
 <BR>
 
-This week, musician and bitcoin advocate [Tatiana Moroz](http://tatianamoroz.com/) spoke about her journey into cryptocurrency and how decentralized technologies are going to be important for artists in the years to come. We discussed how to build out our community looking forward, and likely groups that we can reach out to in order to form creative partnerships. Finally, Dor discussed the differences between Synereo and Facebook, and how Synereo can be a completely new experience for users. 
+This week, musician and bitcoin advocate [Tatiana Moroz](http://tatianamoroz.com/) spoke about her journey into cryptocurrency and how decentralized technologies are going to be important for artists in the years to come. We discussed how to build out our community looking forward, and likely groups that we can reach out to in order to form creative partnerships. Finally, Dor discussed the differences between Synereo and Facebook, and how Synereo can offer a completely new, and better, experience. 
 
 <BR>
 
@@ -96,7 +96,6 @@ You can stand up a node right now, but it’s not really user friendly yet.  The
 
 On the same platform, several applications can be made.  Like Livelygig for freelancers. 
 Musicians have been working in a setting of freelancing for a long time.  The priority is applications first, and platform second.  It’s no use to create a wonderful platform that nobody uses.  Meanwhile we’re working on a broader vision, a transition to a platform based on self-determination.  The new kind of communication that the Internet offers, gives us new opportunities for organisation.  But then the people have to trust these communication tools, which is not the case when these tools are in hands of centralized, hierarchical organizations like FB or governments. 
-
 <BR>
 
 We are rapidly engaging in a global political and economic situation, so we’re building the corresponding platform up in stages.  To begin with, a low risk platform for content distribution.  The second level of risk is work (to get money for your work).  Another use could be dating.  Along the way people will trust enough to use it as a means for self determination.  The first two releases (Synereo Social network and LivelyGig) are in line with that plan of adding applications with increasing levels of risk.
@@ -120,15 +119,18 @@ In short, we have to provide features for users that make it compelling to use S
 ### [3227: Why should Synereo be better than FB?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=3227)
 
 When it comes to explaining the differences between Synereo and Facebook, the answers are very clear. Sometimes people ask how Synereo plans to bring people over into its system. 
+<BR>
+
 Usually, what Dor explains to investors is that Synereo’s community outreach will happen in three stages:
 
  1. Early adopters come on board before the full application is out.  privacy advocates, cryptocurrency enthusiasts, people interested in the collaboration tools inherent in the system, those who seek the greater control mechanisms our platform provides, and developers/hackers who appreciate that our system is open-source and very extensible. 
+ 
  2. Over the medium term, many of the applications being built on top of Synereo will begin their operations. There are two main benefits these platform will provide, one that’ll be immediately apparent and one that’ll only be relevant in the long term. The main and immediate benefit is that these applications will be in creating sustainable economies where the participants themselves retain the value of their work rather than providing a significant portion of it to the interface provider. 
 People that want to communicate and collaborate together and reward each other.  Like musicians. It’s a decentralised FB, Google, AirBnb, Uber without a third party. 
 
  3. In the long term, Synereo is going to have a major advantage in terms of user experience and the type and variety of user interfaces that will be available to users. It is now common knowledge that Facebook et al. are completely unwilling to improve the experience of their users or to grant them any measure of control that hurts their bottom line as it relates to acquiring data about them or selling their attention to 3rd parties. Synereo's platform does not have this issue, paving the way to many new types of interfaces, and even applications, that are simply impossible to create under the current conditions of the ecosystem.
 
-It will be a platform to develop other applications upon.
+It will be a platform to develop other applications on.
 Tatiana refers to [Bitlanders.com](http://www.bitlanders.com)
 
 Julian is interested in Synereo because he thinks this is the way to improve on the experience of other social networks.
@@ -143,6 +145,7 @@ You can decide yourself what you want to see by selecting channels (left) or sou
 
 
 ### [4807: New Investor Deck](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=4807)
-Dor was talking about a new investor deck that’s going to be used at BnkToTheFuture.  If you want to know more about it, please email Dor.
+Dor talked about a new investor deck that’s going to be used at BnkToTheFuture.  If you want to know more about it or help us send it to potential investors, please email [Dor](hello@synereo.com).
+<BR>
 
 That's all for this week! 
