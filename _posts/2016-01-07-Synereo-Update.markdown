@@ -7,7 +7,10 @@ date: '2016-01-12 08:00:00 +0200'
 ---
 
 ## Update Summary
+<BR>
+
 ![Synereo Hangout - with Tatiana](http://i.imgur.com/04jIEdi.jpg)
+
 <BR>
 
 This week, musician and bitcoin advocate [Tatiana Moroz](http://tatianamoroz.com/) spoke about her journey into cryptocurrency and how decentralized technologies are going to be important for artists in the years to come. We discussed how to build out our community looking forward, and likely groups that we can reach out to in order to form creative partnerships. Finally, Dor discussed the differences between Synereo and Facebook, and how Synereo can be a completely new experience for users. 
@@ -27,7 +30,7 @@ This week, musician and bitcoin advocate [Tatiana Moroz](http://tatianamoroz.com
 [2045: Synereo availability](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2045) <BR>
 [2325: How to get people on board?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2325) <BR>
 [2430: Jim about attracting FB-users](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2430) <BR>
-[3227: Why should Synereo be better then FB?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=3227) <BR>
+[3227: Why should Synereo be better than FB?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=3227) <BR>
 [4051: Current UI](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=4051) <BR>
 [4807: New Investor Deck](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=4807) <BR>
 
@@ -44,7 +47,11 @@ Early in the discussion, the idea of quantum computing was brought up, and how t
 
 
 ### [0712: Tatiana about her history with cryptocurrency](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=0712)
-[Tatiana Moroz](http://tatianamoroz.com) is a singer/songwriter based in New Jersey, NY.  She says that music is always about bringing a great cultural shift.  Bitpay sponsored one of her performances in Tampa and they approached her to talk about bitcoin. In late 2013, she went to a conference about bitcoin in Atlanta and wrote a song to give more support for bitcoin.  In Argentina she performed the song and it was a peak time for bitcoin.  Tatiana was well accepted in the community, and managed to create the first artist cryptocurrency.  Without access to financial resources, she realized, artists were prevented from entering the industry at a level necessary to compete.  A second point was the transition  from MySpace to Facebook at that time. Losing friends and having to make new ones.  Tatiana was astonished when FB started charging her money for posting to her fans. She doesn’t think crowdfunding is ideal, so she came up with the Artistcoin.  You have a better relationship with your fans this way, and can do constant fundraising.  Tatiana has also a crypto media marketing company and a show called “Bitcoin for dummies” in an effort to make bitcoin more accessible.
+[Tatiana Moroz](http://tatianamoroz.com) is a singer/songwriter based in New Jersey, NY.  She says that music is always about bringing a great cultural shift.  Bitpay sponsored one of her performances in Tampa and they approached her to talk about bitcoin. In late 2013, she went to a conference about bitcoin in Atlanta and wrote a song to give more support for bitcoin.  In Argentina she performed the song and it was a peak time for bitcoin.  
+
+<BR>
+
+Tatiana was well accepted in the community, and managed to create the first artist cryptocurrency.  Without access to financial resources, she realized, artists were prevented from entering the industry at a level necessary to compete.  A second point was the transition  from MySpace to Facebook at that time. Losing friends and having to make new ones.  Tatiana was astonished when FB started charging her money for posting to her fans. She doesn’t think crowdfunding is ideal, so she came up with the Artistcoin.  You have a better relationship with your fans this way, and can do constant fundraising.  Tatiana has also a crypto media marketing company and a show called “Bitcoin for dummies” in an effort to make bitcoin more accessible.
 
 
 ### [1025: Listen to song "Heart of Gold"](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1025)
@@ -52,7 +59,11 @@ Early in the discussion, the idea of quantum computing was brought up, and how t
 
 ### [1137: How will Synereo allow other artists to follow Tatiana's lead in the decentralized space](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1137)
 
-How do content creators like Tatiana promote their songs, and how that would transmit to her audience and beyond.  Dor responds: the work that Tatiana has gone through, the prototyping work she's done, is exactly what we would like to offer in Synereo.  She built it up from scratch and collected pieces: how to issue the coin, how to sell it and how to deal with the fans from the network.  We want to make it very easy for an artist to issue his own coin, to give it a name and also to issue other types of tokens, like different types of rewards or badges.  It’s easy to upload artistical work, to redistribute that art, and to license it in the way that you want.  The artist can have a pre-sale for a show, charging fans only once enough sales have been made and the show was set following that.  If there’s a certain threshold, say 500 people, then the concert can go ahead.  You skip the process of finding agents and you can arrange all the tour facilities through the network.
+How do content creators like Tatiana promote their songs, and how that would transmit to her audience and beyond.  Dor responds: the work that Tatiana has gone through, the prototyping work she's done, is exactly what we would like to offer in Synereo.  She built it up from scratch and collected pieces: how to issue the coin, how to sell it and how to deal with the fans from the network. 
+
+<BR>
+
+We want to make it very easy for an artist to issue his own coin, to give it a name and also to issue other types of tokens, like different types of rewards or badges.  It’s easy to upload artistical work, to redistribute that art, and to license it in the way that you want.  The artist can have a pre-sale for a show, charging fans only once enough sales have been made and the show was set following that.  If there’s a certain threshold, say 500 people, then the concert can go ahead.  You skip the process of finding agents and you can arrange all the tour facilities through the network.
 
 One of the features of Synereo is to facilitate the connection between the content creator and the audience without a third party in between.
 
@@ -84,7 +95,11 @@ Can people try out Synereo at the moment?
 You can stand up a node right now, but it’s not really user friendly yet.  The new UI will come out at the end of February, which lines up with our equity sale through BankToTheFuture. Tatiana offered her service to make it a good pre-sale.
 
 On the same platform, several applications can be made.  Like Livelygig for freelancers. 
-Musicians have been working in a setting of freelancing for a long time.  The priority is applications first, and platform second.  It’s no use to create a wonderful platform that nobody uses.  Meanwhile we’re working on a broader vision, a transition to a platform based on self-determination.  The new kind of communication that the Internet offers, gives us new opportunities for organisation.  But then the people have to trust these communication tools, which is not the case when these tools are in hands of centralized, hierarchical organizations like FB or governments.  We are rapidly engaging in a global political and economic situation, so we’re building the corresponding platform up in stages.  To begin with, a low risk platform for content distribution.  The second level of risk is work (to get money for your work).  Another use could be dating.  Along the way people will trust enough to use it as a means for self determination.  The first two releases (Synereo Social network and LivelyGig) are in line with that plan of adding applications with increasing levels of risk.
+Musicians have been working in a setting of freelancing for a long time.  The priority is applications first, and platform second.  It’s no use to create a wonderful platform that nobody uses.  Meanwhile we’re working on a broader vision, a transition to a platform based on self-determination.  The new kind of communication that the Internet offers, gives us new opportunities for organisation.  But then the people have to trust these communication tools, which is not the case when these tools are in hands of centralized, hierarchical organizations like FB or governments. 
+
+<BR>
+
+We are rapidly engaging in a global political and economic situation, so we’re building the corresponding platform up in stages.  To begin with, a low risk platform for content distribution.  The second level of risk is work (to get money for your work).  Another use could be dating.  Along the way people will trust enough to use it as a means for self determination.  The first two releases (Synereo Social network and LivelyGig) are in line with that plan of adding applications with increasing levels of risk.
 
 ### [2325: How to get people on board?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2325)
 In February we’re inviting alpha-users and then there will be a steady stream of improvements after that. In fact there’s no choice. We need a different kind of network. Nobody wants to go back to the time of walking to a physical bank, to do their banking. The same is for blockchain technology. We want to keep this kind of trustless, censorship resistant mechanism for exchange of digital assets. So we have to get this platform.
@@ -101,10 +116,8 @@ But the most compelling approach is to attract the thought leaders of a certain 
 
 In short, we have to provide features for users that make it compelling to use Synereo.  The first thing is that people, and their content will have value; value follows content.  Whereas FB steals all the value from the transmission of content, FB users don’t directly benefit from their content additions.  FB is mostly sucking out the monetary value from those communications.  That means that over time this becomes unsustainable.  Until now, users have been satisfied because they have this big need of connection.  People are realising now that connection is not the only thing to this social network experience.  Part of this experience is that you are compensated for your attention, that you’re compensated for the work that you put in.  Another part is that you trust the network.  The only way that you can trust the network is that you are engaged or involved in the network.  If the people are the network, if it’s a public utility then they can trust the network in a completely different way.
 
-### [2997: Example of The California guitar trio](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2997)
 
-
-### [3227: Why should Synereo be better then FB?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=3227)
+### [3227: Why should Synereo be better than FB?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=3227)
 
 When it comes to explaining the differences between Synereo and Facebook, the answers are very clear. Sometimes people ask how Synereo plans to bring people over into its system. 
 Usually, what Dor explains to investors is that Synereo’s community outreach will happen in three stages:
