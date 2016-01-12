@@ -16,20 +16,20 @@ This week, musician and bitcoin advocate [Tatiana Moroz](http://tatianamoroz.com
 
 ## Contents in Brief
 
-### [Watch the full Hangout](https://www.youtube.com/watch?v=UI28eTYafIA&feature=youtu.be&t=0m10s)
-###### [0024: What happens with Quantum Computing?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=0024) <BR>
-###### [0712: Tatiana about her history with cryptocurrency](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=0712) <BR>
-###### [1025: Listen to song "Heart of Gold"](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1025)<BR>
-###### [1137: How will Synereo allow other artists to follow Tatiana's lead in the decentralized space?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1137) <BR>
-###### [1378: Tatiana’s ask how Synereo is built](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1378) <BR>
-###### [1390: Greg answers](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1390) <BR>
-###### [1629: Integrating artist coins in Synereo](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1629) <BR>
-###### [2045: Synereo availability](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2045) <BR>
-###### [2325: How to get people on board?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2325) <BR>
-###### [2430: Jim about attracting FB-users](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2430) <BR>
-###### [3227: Why should Synereo be better then FB?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=3227) <BR>
-###### [4051: Current UI](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=4051) <BR>
-###### [4807: New Investor Deck](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=4807) <BR>
+## [Watch the full Hangout](https://www.youtube.com/watch?v=UI28eTYafIA&feature=youtu.be&t=0m10s)
+[0024: What happens with Quantum Computing?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=0024) <BR>
+#### [0712: Tatiana about her history with cryptocurrency](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=0712) <BR>
+[1025: Listen to song "Heart of Gold"](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1025)<BR>
+[1137: How will Synereo allow other artists to follow Tatiana's lead in the decentralized space?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1137) <BR>
+[1378: Tatiana’s ask how Synereo is built](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1378) <BR>
+[1390: Greg answers](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1390) <BR>
+[1629: Integrating artist coins in Synereo](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1629) <BR>
+[2045: Synereo availability](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2045) <BR>
+[2325: How to get people on board?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2325) <BR>
+[2430: Jim about attracting FB-users](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=2430) <BR>
+[3227: Why should Synereo be better then FB?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=3227) <BR>
+[4051: Current UI](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=4051) <BR>
+[4807: New Investor Deck](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=4807) <BR>
 
 <BR>
 
