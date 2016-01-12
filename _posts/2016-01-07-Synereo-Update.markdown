@@ -16,9 +16,9 @@ This week, musician and bitcoin advocate [Tatiana Moroz](http://tatianamoroz.com
 
 ## Contents in Brief
 
-## [Watch the full Hangout](https://www.youtube.com/watch?v=UI28eTYafIA&feature=youtu.be&t=0m10s)
+### [Watch the full Hangout](https://www.youtube.com/watch?v=UI28eTYafIA&feature=youtu.be&t=0m10s)
 [0024: What happens with Quantum Computing?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=0024) <BR>
-#### [0712: Tatiana about her history with cryptocurrency](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=0712) <BR>
+[0712: Tatiana about her history with cryptocurrency](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=0712) <BR>
 [1025: Listen to song "Heart of Gold"](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1025)<BR>
 [1137: How will Synereo allow other artists to follow Tatiana's lead in the decentralized space?](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1137) <BR>
 [1378: Tatiana’s ask how Synereo is built](https://www.youtube.com/watch?feature=player_embedded&v=UI28eTYafIA#t=1378) <BR>
