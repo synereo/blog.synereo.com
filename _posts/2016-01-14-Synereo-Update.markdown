@@ -10,30 +10,34 @@ date: '2016-01-12 08:00:00 +0200'
 <BR>
 Special guest Dina Supino, UX and Product designer now working with Synereo. 
 
-Updates about: 
+This week brings updates about: 
 * Work on our Docker container / one-click installation 
+
 * LivelyGig development update
+
 * Work on Casper, the Proof-of-Stake protocol
+
 * New collaborations with Backfeed, working on reputation and collaboration protocols, and
+
 * weWOWwe, a Chinese sports-related social network starting to migrate functionality to rely on Synereo. 
 
 
 ## Contents in Brief
 ### [Watch the full Hangout](https://youtu.be/p-heibeelOc) <BR>
-[0036 - Intro by Greg](https://youtu.be/p-heibeelOc?t=36) 
-[0335 - Dina introduces herself](https://youtu.be/p-heibeelOc?t=335)
-*[0470 - What's design? A presentation by Dina](https://youtu.be/p-heibeelOc?t=470)*
-*[0777 - Design challenges for open source projects](https://youtu.be/p-heibeelOc?t=777)*
-[1189 - Response of Greg](https://youtu.be/p-heibeelOc?t=1189)
-[1629 - Dor about cooperation with Backfeed and weWOWwe](https://youtu.be/p-heibeelOc?t=1629)
-[1918 - Working as a community](https://youtu.be/p-heibeelOc?t=1918)
-[2506 - Community takes up work](https://youtu.be/p-heibeelOc?t=2506)
-[2636 - Code of the protocol](https://youtu.be/p-heibeelOc?t=2636)
-[2916 - Largest AMP bounty so far given for Docker work](https://youtu.be/p-heibeelOc?t=2914)
-[3050 - LivelyGig update by Ed](https://youtu.be/p-heibeelOc?t=3050)
-[3196 - Casper update](https://youtu.be/p-heibeelOc?t=3196)
-[3399 - Allan's involvement](https://youtu.be/p-heibeelOc?t=3399)
-[3629 - Thanks](https://youtu.be/p-heibeelOc?t=3629)
+[0036 - Intro by Greg](https://youtu.be/p-heibeelOc?t=36) <BR>
+[0335 - Dina introduces herself](https://youtu.be/p-heibeelOc?t=335) <BR>
+*[0470 - What's design? A presentation by Dina](https://youtu.be/p-heibeelOc?t=470)* <BR>
+*[0777 - Design challenges for open source projects](https://youtu.be/p-heibeelOc?t=777)* <BR>
+[1189 - Response of Greg](https://youtu.be/p-heibeelOc?t=1189) <BR>
+[1629 - Dor about cooperation with Backfeed and weWOWwe](https://youtu.be/p-heibeelOc?t=1629) <BR>
+[1918 - Working as a community](https://youtu.be/p-heibeelOc?t=1918) <BR>
+[2506 - Community takes up work](https://youtu.be/p-heibeelOc?t=2506) <BR>
+[2636 - Code of the protocol](https://youtu.be/p-heibeelOc?t=2636) <BR>
+[2916 - Largest AMP bounty so far given for Docker work](https://youtu.be/p-heibeelOc?t=2914) <BR>
+[3050 - LivelyGig update by Ed](https://youtu.be/p-heibeelOc?t=3050) <BR>
+[3196 - Casper update](https://youtu.be/p-heibeelOc?t=3196) <BR>
+[3399 - Allan's involvement](https://youtu.be/p-heibeelOc?t=3399) <BR>
+[3629 - Thanks](https://youtu.be/p-heibeelOc?t=3629) <BR>
 
 ## Detailed Notes
 [0036 - Intro by Greg](https://www.youtube.com/watch?v=p-heibeelOc&feature=youtu.be&t=36) <BR>
