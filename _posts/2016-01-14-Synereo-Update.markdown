@@ -59,7 +59,7 @@ I'm a UX designer, 10 years experience. My latest project was MS Azure. After th
 ![image](http://i.imgur.com/mKYRLMI.jpg)
 <BR>
 
-*[0470 - What's design? A presentation by Dina](https://youtu.be/p-heibeelOc?t=470)*
+### *[0470 - What's design? A presentation by Dina](https://youtu.be/p-heibeelOc?t=470)*
 If you wanna help with Visual/Graphic Design, ... come forward. That's always great! First we need product design guidelines, the typography for making this entire product. Kind of making things beautiful and clean, and that work.
 
 UI design is the process of creating user interfaces that balance technical functionality and visual elements. We need UI wireframes, prototypes, storyboards. Basically working through kind of the underpinnings of a product.
