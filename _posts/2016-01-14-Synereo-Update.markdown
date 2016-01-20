@@ -48,6 +48,7 @@ Special guest Dina Supino. Greg and Dor have been working closely with her on th
 
 ### [0335 - Dina introduces herself](https://www.youtube.com/watch?v=p-heibeelOc&feature=youtu.be&t=335)<BR>
 ![image](http://i.imgur.com/0zQPJtH.jpg)
+<BR>
 
 [Dinasuarus](http://dinasaurus.com) 
 [Linkedin](https://www.linkedin.com/in/dinasupino)
@@ -56,6 +57,8 @@ Special guest Dina Supino. Greg and Dor have been working closely with her on th
 I'm a UX designer, 10 years experience. My latest project was MS Azure. After that we've been travelling the world for the last couple of years. It's really been going around and looking at cultures and learning about how people think in all of these different countries. Most recently we've just got a house that we're going to move in Tuesday after the hang out at the base of the mountain here in New Zealand.
  
 ![image](http://i.imgur.com/mKYRLMI.jpg)
+<BR>
+
 *[0470 - What's design? A presentation by Dina](https://youtu.be/p-heibeelOc?t=470)*
 If you wanna help with Visual/Graphic Design, ... come forward. That's always great! First we need product design guidelines, the typography for making this entire product. Kind of making things beautiful and clean, and that work.
 
@@ -74,6 +77,8 @@ Designers need to kind of have a little bit of all of the aforementioned aspects
 Design thinking is about making the design implementation-free. Keeping yourself free from the technology.
  
 ![image](http://i.imgur.com/ooLVHcu.jpg)
+<BR>
+
 ### *[0777 - Challenges for open source](https://youtu.be/p-heibeelOc?t=777)*
 People have a great idea based on tech and the whole experience is based on that. It's difficult for design when the underpinnings already have been completely set. 
 If you first focus on the goals then all sorts of different solutions come up. Then you can find the right one that really flows perfectly for the user. And that's why design needs to do that that process, out in front of the development input.
@@ -86,15 +91,21 @@ If you have examples of novel UX made by open source project please put them dow
 
 There have been some critics on Synereo's open source based and community based approach. But [Christopher Alexander] (https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building), (A Pattern Language, A Timeless Way of Building, The Nature of Order) has a different view on this.
 A blend of course is always going to work a bit better. Laying down some fundamentals that are pretty strong and then letting the community build upon that. 
+<BR>
+
 ![image](http://i.imgur.com/8wzLPfD.jpg)
 
 Community feedback helps with the user testing issue.
 Feedback is OK but it is informative for a designer, otherwise work gets never done. 
+<BR>
 ![image](http://i.imgur.com/cgqAsEB.png)
+<BR>
+
 You have a [designers paradox](https://youtu.be/p-heibeelOc?t=1102) if feedback is constantly flowing instead of feedback that is ordered into purposed based points along the process.
 ![image](http://i.imgur.com/Jrc46cc.png)
 
 Dina says that it's very important to define a product vision and she will cover it next week.
+<BR>
 
 ### [1189 - Greg](https://youtu.be/p-heibeelOc?t=1189) points to his slides about [Reactive Media](https://drive.google.com/open?id=0BwX0krsxHncTbXpsd3BhcEtZNjA)
 They are a language of concepts, capabilities and capacities, that people can utilise to rapidly put together user experiences but that also directly maps to the technology and the math. Recently we talked about channels "@" and labels "#". And that this could be used for the monitoring of the nodes. Since this is a decentralised network, users have to stand up their own nodes. You as administrator need that your node talks to you in a meaningful way. The social feed mechanism of Synereo can handle such things. You can also use it for monitoring the economic situation, i.e. your wallet that is associated with transactions.
@@ -110,6 +121,7 @@ We are cooperating with [Backfeed](http://backfeed.cc), founder is Matan Field, 
 We have been talking about the basic assumptions we make, about the design of the system and what it should be able to do. And it looks that they want to use Synereo's technology to implement their protocols. And it seems like we're going to merge our efforts.
 
 ### [1918 - Working as a community](https://youtu.be/p-heibeelOc?t=1918)
+
 Also with [Coala](http://coala.global/), that hosts the [blockchain workshop series](http://blockchainworkshops.org) and Vlad of Ethereum we're talking about reputation systems.  We are organising a satellite workshop in New York in April 2016 and we hope to have Backfeed, Livelygig, Synereo there and groups that are interested in the "internet of things" because we believe that things also should enjoy a reputation. Synereo is trying to jumpstart community effort around reputation systems and smart contracts, in order to investigate the concerns involved.  
 
 One of our investors is involved in a Chinese social network around the subject of sports. Uploading videos about soccer matches, analysis and so on. We're talking about including the reputation and reward system into this and to slowly think about moving the content to the distributed paradigm. The company wants then the users to be able to redeem their tokens for badges, t-shirts, meetings with star soccer players, and later on services on the greater Synereo network once there’s a possibility to exchange their tokens for AMPs and other currencies. This shows nicely how you can create a network of networks in terms of exchange of reputation or monetary value.
@@ -124,12 +136,18 @@ The venue protocol. This makes it harder to do discovery in the network. If you 
 
 
 ### [2636 - Code of the protocol](https://youtu.be/p-heibeelOc?t=2636)
+<BR>
+
 ![Image](http://i.imgur.com/0PWb2xQ.jpg)
+
+<BR>
 The protocol is in fact a few pages of code. A part that configures the behaviour, a part the sets the definitions, and a part that executes the protocol. In the configuration you can define what behaviour is launched when a node is launched. For example the feature "You need to be introduced in order to talk to this person." In the current interface you can drop a person icon onto another person icon. A message "Do you want to introduce these two people to each other?" pops up. And then it gives you the opportunity to send out a little introduction notice to each of them and then they are invited to connect to each other.
 
 This approach of defining protocols gives a significant acceleration and in addition there are all kinds of advantages with respect to a formal verification and correctness of the protocol, service discovery, etc..
 
 ### [2916 - Largest AMP bounty so far given for Docker work](https://youtu.be/p-heibeelOc?t=2914)
+<BR>
+
 Dor expresses his appreciation for Dory. He's not only one of Synereo’s largest investors, a very passionate member in the community, but he also unblocked the creation of the Docker Image, with respect to the RabbitMQ. With this achievement it becomes very easy to set up a node for the Synereo network. So he's rewarded with a bounty of 50,000 AMPs, worth close to 500$ (highest bounty until now).
 
 ## So If you're a developer in Scala, have DevOps skills, or have other IT-related knowledge, you could earn also AMPs. Talk to us!
