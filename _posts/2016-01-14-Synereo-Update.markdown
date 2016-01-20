@@ -89,7 +89,7 @@ If you have examples of novel UX made by open source project please put them dow
 
 ![image](http://i.imgur.com/AV4aBaM.jpg)
 
-There have been some critics on Synereo's open source based and community based approach. But [Christopher Alexander] (https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building), (A Pattern Language, A Timeless Way of Building, The Nature of Order) has a different view on this.
+There have been some critics on Synereo's open source based and community based approach. But (Christopher Alexander) [https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building], (A Pattern Language, A Timeless Way of Building, The Nature of Order) has a different view on this.
 A blend of course is always going to work a bit better. Laying down some fundamentals that are pretty strong and then letting the community build upon that. 
 <BR>
 
@@ -176,5 +176,5 @@ He hopes to bring that experience to SpecialK and LivelyGig in terms of launchin
 
 Please read the Open questions for pitch deck](https://docs.google.com/document/d/1xdKayitmM60PCBRCmekiDc5XOcN62LIN-a9MvFQQRDs/edit?usp=sharing)
 
-##That's all for this week!
+That's all for this week!
 
