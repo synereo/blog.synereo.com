@@ -78,7 +78,7 @@ Design thinking is about making the design implementation-free. Keeping yourself
  
 ![image](http://i.imgur.com/ooLVHcu.jpg)
 <BR>
-
+ 
 ### *[0777 - Challenges for open source](https://youtu.be/p-heibeelOc?t=777)*
 People have a great idea based on tech and the whole experience is based on that. It's difficult for design when the underpinnings already have been completely set. 
 If you first focus on the goals then all sorts of different solutions come up. Then you can find the right one that really flows perfectly for the user. And that's why design needs to do that that process, out in front of the development input.
