@@ -174,7 +174,7 @@ He hopes to bring that experience to SpecialK and LivelyGig in terms of launchin
 
 ### [3629 - Thanks](https://www.youtube.com/watch?v=p-heibeelOc&feature=youtu.be&t=3629)
 
-Please read the Open questions for pitch deck](https://docs.google.com/document/d/1xdKayitmM60PCBRCmekiDc5XOcN62LIN-a9MvFQQRDs/edit?usp=sharing)
+Please read the Open questions for [pitch deck](https://docs.google.com/document/d/1xdKayitmM60PCBRCmekiDc5XOcN62LIN-a9MvFQQRDs/edit?usp=sharing)
 
 That's all for this week!
 
