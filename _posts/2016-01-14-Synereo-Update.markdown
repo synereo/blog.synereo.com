@@ -11,11 +11,11 @@ date: '2016-01-12 08:00:00 +0200'
 Special guest Dina Supino, UX and Product designer now working with Synereo. 
 
 Updates about: 
-Work on our Docker container / one-click installation 
-LivelyGig development update
-Work on Casper, the Proof-of-Stake protocol
-New collaborations with Backfeed, working on reputation and collaboration protocols, and
-weWOWwe, a Chinese sports-related social network starting to migrate functionality to rely on Synereo. 
+** Work on our Docker container / one-click installation 
+** LivelyGig development update
+** Work on Casper, the Proof-of-Stake protocol
+** New collaborations with Backfeed, working on reputation and collaboration protocols, and
+** weWOWwe, a Chinese sports-related social network starting to migrate functionality to rely on Synereo. 
 
 
 ## Contents in Brief
