@@ -11,7 +11,7 @@ date: '2016-01-20 08:00:00 +0200'
 
 Our CEO, Dor Konforty, introduced a new and exciting partnership with [weWOWwe](http://wewowwe.com/about/), an established international sports-based social network. weWOWwe seeks to utilize Synereo social contracts to distribute a new crypto-currency with which to reward their users for contributions to the network. Very similar in spirit to our plans for Synereo, and indeed, it seems our values are aligned.  
 
-weWOWwe are our first partners from outside of the cryptocurrency/decentralization world!
+weWOWwe are our first partners from outside of the cryptocurrency / decentralization world!
  
 We also discussed how our app design is developing. Our user experience is one of the most anticipated features, and we're happy to say it is in good hands. This week, we introduced [Dina Supino](https://www.linkedin.com/in/dinasupino), a UX and Product Design engineer who lives in New Zealand, who was one of the creative voices in MS Azure. Dina brings a lot to the table, and this week we had the pleasure of hearing her introduction and plans to help bring Synereo's full potential into our new user experience. In addition, we heard updates on our Docker container and one-click installation features, a development update on LivelyGig, and the ongoing work on our Proof-of-Stake protocol, Casper. Things are moving into a whole new level. If you want to get involved, find us on [Slack](slack.synereo.com)!
 
