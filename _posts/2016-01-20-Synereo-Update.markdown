@@ -115,8 +115,10 @@ If you know Scala developers, please bring them on board. They will be rewarded 
 
 ### [53:28 - Bring us in contact with Bernie Sanders](https://youtu.be/A0JYkKLl830?t=53m28s)<BR>
 The [Bernie Sanders](https://berniesanders.com/issues/) campaign needs to get up to speed with blockchain technology and how they will impact society moving forward. It's about addressing the inequality of income and wealth.
+<BR>
 [![image](https://berniesanders.com/wp-content/uploads/2015/08/20150817_Charts_2-2.png)](https://berniesanders.com/issues/income-and-wealth-inequality/)
+<BR>
 
-c
+
 That's all for this week!
 <!--se_discussion_list:{"bW5ylGUUtfitwZSsijG37wYT":{"selectionStart":23,"selectionEnd":72,"commentList":[{"content":"what do you mean with 'uphold'?"},{"content":"It needs another word for something like drama"},{"author":"Lapin7","content":"Do you see this?"},{"content":"yes"},{"author":"Lapin7","content":"Aha I see your comment :-)"},{"author":"Lapin7","content":"This is the only chat possibility, but that's kind of slow. Maybe google docs is better"}],"discussionIndex":"bW5ylGUUtfitwZSsijG37wYT"}}-->
