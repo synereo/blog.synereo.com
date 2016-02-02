@@ -92,7 +92,7 @@ You can now set up the servers and ports you're talking to and the email validat
 This allows for fine grained testing, wiring it up to the UI so that you get a page where you raise users for test scenarios.
 
 ### [38:48 - Dor's update, Backfeed protocol can be implemented on Synereo tech](https://youtu.be/A0JYkKLl830?t=38m48s)<BR> 
-[![image](http://i.imgur.com/5jC1upa.jpg)](http://football.wewowwe.com)  Synereo signed an agreement with [weWOWwe](http://football.wewowwe.com) , a sports-related social network. Their users express their experiences about sports. Depending on how such a message is perceived, they get a kind of reputation token. These tokens can be exchanged for various rewards, like a meeting with one of the players or sports items in a market. They will use Synereo for measuring the response that is coming out of the Chinese content delivery networks. They collect the information and ship it off to Synereo, which is storing on behalf of the user, updated versions of the responses to their posts. Synereo keeps track of the cryptographic tokens and tracks the response of various users of social networks.
+[![image](http://i.imgur.com/5jC1upa.jpg)](http://football.wewowwe.com)  Synereo signed an agreement with [weWOWwe](http://football.wewowwe.com) , a sports-related social network. Their users express their experiences about sports. Depending on how such a message is perceived, they get a kind of reputation token. These tokens can be exchanged for various rewards, like a meeting with one of the players or sports items in a market. They will use Synereo for measuring the response that is coming out of the content delivery networks. They collect the information and ship it off to Synereo, which is storing on behalf of the user, updated versions of the responses to their posts. Synereo keeps track of the cryptographic tokens and tracks the response of various users of social networks.
 
 We also made a breakthrough in integrating [BackFeed's](http://backfeed.cc) inter-subjective protocols for reputation, that may also later be used for a governance model. Finally, there was a kind of common language to understand each other :-) They aimed for a kind of dynamic group creation through one smart contract and that suggests some centralization. 
 
@@ -117,10 +117,6 @@ If you know Scala developers, please bring them on board. They will be rewarded 
 The [Bernie Sanders](https://berniesanders.com/issues/) campaign needs to get up to speed with blockchain technology and how they will impact society moving forward. It's about addressing the inequality of income and wealth.
 [![image](https://berniesanders.com/wp-content/uploads/2015/08/20150817_Charts_2-2.png)](https://berniesanders.com/issues/income-and-wealth-inequality/)
 
-
-### [56:27 - Thanks](https://youtu.be/A0JYkKLl830?t=56m27s)<BR>
-
-Please read the Open questions for [pitch deck](https://docs.google.com/document/d/1xdKayitmM60PCBRCmekiDc5XOcN62LIN-a9MvFQQRDs/edit?usp=sharing)
-
+c
 That's all for this week!
 <!--se_discussion_list:{"bW5ylGUUtfitwZSsijG37wYT":{"selectionStart":23,"selectionEnd":72,"commentList":[{"content":"what do you mean with 'uphold'?"},{"content":"It needs another word for something like drama"},{"author":"Lapin7","content":"Do you see this?"},{"content":"yes"},{"author":"Lapin7","content":"Aha I see your comment :-)"},{"author":"Lapin7","content":"This is the only chat possibility, but that's kind of slow. Maybe google docs is better"}],"discussionIndex":"bW5ylGUUtfitwZSsijG37wYT"}}-->
