@@ -16,25 +16,24 @@ LivelyGig is progressing on its UI. Code reviews clean a lot of clutter through 
 
 Additional dev grants from Ethereum for the work on Casper, the new Proof of Stake protocol Greg is leading the design for, are approved. 
 
-# Scala developers are most welcome to join our coding efforts and will be highly rewarded! Also, if you aren’t a Scala developer and you want to help us grow, find us on our [slack channel](synereo.slack.com)! 
+Scala developers are most welcome to join our coding efforts and will be *highly rewarded!* Also, if you aren’t a Scala developer and you want to help us grow, find us on our [slack channel](synereo.slack.com)! 
 
 ![image](http://i.imgur.com/355VejM.jpg)
 
 ## Contents in Brief
 ### [Watch the full Hangout](https://www.youtube.com/watch?v=A0JYkKLl830) <BR>
-[00:58 - Mike Hearn & Bitcoin news](https://youtu.be/A0JYkKLl830?t=3m58s) 
-[03:10 - Ethereum dev grant](https://youtu.be/A0JYkKLl830?t=190)
-[13:01 - Dor: Bitcoin is here to stay](https://youtu.be/A0JYkKLl830?t=13m1s)
-[16:30 - Market forces in Proof of Stake](https://youtu.be/A0JYkKLl830t=16m30s)
-[20:05 - Synereo governance and centerless collaboration](https://youtu.be/A0JYkKLl830?t=20m05s)
-[29:00 - LivelyGig update](https://youtu.be/A0JYkKLl830?t=29m00s)
-[32:00 - Code review of the UI](https://youtu.be/A0JYkKLl830?t=32m00s)
-[38:48 - Dor's update, Backfeed protocol can be implemented on Synereo tech](https://youtu.be/A0JYkKLl830?t=38m48s) 
-[42.45 - About Membranes as delineators in groups](https://youtu.be/A0JYkKLl830?t=42m45s) 
-[49.00 - About AMP Wallets](https://youtu.be/A0JYkKLl830?t=49m00s)
-[52.17 - Scala developers needed!](https://youtu.be/A0JYkKLl830?t=52m17s)
-[53:28 - Bring us in contact with Bernie Sanders](https://youtu.be/A0JYkKLl830?t=53m28s)
-[56:27 - Thanks](https://youtu.be/A0JYkKLl830?t=56m27s)
+[00:58 - Mike Hearn & Bitcoin news](https://youtu.be/A0JYkKLl830?t=3m58s) <BR>
+[03:10 - Ethereum dev grant](https://youtu.be/A0JYkKLl830?t=190) <BR>
+[13:01 - Dor: Bitcoin is here to stay](https://youtu.be/A0JYkKLl830?t=13m1s) <BR>
+[16:30 - Market forces in Proof of Stake](https://youtu.be/A0JYkKLl830t=16m30s) <BR>
+[20:05 - Synereo governance and centerless collaboration](https://youtu.be/A0JYkKLl830?t=20m05s) <BR>
+[29:00 - LivelyGig update](https://youtu.be/A0JYkKLl830?t=29m00s) <BR>
+[32:00 - Code review of the UI](https://youtu.be/A0JYkKLl830?t=32m00s) <BR>
+[38:48 - Dor's update, Backfeed protocol can be implemented on Synereo tech](https://youtu.be/A0JYkKLl830?t=38m48s) <BR> 
+[42.45 - About Membranes as delineators in groups](https://youtu.be/A0JYkKLl830?t=42m45s) <BR>
+[49.00 - About AMP Wallets](https://youtu.be/A0JYkKLl830?t=49m00s) <BR>
+[52.17 - Scala developers needed!](https://youtu.be/A0JYkKLl830?t=52m17s) <BR>
+[53:28 - Bring us in contact with Bernie Sanders](https://youtu.be/A0JYkKLl830?t=53m28s) <BR>
 
 ## Detailed Notes
 ### [03:10 - Ethereum dev grant](https://youtu.be/A0JYkKLl830?t=190)<BR>
