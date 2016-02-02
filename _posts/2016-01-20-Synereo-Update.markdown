@@ -9,13 +9,14 @@ date: '2016-02-02 08:00:00 +0200'
 ## Update Summary
 <BR>
 
-This week, we discussed the latest bitcoin controversy; the claims raised by core developers on both sides of the argument, and potential solutions to problems of centralization of mining and governance. 
+This week, we talked about the latest bitcoin controversy. We discussed the claims raised by core developers on both sides of the argument, and debated potential solutions to problems of centralization of mining and governance. 
+Governance of decentralized projects is difficult! Synereo wants to implement centerless-coordination mechanisms right from the start.
 
-Additional dev grants from Ethereum for the work on Casper, the new Proof of Stake protocol Greg is leading the design for, are approved. Proof of Stake may lead to less mining centralization and will likely also create a market for how to order transactions in a block. 
+LivelyGig is progressing on its UI. Code reviews clean a lot of clutter through the magic of functional programming in Scala. weWOWwe, a social network for sport, is on board and work has begun with them to provide them with some of Synereo’s functionality. 
 
-Governance of decentralized collaboration is the most difficult to achieve. Synereo wants to implement that from the start. LivelyGig is progressing on it's UI. Code reviews clean a lot of clutter through the magic of functional programming in Scala. weWOWwe, a Chinese social network for sport,  is on board and work has begun with them to provide them with some of Synereo’s functionality. 
+Additional dev grants from Ethereum for the work on Casper, the new Proof of Stake protocol Greg is leading the design for, are approved. 
 
-#Scala developers are most welcome to join our coding efforts and will be highly rewarded! Also, if you aren’t a Scala developer and you want to help us grow, find us on our slack channel! 
+#Scala developers are most welcome to join our coding efforts and will be highly rewarded! Also, if you aren’t a Scala developer and you want to help us grow, find us on our [slack channel](synereo.slack.com)! 
 
 ![image](http://i.imgur.com/355VejM.jpg)
 
