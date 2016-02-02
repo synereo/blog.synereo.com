@@ -21,7 +21,7 @@ Scala developers are most welcome to join our coding efforts and will be *highly
 ![image](http://i.imgur.com/355VejM.jpg)
 
 ## Contents in Brief
-#### [Watch the full Hangout](https://www.youtube.com/watch?v=A0JYkKLl830) <BR>
+[### Watch the full Hangout](https://www.youtube.com/watch?v=A0JYkKLl830) <BR>
 [00:58 - Mike Hearn & Bitcoin news](https://youtu.be/A0JYkKLl830?t=3m58s) <BR>
 [03:10 - Ethereum dev grant](https://youtu.be/A0JYkKLl830?t=190) <BR>
 [13:01 - Dor: Bitcoin is here to stay](https://youtu.be/A0JYkKLl830?t=13m1s) <BR>
