@@ -20,8 +20,9 @@ Scala developers are most welcome to join our coding efforts and will be *highly
 
 ![image](http://i.imgur.com/355VejM.jpg)
 
-## Contents in Brief <BR>
+## Contents in Brief 
 <BR>
+
 ### [Watch the full Hangout](https://www.youtube.com/watch?v=A0JYkKLl830) <BR>
 [00:58 - Mike Hearn & Bitcoin news](https://youtu.be/A0JYkKLl830?t=3m58s) <BR>
 [03:10 - Ethereum dev grant](https://youtu.be/A0JYkKLl830?t=190) <BR>
@@ -38,6 +39,7 @@ Scala developers are most welcome to join our coding efforts and will be *highly
 
 ## Detailed Notes
 <BR>
+
 ### [03:10 - Ethereum dev grant](https://youtu.be/A0JYkKLl830?t=190)<BR>
 Based on conversation with Wendell Davis (Ethereum), the accorded grant of last year will be paid out and it is likely that Synereo will get another grant for the progress that has been made on Casper.
 
