@@ -16,7 +16,7 @@ LivelyGig is progressing on its UI. Code reviews clean a lot of clutter through 
 
 Additional dev grants from Ethereum for the work on Casper, the new Proof of Stake protocol Greg is leading the design for, are approved. 
 
-#Scala developers are most welcome to join our coding efforts and will be highly rewarded! Also, if you aren’t a Scala developer and you want to help us grow, find us on our [slack channel](synereo.slack.com)! 
+# Scala developers are most welcome to join our coding efforts and will be highly rewarded! Also, if you aren’t a Scala developer and you want to help us grow, find us on our [slack channel](synereo.slack.com)! 
 
 ![image](http://i.imgur.com/355VejM.jpg)
 
@@ -37,10 +37,10 @@ Additional dev grants from Ethereum for the work on Casper, the new Proof of Sta
 [56:27 - Thanks](https://youtu.be/A0JYkKLl830?t=56m27s)
 
 ## Detailed Notes
-###[03:10 - Ethereum dev grant](https://youtu.be/A0JYkKLl830?t=190)<BR>
+### [03:10 - Ethereum dev grant](https://youtu.be/A0JYkKLl830?t=190)<BR>
 Based on conversation with Wendell Davis (Ethereum), the accorded grant of last year will be paid out and it is likely that Synereo will get another grant for the progress that has been made on Casper.
 
-###[03:58 - Mike Hearn & Bitcoin news](https://youtu.be/A0JYkKLl830?t=235) <BR>
+### [03:58 - Mike Hearn & Bitcoin news](https://youtu.be/A0JYkKLl830?t=235) <BR>
 Greg wanted to get the conversation kicked off with a little bit from the recent news flurry on the departure and out-going message by Mike Hearn, of Bitcoin.  (Ref: [Mike Hearn](https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.8gusjxgnp)), (Ref Responses: [Reddit citboins](https://www.reddit.com/r/Bitcoin/comments/4151ng/the_mike_hearn_show_season_finale_and_bitcoin/), [Greg Slepak](https://fixingtao.com/2016/01/point-by-point-response-to-mike-hearns-final-bitcoin-post/), [Henry Brade](https://medium.com/@Technomage/bitcoin-has-now-died-89-times-274df173c246#.lchu5jdue), [Ryan Shea](https://medium.com/@ryanshea/the-scaling-announcement-bitcoin-core-should-have-made-146790f755df#.781y6l5j5))
 
 Ed began by saying that Mike is a very bright guy, and a loss for Bitcoin momentum.  He thought that Mike had sealed his fate when he implemented the hard fork in XT, and if you remove all the personalities from this, the Bitcoin ecosystem and community still has a problem with what decentralized governance means.  The Bitcoin foundation has largely failed, and has a black eye.  At the [Scaling Bitcoin Conference](https://scalingbitcoin.org/hongkong2015/#presentations), from what he saw,  the biggest problem is how to make decisions.
@@ -54,13 +54,13 @@ He also touched on the difficulty of explaining these new, advanced protocols li
 ### [13:01 - Dor: bitcoin is here to stay](https://youtu.be/A0JYkKLl830?t=13m1s)<BR>
 Dor thinks that each time someone claims that bitcoin is dead, it actually is becoming stronger. This claim happened now 89 times. It gets media attention and more people become interested. And they become more convinced that bitcoin is here to stay. He thinks many of the things Mike Hearn says are not really relevant to what's going to happen with bitcoin core, but that he does bring up some valid concerns. One thing is interesting with regards to proof of work. The Chinese have the most processing power and therefore centralization is starting. They have a financial interest in keeping the block size small, because their network handles better small block sizes. And therefore they have more chances to validate blocks and earn the 25 bitcoin reward. Dor raises the question about whether Proof of Stake will be able to avoid these kind of problems.
 
-###[16:30 - Market forces in Proof of Stake](https://youtu.be/A0JYkKLl830?t=16m30s)<BR>
+### [16:30 - Market forces in Proof of Stake](https://youtu.be/A0JYkKLl830?t=16m30s)<BR>
 
 [![image](http://cointelegraph.com/images/720_aHR0cDovL2NvaW50ZWxlZ3JhcGguY29tL3N0b3JhZ2UvdXBsb2Fkcy92aWV3L2UwODQxNmNiY2Y5YmNlYjBhYTc0NDg4Y2RhZGE4YzJlLnBuZw==.jpg)](http://cointelegraph.com/news/113157/proof-of-work-proof-of-stake-and-the-consensus-debate)
 
 With Proof of Stake, the block validators may come and go. The market forces within PoS are different with respect to validators. Those businesses that have invested a lot in mining gear (like in speedy ASICs) for PoW don't have a particular advantage with PoS. That means that there is no centralization because one has the fastest mining gear. An issue with PoS is whether or not there is obfuscation of the ordering of transactions in blocks. When there is no obfuscation of the transactions that are included blocks, then there will be a market around the ordering of transactions. If you compare it to the current banking systems, then banks order transactions to maximize their fees. Possibly, having a market allows for a wider visibility of the ordering of transactions and better control on the part of other interests, not just the banks. A market may also starve out certain types of computation, however. That's kind of troubling!
 
-###[20:05 - Synereo governance and centerless collaboration](https://youtu.be/A0JYkKLl830?t=20m05s)<BR>
+### [20:05 - Synereo governance and centerless collaboration](https://youtu.be/A0JYkKLl830?t=20m05s)<BR>
 Another lesson is that is hard to have a decentralized system with centralized control especially when there's censorship on the main channels of communication related to Bitcoin Talk amd Reddit. Dor hopes that Synereo offers a superior experience with a decentralized communication platform. A mechanism will be baked in for voicing your opinion, collaborating on proposals and measuring your reputation. This should allow for better governance.
 
 Ed says that we have to engage with studies in this field, [see](http://portal.uc3m.es/portal/page/portal/dpto_economia_empresa/home/seminars/Previous_years/Seminars_2006-2007/Ferraro_GOPC_9-8-06_000.pdf)
@@ -75,13 +75,13 @@ One advantage of the discussions around Mike Hearn is that all the proposals and
 
 We need a kind of side project that shapes the governance around Synereo.
 
-###[29:00 - Livelygig update](https://youtu.be/A0JYkKLl830?t=29m00s)<BR>
+### [29:00 - Livelygig update](https://youtu.be/A0JYkKLl830?t=29m00s)<BR>
 Ed continues to work on the user experience and an end to end demo: How do the employer and freelancer meet each other? How do they form a contract, pay into escrow, complete the work and how is feedback provided about how that gig went. Techniques are: [scala.js](http://www.scala-js.org) that updates a portion of the DOM. The connection between the client and server needs to work through the architecture stack, Diode. It's a better way than the Model-View-Control model. See: [Diode framework](http://ochrons.github.io/diode/) and [Flux](https://github.com/facebook/flux).
 
 [![image](http://ochrons.github.io/diode/images/architecture.png)](http://ochrons.github.io/diode/)<BR>
 
 
-###[32:00 - Code review of the UI](https://youtu.be/A0JYkKLl830?t=32m00s) <BR>
+### [32:00 - Code review of the UI](https://youtu.be/A0JYkKLl830?t=32m00s) <BR>
 Greg did a code review and emphasized the importance of type in Scala.js. It was, for example, not clear what was cast into a particular parameter. By just looking at the type, the problem could easily be solved. This you cannot do in JavaScript but in Scala.js you can. 
 
 ![image](http://i.imgur.com/hV8rGjg.jpg)
@@ -92,36 +92,36 @@ You can now set up the servers and ports you're talking to and the email validat
 
 This allows for fine grained testing, wiring it up to the UI so that you get a page where you raise users for test scenarios.
 
-###[38:48 - Dor's update, Backfeed protocol can be implemented on Synereo tech](https://youtu.be/A0JYkKLl830?t=38m48s)<BR> 
+### [38:48 - Dor's update, Backfeed protocol can be implemented on Synereo tech](https://youtu.be/A0JYkKLl830?t=38m48s)<BR> 
 [![image](http://i.imgur.com/5jC1upa.jpg)](http://football.wewowwe.com)  Synereo signed an agreement with [weWOWwe](http://football.wewowwe.com) , a sports-related social network. Their users express their experiences about sports. Depending on how such a message is perceived, they get a kind of reputation token. These tokens can be exchanged for various rewards, like a meeting with one of the players or sports items in a market. They will use Synereo for measuring the response that is coming out of the Chinese content delivery networks. They collect the information and ship it off to Synereo, which is storing on behalf of the user, updated versions of the responses to their posts. Synereo keeps track of the cryptographic tokens and tracks the response of various users of social networks.
 
 We also made a breakthrough in integrating [BackFeed's](http://backfeed.cc) inter-subjective protocols for reputation, that may also later be used for a governance model. Finally, there was a kind of common language to understand each other :-) They aimed for a kind of dynamic group creation through one smart contract and that suggests some centralization. 
 
-###[42.45 - About Membranes as delineators in groups](https://youtu.be/A0JYkKLl830?t=42m45s) <BR>
+### [42.45 - About Membranes as delineators in groups](https://youtu.be/A0JYkKLl830?t=42m45s) <BR>
 So Greg also explained the sister of [π-calculus](https://en.wikipedia.org/wiki/%CE%A0-calculus), the [Ambient calculus](https://en.wikipedia.org/wiki/Ambient_calculus). It's about nested membranes, and a membrane can define group membership. Those agents that are inside the membrane are part of the group and those who are outside of the membrane are not part of the group.  Ambient gives you a certain programmability of groups; you can create new membranes, it allows agents to enter and leave a membrane, and you can dissolve a membrane. 
 [Luca Cardelli](https://en.wikipedia.org/wiki/Luca_Cardelli) realized that the programmability of membranes was even more important then he thought. He found decentralized tools for programming and creating membranes. This model is much more apt to what Backfeed wants to realize.
 
 [![image](http://math.lanl.gov/~yi/lipid/membrane.jpg)](https://en.wikipedia.org/wiki/Ambient_calculus)
  
-###[49.00 - About AMP wallets](https://youtu.be/A0JYkKLl830?t=49m00s)<BR>
+### [49.00 - About AMP wallets](https://youtu.be/A0JYkKLl830?t=49m00s)<BR>
 At the moment the most convenient wallet for AMPs is the [OmniWallet](https://www.omniwallet.org/), but for LivelyGig a wallet has probably to be developed. Within Synereo you have to be able to manage your AMPs as well. 
 
 [![image](https://www.omniwallet.org/assets/img/logo-beta.png)](https://www.omniwallet.org/about)
 <BR>
 
-###[52.17 - Scala developers needed!](https://youtu.be/A0JYkKLl830?t=52m17s)<BR>
+### [52.17 - Scala developers needed!](https://youtu.be/A0JYkKLl830?t=52m17s)<BR>
 If you know Scala developers, please bring them on board. They will be rewarded with AMPs for their work. It's a cutting edge technology in a rapidly growing space, so this is the time to get in. Even if you want to learn this functional programming language, then you're welcome.
 
 [![image](http://ncredinburgh.com/img/blog/henry_coles/scala-logo.gif)](http://www.scala-lang.org)
 
-###[53:28 - Bring us in contact with Bernie Sanders](https://youtu.be/A0JYkKLl830?t=53m28s)<BR>
+### [53:28 - Bring us in contact with Bernie Sanders](https://youtu.be/A0JYkKLl830?t=53m28s)<BR>
 The [Bernie Sanders](https://berniesanders.com/issues/) campaign needs to get up to speed with blockchain technology and how they will impact society moving forward. It's about addressing the inequality of income and wealth.
 [![image](https://berniesanders.com/wp-content/uploads/2015/08/20150817_Charts_2-2.png)](https://berniesanders.com/issues/income-and-wealth-inequality/)
 
 
-###[56:27 - Thanks](https://youtu.be/A0JYkKLl830?t=56m27s)<BR>
+### [56:27 - Thanks](https://youtu.be/A0JYkKLl830?t=56m27s)<BR>
 
 Please read the Open questions for [pitch deck](https://docs.google.com/document/d/1xdKayitmM60PCBRCmekiDc5XOcN62LIN-a9MvFQQRDs/edit?usp=sharing)
 
-##That's all for this week!
+That's all for this week!
 <!--se_discussion_list:{"bW5ylGUUtfitwZSsijG37wYT":{"selectionStart":23,"selectionEnd":72,"commentList":[{"content":"what do you mean with 'uphold'?"},{"content":"It needs another word for something like drama"},{"author":"Lapin7","content":"Do you see this?"},{"content":"yes"},{"author":"Lapin7","content":"Aha I see your comment :-)"},{"author":"Lapin7","content":"This is the only chat possibility, but that's kind of slow. Maybe google docs is better"}],"discussionIndex":"bW5ylGUUtfitwZSsijG37wYT"}}-->
