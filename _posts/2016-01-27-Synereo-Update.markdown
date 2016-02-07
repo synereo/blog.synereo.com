@@ -32,7 +32,7 @@ Updates were given about the work on Casper, the new Proof of Stake mechanism, S
 [53:08 - More on UI and MVP](https://youtu.be/lIQDnhq_0YY?t=53m8s)<br>
 [57:26 - Crowdsale/BnkToTheFuture](https://youtu.be/lIQDnhq_0YY?t=57m26s)<br>
 
-## Detailed Notes
+## Detailed Notes <BR>
 ### [00:54 - Individual updates](https://youtu.be/lIQDnhq_0YY?t=54s) <br>
 Jed communicated that he has been staying out of the hangouts to leave room open for newcomers. He’s been active behind the scenes, answering questions via chat and coordinating the youtube presentation. Currently, he is establishing the role of Synereo Ambassadors, a new opportunity for others to earn AMPs for helping the community grow.  Dor hinted at developments with the weWOWwe network, and will fill us in more next week. <br> 
 
@@ -117,7 +117,7 @@ Some links from the chatbox:<br>
 
 That's all for this week!
 
-## If you like what we create, send some bitcoin to
+## If you like what we're creating, send some bitcoin to
 ![18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw](http://i.imgur.com/jlHprSv.jpg)
 <BR>
 18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw
