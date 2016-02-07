@@ -8,10 +8,13 @@ date: '2016-02-07 08:00:00 +0200'
 
 ## Update Summary
 
+This week, we talked about the new Taiga task management system starting to be employed by the Synereo community.
+Updates were given about the work on Casper, the new Proof of Stake mechanism, Synereo's back-end development, the Synereo MVP, and many more. 
 
 ![image](http://i.imgur.com/nXRbESS.jpg)<br>
 
 ## Contents in Brief <BR>
+
 ### [Watch the full Hangout](https://www.youtube.com/watch?v=lIQDnhq_0YY)
  <BR>
 [00:54 - Individual updates](https://youtu.be/lIQDnhq_0YY?t=54s)<br>
