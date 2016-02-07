@@ -62,6 +62,7 @@ Greg went into some detail on the code for the LivelyGig UI.<br>
 When you deploy a node the UI-code and the Server-code are on the server. That should be the case if you have support for course. If you can separate the two, then it makes deployment easier. Also the LivelyGig importer has been improved, by upgrading Spray to a newer version. So the GlosEval code and their dependencies are now ported to the newer version of Spray. The SBT-built is now also more modular and doesn’t get mixed up with the dependencies. 
 <br>
 <br>
+
 ### [24:03 - Casper and Shards](https://youtu.be/lIQDnhq_0YY?t=24m3s)<br>
  <i>[Sharding](https://docs.mongodb.org/manual/core/sharding-introduction/) divides the data set and distributes the data over multiple servers, or shards. Each shard is an independent database, and collectively, the shards make up a single logical database.</i> See about PoS [Vlad Zamfir’s](https://epicenterbitcoin.com/podcast/105/) or [Vitalik Buterin](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/)
 <br>
@@ -117,10 +118,10 @@ Some links from the chatbox:<br>
 
 That's all for this week!
 
-## If you like what we're creating, send some bitcoin to
+## If you like what we're creating, send some bitcoin to 18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw
 ![18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw](http://i.imgur.com/jlHprSv.jpg)
 <BR>
-18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw
+
 
 
 
