@@ -20,7 +20,7 @@ Scala developers are most welcome to join our coding efforts and will be *highly
 
 ![image](http://i.imgur.com/355VejM.jpg)
 
-## Contents in Brief 
+## Contents in Brief <BR>
 <BR>
 
 ### [Watch the full Hangout](https://www.youtube.com/watch?v=A0JYkKLl830) <BR>
@@ -37,7 +37,7 @@ Scala developers are most welcome to join our coding efforts and will be *highly
 [52.17 - Scala developers needed!](https://youtu.be/A0JYkKLl830?t=52m17s) <BR>
 [53:28 - Bring us in contact with Bernie Sanders](https://youtu.be/A0JYkKLl830?t=53m28s) <BR>
 
-## Detailed Notes
+## Detailed Notes <BR>
 <BR>
 
 ### [03:10 - Ethereum dev grant](https://youtu.be/A0JYkKLl830?t=190)<BR>
