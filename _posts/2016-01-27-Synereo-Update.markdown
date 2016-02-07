@@ -93,8 +93,8 @@ They met with a potential investor who is supportive of the work merging Special
 The relationship between Type systems and Computational models that Greg has been working on for the past 7 years, and the algorithmic mechanism that takes data and generates type systems, is making progress.  He and Mike Stay have been writing up results in higher Category Theory, in order to explain how this ties into other, well-known results to that community.  This was a woo-hoo moment!
 <br><br>
 Finally, he shared a site that he really loves, called [Hit Record, from Joseph Gordon-Levitt](https://www.hitrecord.org/intro).  
-
 <BR>
+
 ### [41:00 - Active & Passive browsing, Attention Economy](https://youtu.be/lIQDnhq_0YY?t=41m00s)
 The conversation then touched on the difference between ‘passive’ and ‘active’ browsing experiences, and how Synereo will address both, adding more collaboration to what existing networks offer.  Christian added that this addition really shifts the paradigm (away from the centralized ones of modern society).  Greg topped that off by saying that this is the idea of our Attention Economy.  If we start with an environment where devs can hack the platform with the platform, the platform will expand in many ways.  Eric talked more about the attention economy, and how it works for people, in regards to these kinds of network projects.  Artists and other content creators will come onboard organically, after the devs build creative spaces and tools for them.
 
