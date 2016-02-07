@@ -16,7 +16,7 @@ LivelyGig is progressing on its UI. Code reviews clean a lot of clutter through 
 
 Additional dev grants from Ethereum for the work on Casper, the new Proof of Stake protocol Greg is leading the design for, are approved. 
 
-Scala developers are most welcome to join our coding efforts and will be *highly rewarded!* Also, if you aren’t a Scala developer and you want to help us grow, find us on our [slack channel](synereo.slack.com)! 
+Scala developers are most welcome to join our coding efforts and will be *highly rewarded!* Also, if you aren’t a Scala developer and you want to help us grow, find us on our [slack channel](http://synereo.slack.com)! 
 
 ![image](http://i.imgur.com/355VejM.jpg)
 
