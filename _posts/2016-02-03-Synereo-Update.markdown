@@ -198,14 +198,11 @@ The general feeling is that we could stick to the current Synereo logo and do po
 * [Hitrecord](https://www.hitrecord.org/)<br>
 * [Wordpress](https://randompandaman.files.wordpress.com/2012/03/alex-grey.jpg?w=300&h=420)
 
-
+<br>
 That's all for this week!!
-## See you next week on [February 10, 2016](https://plus.google.com/u/0/events/c1c8v4v1pgspkqnghje15u8tim4)
 
-##If you like what we create, send some bitcoin to
+If you like what we’re creating, send some bitcoin to 18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw
 
 ![18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw](http://i.imgur.com/jlHprSv.jpg)
 
 
-18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw
-(Bitcoin address for general Synereo support).
