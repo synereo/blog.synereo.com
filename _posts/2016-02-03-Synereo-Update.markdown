@@ -8,7 +8,7 @@ date: '2016-02-03 08:00:00 +0200'
 
 ![image](https://avatars.slack-edge.com/2016-01-13/18348683472_4472479791c39eaf2392_512.png)<br>
 
-## Contents in Brief
+## Contents in Brief <BR>
 ### [Watch the full Hangout](https://www.youtube.com/watch?v=tTMDtmkxID4)
 
  <BR>
