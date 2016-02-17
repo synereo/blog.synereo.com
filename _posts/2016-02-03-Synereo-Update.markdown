@@ -29,7 +29,7 @@ date: '2016-02-03 08:00:00 +0200'
 
 
 ## Detailed Notes
-###[01:40 - Eric explains flow](https://www.youtube.com/watch?v=tTMDtmkxID4&t=1m40s)
+### [01:40 - Eric explains flow](https://www.youtube.com/watch?v=tTMDtmkxID4&t=1m40s)
 
 ![overview](http://i.imgur.com/15H5nXd.jpg)
 
@@ -43,13 +43,13 @@ Dina, Eric, Noy and Greg had long email conversations about design (why this cha
 Just going through this it opens up a bunch of questions of the central-decentral problem. If we all have individual islands with content and people. We want our node. We want to be able to connect. Is there a centralised login and what's the difference when you login to your own node.
 
 
-###[07:10 - Bootstrapping nodes](https://www.youtube.com/watch?v=tTMDtmkxID4&t=7m05s)
+### [07:10 - Bootstrapping nodes](https://www.youtube.com/watch?v=tTMDtmkxID4&t=7m05s)
 
 Greg's feeling in 2004 with the Splicious crowd sale was that they wanted to bootstrap as many nodes as possible. And then make it easy to connect and disconnect nodes through node-management. This was important for creating a mindshift with the people from centralised to decentralised. The real value is in the fact that Synereo is decentralised. This is very different from the FB experience. In the early stages we can never measure up against to the features of FB, but we can make a difference by creating a new world, decentralised and distributed and there's not one trusted party. So the network creation experience is the most important. It should be very simple. The most questions of new people were at that time not "How do I login", but "How do I setup a node".
 Ed proposes to put on the login page two options. The first is just login to the node and the second is create your own node.
 
 
-###[10:15 - Diaspora model](https://www.youtube.com/watch?v=tTMDtmkxID4&t=10m15s)
+### [10:15 - Diaspora model](https://www.youtube.com/watch?v=tTMDtmkxID4&t=10m15s)
 
 Greg says it is like the [Diaspora](https://diasporafoundation.org/about#host) model. There you can login to a Diaspora pod or you can stand up one on [yourself](https://diasporafoundation.org/about#host).
 <br>
@@ -59,7 +59,7 @@ Greg says it is like the [Diaspora](https://diasporafoundation.org/about#host) m
 
 
 
-###[11:00 - Built your segment of the network](https://www.youtube.com/watch?v=tTMDtmkxID4&t=11m10s)
+### [11:00 - Built your segment of the network](https://www.youtube.com/watch?v=tTMDtmkxID4&t=11m10s)
 
 Eric thinks that Synereo can provide the building blocks to for example Joe to set up a node with an own interface and own login page and his own people live on that island. And he can do a distributive marketing push to get more people on his node to create his own segment of the network through his own channels. So he wouldn't use the default login page at all. It would be another flavor that is built with the tools that Synereo provides to him like: post content or do the social network feed interaction.<br>
 So there's two fundamental user sets that happen to overlap: users that want to stand up a node and users that want to connect with other people. I want to connect with my node to your node so that we can share information. But how do you connect to other people that are on other nodes than you are.
@@ -67,7 +67,7 @@ Greg says that if two nodes are connected then it doesn't matter one which you n
 Dina thinks of the Wordpress model.You can login with your own credentials but you can set out a kind of avatar. So in that way your actual login name doesn't matter as much.
 
 
-###[15:00 - Login and different persona’s](https://www.youtube.com/watch?v=tTMDtmkxID4&t=15m00s)
+### [15:00 - Login and different persona’s](https://www.youtube.com/watch?v=tTMDtmkxID4&t=15m00s)
 
 Greg says that indeed the username and login is a separate issue. There is an agent identity that can be portable amongst nodes. It's not the same as an identity, but it's a channel by which you can reliably communicate. The agent who has the credentials to access that channel, can reliably get to profile information and the AMP wallet. Agents that create a connection between their channels, can reliably get to information that's been shared over that connection. But a user can create multiple channels with each an AMP balances. In short you can not treat an agent as a single universal identity and once you have created a login on one node, you can later logon to any node you want. If you're not recognized on the first node then that node will ask other nodes until your credentials are found. So the login page is exactly the same on each node.
 Dina makes it clear like this: If there were some sandbox nodes, set up by Synereo. And new users login and then no matter where they are later logging into another node on the network, they'll at least be able to access what they set up on that node.
@@ -76,7 +76,7 @@ Greg says that if a login anywhere can happen, then it goes against decentralisa
 Ed says that one way to incentivise node creation is that when you set up a node, then Synereo will reward you with AMPs. If you log on to that node it cost you nothing, but if you use a shared one, then it will cost you AMPs. If that happens to be your node, then you will also be rewarded by the users that use your node to login to.
 
 
-###[20:38 - MLM approach???](https://www.youtube.com/watch?v=tTMDtmkxID4&t=20m38s)
+### [20:38 - MLM approach???](https://www.youtube.com/watch?v=tTMDtmkxID4&t=20m38s)
 
 Dina understands it! If a user signs up at your node, you get a portion of their AMPs. And if they sign other users up, then you get also a portion of their AMPs. So the Multi Level Marketing approach is clear. LOL
 
@@ -88,7 +88,7 @@ Christian argues that usually it's only 1% of the community is active and 99% ar
 ![sprint](http://i.imgur.com/1OZSfkE.jpg)
 
 
-###[23:58 - What is our "Minimum lovable product"?](https://www.youtube.com/watch?v=tTMDtmkxID4&t=23m58s)
+### [23:58 - What is our "Minimum lovable product"?](https://www.youtube.com/watch?v=tTMDtmkxID4&t=23m58s)
 
 What will users actually love to use?
 And this hangs of course in a long term strategy.
@@ -99,7 +99,7 @@ With the considerations of decentralised and distributed applications, own your 
 
 
 
-###[25:03 - Mission](https://www.youtube.com/watch?v=tTMDtmkxID4&t=25m03s)<br>
+### [25:03 - Mission](https://www.youtube.com/watch?v=tTMDtmkxID4&t=25m03s)<br>
 ![mission](http://i.imgur.com/ntiJxzr.jpg)
 
 This mission is a big mouth full but Greg likes the sentiment. It's not only for the front page of the web site or for attracting investors. For the designers it's really important for having a criterium to allow for this feature and not for that feature. It helps to give focus on the design. The mission can of course be expressed in other words. Greg refers to Joseph Gorden-Levitt, [Hitrecord](https://www.hitrecord.org). (red. mission: We're a new kind of online community
@@ -107,7 +107,7 @@ working together as a production company), with a small change. JGL has the fina
  
 
 
-###[28:43 - Modes of web use](https://www.youtube.com/watch?v=tTMDtmkxID4&t=28m43s)
+### [28:43 - Modes of web use](https://www.youtube.com/watch?v=tTMDtmkxID4&t=28m43s)
 
 Below are the modes of web use. And have a look at [Jerry's Brain](http://jerrysbrain.com)
 
@@ -116,12 +116,12 @@ Below are the modes of web use. And have a look at [Jerry's Brain](http://jerrys
 [reactive media](http://i.imgur.com/tkQcdHq.jpg)
 
 
-###[36:00 - Ultimate experiences](https://www.youtube.com/watch?v=tTMDtmkxID4&t=36m00s)
+### [36:00 - Ultimate experiences](https://www.youtube.com/watch?v=tTMDtmkxID4&t=36m00s)
 
 ![ultimate experience](http://i.imgur.com/GhgnWhV.jpg)
 
 
-###[37:56 - Building blocks](https://www.youtube.com/watch?v=tTMDtmkxID4&t=37m56s)<br>
+### [37:56 - Building blocks](https://www.youtube.com/watch?v=tTMDtmkxID4&t=37m56s)<br>
 ![bb1](http://i.imgur.com/twZGnb0.jpg)<br>
 
 How are we going to design this thing?
@@ -133,7 +133,7 @@ The content life: So what action can be done to content? How does it work with A
 ![bb4](http://i.imgur.com/fqTaQ5a.jpg)<br>
 
 
-###[42:20 - Design candy](https://www.youtube.com/watch?v=tTMDtmkxID4&t=42m20s)
+### [42:20 - Design candy](https://www.youtube.com/watch?v=tTMDtmkxID4&t=42m20s)
 
 The original sketch for showing how we work. We want to know how the icon feels.<br>
 ![sketch](http://i.imgur.com/RBNFIIV.jpg)<br>
@@ -148,7 +148,7 @@ For the icon we are working on the "Google-Icognito-mode" and "Carmen San Diego"
 So we're creating something that reflects: privacy, hackery. Maybe a bit too sinister. We want to get your reaction. A second version is with a looping video in the background with kind of robot guys.
 
 
-###[45:20 - Feedback on icon](https://www.youtube.com/watch?v=tTMDtmkxID4&t=45m20s)
+### [45:20 - Feedback on icon](https://www.youtube.com/watch?v=tTMDtmkxID4&t=45m20s)
 
 It gives a kind of censorship and Greg doesn't want to go in that direction. He's also not so much on the robots. He would prefer to go a little bit more organic. Because that world is full of decentralised metaphors. Dina just took the available video, but Greg didn't like so much the metaphors being used. The mechanistic world is kind of the opposite he wants to point to. <br>
 Also what's missing is "launch a node" it's only "login".<br>This has to be figured out.<br>
@@ -158,7 +158,7 @@ Eric says that the initial focus is on the bitcoin, hacker minded people to get 
 The ideas for this character came out of initial target market and the social self determination, trust and social components. 
 
 
-###Some examples from the community:
+### Some examples from the community:
 
 ![organic](http://i.imgur.com/eM3lNYk.jpg)<br>
 ![flowey](http://pre03.deviantart.net/c47d/th/pre/f/2015/322/5/4/flowy_ref_by_nightwisper40-d9h3i19.png)<br>
@@ -173,7 +173,7 @@ Dina stresses that we have to get really fast to a kind of demo product. And we 
 
 Greg says that timeboxing is ok, but we also want to create a culture of ownership and empowerment. We are in this together. And what we have to learn is governance. How much crowd attention can we allow on which problems. That's kind of learning as we go.
 
-###So Dina asks:
+### So Dina asks:
 
 1. Is the spy kind of icon not wanted for Synereo?
 2. Is it ok to bring up an icon, early on in this process, that is a bit more human, organic?
@@ -182,7 +182,7 @@ Greg says that timeboxing is ok, but we also want to create a culture of ownersh
 The general feeling is that we could stick to the current Synereo logo and do polishing later. Getting Synereo up and running is more important.
 
 
-###Let's work out the twelve points mentioned and use tools like:
+### Let's work out the twelve points mentioned and use tools like:
 * [Taiga](https://tree.taiga.io/project/synereo-synpm/)
 * [Ventrilo](http://www.ventrilo.com)
 * [Slack](https://synereonet.slack.com/messages/design/team/dina/)
@@ -190,15 +190,15 @@ The general feeling is that we could stick to the current Synereo logo and do po
 * [Maybe Jitsi](https://jitsi.org)
 
 
-###Links from the chatbox
+### Links from the chatbox
 * [collaboration platform](http://www.sitegrinderblue.com/)  This is a photoshop plugin that allows for awesome web design. I can see how this could be used for designers to build customized interfaces which users could choose from.
 * How about a page that shows available nodes and their uptime, like  [pump.io](https://pumpiostatus.website/dashboard/events)<br>
 * [Hitrecord](https://www.hitrecord.org/)<br>
 * [Wordpress](https://randompandaman.files.wordpress.com/2012/03/alex-grey.jpg?w=300&h=420)
 
 
-##That's all for this week!!
-## CU next week on [Februari, 10, 2016](https://plus.google.com/u/0/events/c1c8v4v1pgspkqnghje15u8tim4)
+That's all for this week!!
+## See you next week on [February 10, 2016](https://plus.google.com/u/0/events/c1c8v4v1pgspkqnghje15u8tim4)
 
 ##If you like what we create, send some bitcoin to
 
