@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Synereo Weekly Update
-date: '2016-02-02 08:00:00 +0200'
+date: '2016-01-20 08:00:00 +0200'
 ---
 
 ## Update Summary
