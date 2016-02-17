@@ -10,6 +10,7 @@ date: '2016-02-03 08:00:00 +0200'
 
 ## Contents in Brief <BR>
 
+
 ### [Watch the full Hangout](https://www.youtube.com/watch?v=tTMDtmkxID4)
 
  <BR>
@@ -30,6 +31,7 @@ date: '2016-02-03 08:00:00 +0200'
 
 
 ## Detailed Notes <BR>
+
 ### [01:40 - Eric explains flow](https://www.youtube.com/watch?v=tTMDtmkxID4&t=1m40s)
 
 ![overview](http://i.imgur.com/15H5nXd.jpg)
@@ -43,7 +45,6 @@ Dina, Eric, Noy and Greg had long email conversations about design (why this cha
 5. If you don't have a login, you get an invite to create an account.
 Just going through this it opens up a bunch of questions of the central-decentral problem. If we all have individual islands with content and people. We want our node. We want to be able to connect. Is there a centralised login and what's the difference when you login to your own node.
 
-<BR>
 ### [07:10 - Bootstrapping nodes](https://www.youtube.com/watch?v=tTMDtmkxID4&t=7m05s)
 
 Greg's feeling in 2004 with the Splicious crowd sale was that they wanted to bootstrap as many nodes as possible. And then make it easy to connect and disconnect nodes through node-management. This was important for creating a mindshift with the people from centralised to decentralised. The real value is in the fact that Synereo is decentralised. This is very different from the FB experience. In the early stages we can never measure up against to the features of FB, but we can make a difference by creating a new world, decentralised and distributed and there's not one trusted party. So the network creation experience is the most important. It should be very simple. The most questions of new people were at that time not "How do I login", but "How do I setup a node".
