@@ -199,7 +199,7 @@ The general feeling is that we could stick to the current Synereo logo and do po
 * [Wordpress](https://randompandaman.files.wordpress.com/2012/03/alex-grey.jpg?w=300&h=420)
 
 <br>
-That's all for this week!!
+That's all for this week!
 
 If you like what we’re creating, send some bitcoin to 18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw
 
