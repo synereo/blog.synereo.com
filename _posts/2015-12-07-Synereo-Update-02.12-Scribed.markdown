@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Scribe Notes For Synereo Weekly Update
-date: '2015-12-07 08:00:00 +0200'
+date: '2015-12-02 08:00:00 +0200'
 ---
 
 ## Scribe Role Update
