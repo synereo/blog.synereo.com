@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Synereo Weekly Update
-date: '2016-02-03 08:00:00 +0200'
+date: '2016-02-17 08:00:00 +0200'
 ---
 
 ![image](https://avatars.slack-edge.com/2016-01-13/18348683472_4472479791c39eaf2392_512.png)<br>
