@@ -1,14 +1,14 @@
 ---
 layout: post
 status: publish
-published: false
+published: true
 title: Synereo Weekly Update
 date: '2016-02-10 08:00:00 +0200'
 ---
 
 ## Update Summary
 
-This week Greg discusses the betting cycle within the Casper Proof of Stake protocol and explains the technology choices underlying the Synereo platform. The community discusses issues of governance and how project management can be implemented within the Synereo application itself.
+This week, Greg discusses the betting cycle within the Casper Proof of Stake protocol and explains the technology choices underlying the Synereo platform. The community discusses issues of governance and how project management can be implemented within the Synereo application itself.
 
 ![Casper Betting Cycle](http://cdn.loc.gov/service/pnp/fsa/8d41000/8d41400/8d41412r.jpg)<br>
 Early research on Casper Proof of Stake[^1].
