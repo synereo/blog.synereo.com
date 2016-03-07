@@ -1,10 +1,9 @@
 ---
-title: Synereo Weekly Update
 layout: post
-permalink: /hangout-20160217.md/
-source-id: 1sAC3kedLHQ7uleLBR11UuMltONVmsNyYYbwynv5MPqI
+status: publish
 published: true
-date: '2016-02-17 08:00:00 +0200'
+title: Synereo Weekly Update
+date: '2016-03-07 08:00:00 +0200'
 ---
 
 <br>![image](http://i.imgur.com/sUVCz5W.jpg)<br>
