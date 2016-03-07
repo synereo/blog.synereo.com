@@ -42,6 +42,7 @@ To apply, please send an email to hello@synereo.com.
 
 Priority will be given to people who are already active participants in the hangouts/community and those who attach a sample of their writing - a post on a forum, a blog post, or anything showing that you can communicate with others in writing in an open and friendly way. 
 
-Want to integrate further into our community and see what we're up to? Check out our  [Taiga](https://tree.taiga.io/project/synereo-synpm/wiki/home) and join us on [Slack](slack.synereo.com).
+<BR>
+**Want to integrate further into our community and see what we're up to? Check out our  [Taiga](https://tree.taiga.io/project/synereo-synpm/wiki/home) and join us on [Slack](slack.synereo.com).**
 
 
