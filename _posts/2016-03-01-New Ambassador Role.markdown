@@ -6,6 +6,7 @@ permalink: /ambassadorrole20160301.md/
 source-id: 1pAJ7599mjvh_KwNODJYKlk07HfI_NdVnevlilnWbfGY
 published: true
 ---
+
 ![Ambassador](https://sarahwmackey.files.wordpress.com/2012/11/ambassador.jpg)
 
 NEW ROLE ANNOUNCED: AMBASSADOR 
