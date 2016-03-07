@@ -49,7 +49,7 @@ Here you see how it is rendered to the webpage.
 
 The next step is how to send a query to the server and how to set the labels. 
 
-Ed is also working on the conceptual work around contracts and it's various stages: Initiating, Escrow, In Progress, Feedback.
+Ed is working on the conceptual work-around contracts and their various stages: Initiating, Escrow, In Progress, Feedback.
 
 <br>![contracts](http://i.imgur.com/K03EsXM.jpg)<br>
 
