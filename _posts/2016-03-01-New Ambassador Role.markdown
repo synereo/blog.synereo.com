@@ -19,7 +19,7 @@ Payouts for this role will be made on a weekly basis, and are based on reaching 
 This role is monumental in helping Synereo as we make our push to build a truly decentralized tool that will not only help other partners create decentralized applications, but build a strong community around decentralized cultures. It's more than just an app, we are working with others in the greater community to build a whole new way interacting on a global scale. 
 
 
-Here's a basic reward schedule we've whipped up. If you have other relevant tasks in mind, do come and talk to us on [Slack](slack.synereo.com).
+Here's a basic reward schedule we've whipped up. If you have other relevant tasks in mind, do come and talk to us on [Slack](http://slack.synereo.com).
 
 1. Posting in a group: $5 usd in AMP per week, per group. 
 * Non-spammy. 
@@ -42,6 +42,6 @@ To apply, please send an email to hello@synereo.com.
 Priority will be given to people who are already active participants in the hangouts/community and those who attach a sample of their writing - a post on a forum, a blog post, or anything showing that you can communicate with others in writing in an open and friendly way. 
 
 <BR>
-**Want to integrate further into our community and see what we're up to? Check out our  [Taiga](https://tree.taiga.io/project/synereo-synpm/wiki/home) and join us on [Slack](slack.synereo.com).**
+**Want to integrate further into our community and see what we're up to? Check out our  [Taiga](https://tree.taiga.io/project/synereo-synpm/wiki/home) and join us on [Slack](http://slack.synereo.com).**
 
 
