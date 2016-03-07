@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: New Role and Bounty: Ambassador
+title: New Role and Bounty - Ambassador
 date: '2016-03-01 08:00:00 +0200'
 ---
 
