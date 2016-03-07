@@ -21,17 +21,17 @@ This role is monumental in helping Synereo as we make our push to build a truly 
 
 Here's a basic reward schedule we've whipped up. If you have other relevant tasks in mind, do come and talk to us on [Slack](http://slack.synereo.com).
 
-1. Posting in a group: $5 usd in AMP per week, per group. 
+1. Posting in a group: $5 in AMPs per week, per group. 
 * Non-spammy. 
 * Minimum Three per week. 
 * Sharing Content, but also engaging in relevant conversation.
 
-2. Starting a conversation with a group leaders: 10 usd in AMP per group. (1 time per group) 
+2. Starting a conversation with a group leaders: $10 in AMPs per group. (1 time per group) 
 * Mailing Admins. 
 * They Mail back. 
 * Interested in Synereo, okay with us posting content and sharing in their group.  
 
-3. Getting group leaders to present to us: $40usd in AMP. (1 time per group). 
+3. Getting group leaders to present to us: $40 USD in AMPs. (1 time per group). 
 * They can present on either on Slack, or via google hangouts. 
 * Talk about their group and org on our site or hangout. 
 * In that meeting we can figure out how they can help us and vice versa.
