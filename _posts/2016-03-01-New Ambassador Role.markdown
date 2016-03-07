@@ -6,7 +6,7 @@ title: New Role and Bounty - Ambassador
 date: '2016-03-01 08:00:00 +0200'
 ---
 
-![Ambassador](http://i.imgur.com/bd2VHwc.jpg)
+![Ambassador](https://sarahwmackey.files.wordpress.com/2012/11/ambassador.jpg)
 
 In response to the amazing growth and activity we've seen in our community, Synereo is announcing a new role: the Ambassador. 
 
