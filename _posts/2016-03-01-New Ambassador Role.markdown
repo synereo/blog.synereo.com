@@ -9,8 +9,6 @@ date: '2016-03-01 08:00:00 +0200'
 
 ![Ambassador](https://sarahwmackey.files.wordpress.com/2012/11/ambassador.jpg)
 
-NEW ROLE ANNOUNCED: AMBASSADOR 
-
 In response to the amazing growth and activity we've seen in our community, Synereo is announcing a new role: the Ambassador. 
 
 Ambassadors are responsible for to going out into various communities across the web and acting as a liaison between them and Synereo. Ambassadors will play a key role in helping the early network establish partnerships with communities abroad.  
@@ -21,19 +19,29 @@ Payouts for this role will be made on a weekly basis, and are based on reaching 
 
 This role is monumental in helping Synereo as we make our push to build a truly decentralized tool that will not only help other partners create decentralized applications, but build a strong community around decentralized cultures. It's more than just an app, we are working with others in the greater community to build a whole new way interacting on a global scale. 
 
+
+Here's a basic reward schedule we've whipped up. If you have other relevant tasks in mind, do come and talk to us on ![Slack](slack.synereo.com).
+
+1. Posting in a group: $5 usd in AMP per week, per group. 
+* Non-spammy. 
+* Minimum Three per week. 
+* Sharing Content, but also engaging in relevant conversation.
+
+2. Starting a conversation with a group leaders: 10 usd in AMP per group. (1 time per group) 
+* Mailing Admins. 
+* They Mail back. 
+* Interested in Synereo, okay with us posting content and sharing in their group.  
+
+3. Getting group leaders to present to us: $40usd in AMP. (1 time per group). 
+* They can present on either on Slack, or via google hangouts. 
+* Talk about their group and org on our site or hangout. 
+* In that meeting we can figure out how they can help us and vice versa.
+
+
 To apply, please send an email to hello@synereo.com.
 
 Priority will be given to people who are already active participants in the hangouts/community and those who attach a sample of their writing - a post on a forum, a blog post, or anything showing that you can communicate with others in writing in an open and friendly way. 
 
-The Synereo Team
+Want to integrate further into our community and see what we're up to? Check out our  ![Taiga](https://tree.taiga.io/project/synereo-synpm/wiki/home) and join us on ![Slack](slack.synereo.com).
 
-Be Part of the Solution
-
-Join us on Slack 
-
-Join the project team Taiga
-
-## If you like what we're creating, send some bitcoin to 18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw
-
-![18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw](http://i.imgur.com/jlHprSv.jpg)
 
