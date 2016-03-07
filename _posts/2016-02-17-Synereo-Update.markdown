@@ -132,9 +132,7 @@ What we have now is a complete description of how to have replicated specialK ma
 
 So what we now have is an end to end spec of a correct, fault tolerant architecture that is sharded, i.e. scales and allows us to control the behavior using behavioral types. Economic, security and game theories have been taken into account and all fit within this framework. Everything can be worked out now.
 
-That's all for this week!
-
-### See you on next week's [Hangout](https://plus.google.com/u/1/+Synereo/posts)
+That's all for this week! See you on next week's [Hangout](https://plus.google.com/u/1/+Synereo/posts).
 
 
 <BR>
