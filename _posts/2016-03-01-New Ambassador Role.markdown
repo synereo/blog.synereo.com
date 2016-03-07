@@ -2,7 +2,6 @@
 layout: post
 status: publish
 published: true
-author: lapin7
 title: New Role and Bounty: Ambassador
 date: '2016-03-01 08:00:00 +0200'
 ---
