@@ -3,7 +3,7 @@ layout: post
 status: publish
 published: true
 title: Synereo Weekly Update
-date: '2016-03-02 08:00:00 +0200'
+date: '2016-03-07 08:00:00 +0200'
 ---
 
 
@@ -11,6 +11,7 @@ date: '2016-03-02 08:00:00 +0200'
 
 ## Update Summary
 
+<BR>
 **Synereo and Ethereum now have an end to end spec of a correct, fault tolerant architecture that is sharded, i.e. scales** and allows to constrain the behavior of nodes for the purpose of reaching consensus about the next block to be added to the new Proof-of-Stake based blockchain. Economic-, security- and game-theories have been taken into account and all fit within the framework; everything can be worked out now! 
 
 Ed gives a demo of LivelyGig. Gary is working on weWOWwe now. HJ shares comments about onboarding. Shared infrastructure is in the works, and being financially supported. The discussion ends with a long discussion about governance and freedom.
@@ -31,11 +32,11 @@ Ed gives a demo of LivelyGig. Gary is working on weWOWwe now. HJ shares comments
 
 ### [Watch the full Hangout](https://youtu.be/0h4Yd61_Rio)
 
-[0:20 --- Quick updates](https://youtu.be/0h4Yd61_Rio?t=0m20s)<br>
+### [0:20 --- Quick updates](https://youtu.be/0h4Yd61_Rio?t=0m20s)<br>
 
 Ian discusses several conference call solutions for the 15-minute standup. He's going to implement a Jitsi server on Google. Dor said that the $100,000 grant for cloud services on IBM or Google could be used for that. AWS is solely used for hosting Synereo nodes.
 
-[06:30 --- Demo of Livelygig](https://youtu.be/0h4Yd61_Rio?t=6m30s)<br>
+### [06:30 --- Demo of Livelygig](https://youtu.be/0h4Yd61_Rio?t=6m30s)<br>
 
 In the doc [Splicious Session Traffic Cam](https://docs.google.com/document/d/1IZZUgHkmVZb9EHsVKY3TjUXj5_5AP34_O8Ff4T67Uqs/edit#heading=h.d0y446xtqltk), how posts are handled on the server is explained("evalSubscribeRequest" and "evalSubscribeResponse"). 
 
@@ -53,41 +54,44 @@ Ed is working on the conceptual work-around contracts and their various stages: 
 
 <br>![contracts](http://i.imgur.com/K03EsXM.jpg)<br>
 
-[10:15 --- Escrow part of the puzzle](https://youtu.be/0h4Yd61_Rio?t=10m15s)<br>
+### [10:15 --- Escrow part of the puzzle](https://youtu.be/0h4Yd61_Rio?t=10m15s)<br>
 
 Ed asks how escrow can be formed with a currently existing bitcoin-wallet, so that private and public keys of a bitcoin don't have to be in a browser session. To be discussed In the next Hangout.
 
-[12:59 --- Gary Stephenson is working on weWOWe](https://youtu.be/0h4Yd61_Rio?t=12m59s)<br>
+### [12:59 --- Gary Stephenson is working on weWOWwe](https://youtu.be/0h4Yd61_Rio?t=12m59s)<br>
 
 Gary has now all the pieces together to stand up a node. All sessions with Greg are recorded and explain how to do this. Gary is going to help out with the work involved with the [weWOWwe](http://football.wewowwe.com/) development. Jitsi is used for hangouts, it has no problems like Skype has in China.
 
-[14:40 --- One click deployment](https://youtu.be/0h4Yd61_Rio?t=14m40s)<br>
+### [14:40 --- One click deployment](https://youtu.be/0h4Yd61_Rio?t=14m40s)<br>
 
-Nirvanic converted the AWS-ami into AWS-vdi. Probably this VDI can also be converted into a Docker image as well. However all those implementations are still based on the older node, until Dory (@nodes) get's all the dependencies of the different components upgraded to the newest versions. The hope is that in the coming year the amount of components are reduced, and that Synereo will have developed its own versions of those components. That would give more control over the whole platform.
+Nirvanic converted the AWS-ami into AWS-vdi. Probably this VDI can also be converted into a Docker image as well. However all those implementations are still based on the older node, until Dory (@nodes) gets all the dependencies of the different components upgraded to the newest versions. The hope is that in the coming year the amount of components are reduced, and that Synereo will have developed its own versions of those components. That would give more control over the whole platform.
 
-[17:00 --- Agreement with Livelygig](https://youtu.be/0h4Yd61_Rio?t=17m00s)<br>
+### [17:00 --- Agreement with Livelygig](https://youtu.be/0h4Yd61_Rio?t=17m00s)<br>
 
 Synereo will financially support the work of Nirvanic on the shared infrastructure. The idea is that new decentralised services can use that shared infrastructure as a kind of template. Eric and Dina will be the product managers of developing the UI modules and they will have a DEV-team that's going to support them. They will use some basic ideas from Synereo's currently available UI. The plan is to the release the product in sync with the upcoming crowdsale.
 
-[20:25 --- Graphic Designer Noy](https://youtu.be/0h4Yd61_Rio?t=20m25s)<br>
+### [20:25 --- Graphic Designer Noy](https://youtu.be/0h4Yd61_Rio?t=20m25s)<br>
 
 Noy has done already stunning design work for Synereo - and she's at it again!
 
-[21:20 --- Governance issues and design](https://youtu.be/0h4Yd61_Rio?t=21m20s)<br>
+### [21:20 --- Governance issues and design](https://youtu.be/0h4Yd61_Rio?t=21m20s)<br>
 
 Jed and HJ will go over this in the next hangout. Currently Taiga is becoming a kind of project management tool where tasks are registered and assigned to persons. There are thoughts about how people can help and influence the decisions on how Synereo will take shape.
 
-Dor talks about the idea of how a company that drives a community can operate in the most distributed and decentralised way, and how investors that support these ideas can participate in a crowdsale as in BTTF. Most investors invest the minimal amount of $1000.00, only a few invest 10 fold or 100 fold that amount. So maybe it's necessary to set a maximum cap that can be invested by one entity, like 1% or 3%, in order to avoid that one entity get's a share in the company of 30%. Because that goes along with privileges: a vote, or a say about how Synereo is developing. Synereo wants to keep its current vision up and to practice how distributed decentralised governance is actually done. Maybe a parliament construction. Examples are [Liquid democracy](https://liqd.net/). Slowly Synereo wants to involve the community more and more into the decisions that have to be made.
+Dor talks about the idea of how a company that drives a community can operate in the most distributed and decentralised way, and how investors that support these ideas can participate in a crowdsale as in BTTF. Most investors invest the minimal amount of $1000.00, only a few invest 10 fold or 100 fold that amount. So maybe it's necessary to set a maximum cap that can be invested by one entity, like 1% or 3%, in order to avoid that one entity gets a share in the company of 30%. Because that goes along with privileges: a vote, or a say about how Synereo is developing. Synereo wants to keep its current vision up and to practice how distributed decentralised governance is actually done. Maybe a parliament construction. Examples are [Liquid democracy](https://liqd.net/). Slowly Synereo wants to involve the community more and more into the decisions that have to be made.
 
-[36:25 --- Is HJ boarding on?](https://youtu.be/0h4Yd61_Rio?t=36m25s)<br>
+### [36:25 --- Is HJ boarding on?](https://youtu.be/0h4Yd61_Rio?t=36m25s)<br>
 
 HJ wants to get more involved in Synereo, as the community manager. Congrats and Welcome HJ!
 
-[41:00 --- Discussion about governance and freedom](https://youtu.be/0h4Yd61_Rio?t=41m00s)<br>
+### [41:00 --- Discussion of governance and freedom versus order](https://youtu.be/0h4Yd61_Rio?t=41m00s)<br>
 
-Eric sees some similarities between designing the crowdsale on BTTF, i.e. getting FIAT-investors into Synereo Ltd., and getting users into the Synereo network with AMP's and REO. Dina suggested to lock some AMPs when new users join Synereo that they can use only in the  Attention Economy. Next week some visual designs will be shown, that work out these ideas. See also the discussion on [Any other libertarians here?](https://discuss.synereo.com/t/any-other-libertarians-here/66377). This is a matter of trust and control that humanity has always faced. Taking on responsibility is not the same as relinquishing freedom. *Capital equals influence* is a path that's now well explored and it leads to catastrophic outcomes. So we need to balance that influence with influence of the community. Natural emerging leadership is also kind of dangerous. See how Occupy turned into awful situations, because there was no leadership.
+Eric sees some similarities between designing the crowdsale on BTTF, i.e. getting FIAT-investors into Synereo Ltd., and getting users into the Synereo network with AMP's and REO. Dina suggested to lock some AMPs when new users join Synereo that they can use only in the  Attention Economy. Next week some visual designs will be shown, that work out these ideas. See also the discussion on [Any other libertarians here?](https://discuss.synereo.com/t/any-other-libertarians-here/66377). This is a matter of trust and control that humanity has always faced. Taking on responsibility is not the same as relinquishing freedom. *Capital equals influence* is a path that's now well explored and it leads to catastrophic outcomes when it's unbalanced. 
 
-[57:00 --- Casper progress](https://youtu.be/0h4Yd61_Rio?t=56m20s)<br>
+Eric brings up [Dor's post on the forums](https://discuss.synereo.com/t/any-other-libertarians-here/66377/2) about order versus freedom as the social order scales up.
+
+
+### [57:00 --- Casper progress](https://youtu.be/0h4Yd61_Rio?t=56m20s)<br>
 
 How to recognise the means of synchronisation in the π-calculus? - it's all about matching inputs to outputs. That's the essence of the π-calculus model that could be somehow related to the consensus model of Casper. The first step is to make the π-calculus so that it allows for reflection. That means that there's a relationship between names and processes. 
 
@@ -124,19 +128,16 @@ What we have now is a complete description of how to have replicated specialK ma
 
 <br>![metering](http://i.imgur.com/DM6m0Vx.jpg)<br>
 
-[1:10:55 --- Casper is defined!](https://youtu.be/0h4Yd61_Rio?t=1h10m55s)<br>
+### [1:10:55 --- Casper is defined!](https://youtu.be/0h4Yd61_Rio?t=1h10m55s)<br>
 
-So what we now have is an end to end spec of a correct fault tolerant architecture that is sharded, i.e. scales and allows us to control the behavior using behavioral types. Economic, security and game theories have been taken into account and all fit within this framework. Everything can be worked out now.
+So what we now have is an end to end spec of a correct, fault tolerant architecture that is sharded, i.e. scales and allows us to control the behavior using behavioral types. Economic, security and game theories have been taken into account and all fit within this framework. Everything can be worked out now.
 
 ##That's all for this week!
 
 ## See you on next week's [Hangout](https://plus.google.com/u/1/+Synereo/posts)
 
-##If you like what we're creating, show your support by sending some bitcoin to
 
-<br>![18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw](http://i.imgur.com/jlHprSv.jpg)<br>
-
-18c1en55Cs2jBgBT2LTAiK9M81vMUmXmxw
-
+<BR>
+**Want to see what we're up to or integrate further into our community? Check out our  [Taiga](https://tree.taiga.io/project/synereo-synpm/wiki/home) and join us on [Slack](http://slack.synereo.com).**
 
 
