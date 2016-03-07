@@ -1,13 +1,11 @@
 ---
-title: Hangout 20160217
+title: Synereo Weekly Update
 layout: post
-author: lapin7
 permalink: /hangout-20160217.md/
 source-id: 1sAC3kedLHQ7uleLBR11UuMltONVmsNyYYbwynv5MPqI
 published: true
----
-#Synereo Weekly Update
 date: '2016-02-17 08:00:00 +0200'
+---
 
 <br>![image](http://i.imgur.com/sUVCz5W.jpg)<br>
 
