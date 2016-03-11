@@ -64,7 +64,7 @@ Gary has now all the pieces together to stand up a node. All sessions with Greg 
 
 ### [14:40 --- One click deployment](https://youtu.be/0h4Yd61_Rio?t=14m40s)<br>
 
-Nirvanic converted the AWS-ami into AWS-vdi. Probably this VDI can also be converted into a Docker image as well. However all those implementations are still based on the older node, until Dory (@nodes) gets all the dependencies of the different components upgraded to the newest versions. The hope is that in the coming year the amount of components are reduced, and that Synereo will have developed its own versions of those components. That would give more control over the whole platform.
+LivelyGig converted the AWS-ami into AWS-vdi. Probably this VDI can also be converted into a Docker image as well. However all those implementations are still based on the older node, until Dory (@nodes) gets all the dependencies of the different components upgraded to the newest versions. The hope is that in the coming year the amount of components are reduced, and that Synereo will have developed its own versions of those components. That would give more control over the whole platform.
 
 ### [17:00 --- Agreement with Livelygig](https://youtu.be/0h4Yd61_Rio?t=17m00s)<br>
 
