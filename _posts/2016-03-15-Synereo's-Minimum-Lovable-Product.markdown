@@ -13,7 +13,7 @@ Tightening our belts and cutting corners wherever possible, we made it through, 
 <BR>
 
 ![Synereo Prototype](http://i.imgur.com/iYQxdAE.jpg)
--> [*View full-screen*](http://i.imgur.com/iYQxdAE.jpg) <-
+<h5 style="text-align: center;" markdown="1">[*View full-screen*](http://i.imgur.com/iYQxdAE.jpg)</h5>
 <BR>
 
 Users will be able to post messages and pictures, like and share, post comments, create and assign tags, **and [Amplify](http://blog.synereo.com/2015/03/27/how-amps-work/) content** -- among other things we’ll leave to you to discover.
