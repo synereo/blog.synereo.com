@@ -10,13 +10,13 @@ It’s been close to a year since our original crowdsale, and more than a year a
 
 Tightening our belts and cutting corners wherever possible, we made it through, and are proud to present a first glimpse into the fully decentralized and distributed social networking application we’re going to be releasing very soon.<BR>
 
-![Synereo Prototype](http://i.imgur.com/iYQxdAE.jpg)
+![[Synereo Prototype](http://i.imgur.com/iYQxdAE.jpg)](http://i.imgur.com/iYQxdAE.jpg)
 
 Users will be able to post messages and pictures, like and share, post comments, create and assign tags, **and [Amplify](http://blog.synereo.com/2015/03/27/how-amps-work/) content** -- among other things we’ll leave to you to discover.
 
 All of the functionality on the network is handled by the user-powered “decentralized cloud”, based on our SpecialK tech stack and social contracting layer, hosted, routed and verified by real people hosting Synereo nodes on their machines and compensated with AMPs for their contribution to the network.
 
-![AMP Compensation](http://i.imgur.com/Uxznfj8.jpg){: style="width: 10px; margin: 0 auto; display: block;" }
+![AMP Compensation](http://i.imgur.com/Uxznfj8.jpg)
 
 **Here’s the word from our Product/UX team:**
 
@@ -24,7 +24,7 @@ This initial prototype for a basic Synereo social networking experience leads wi
 
 Check out this deck for an overview of our design thinking for this first prototype, how to move around the clickthrough, and what’s coming next.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/8BTcq4ZgFyUMGc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Elokane/minimum-lovable-product-explorers-deck" title="Minimum Lovable Product Explorer&#x27;s Deck" target="_blank">Minimum Lovable Product Explorer&#x27;s Deck</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/Elokane">Dor Konforty</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8BTcq4ZgFyUMGc" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 We're excited to be able to share further in future prototypes where we will be looking for user research feedback on more specific user interactions. For now, enjoy!
  
