@@ -6,7 +6,7 @@ title: Synereo's Minimum Lovable Product
 date: '2016-03-15 00:00:00 +0200'
 ---
 
-<h3>I</h3>t’s been close to a year since our original crowdsale, and more than a year and a half since we first envisioned Synereo and started laying down the foundations for its creation. While the contributions during the sale were generous and numerous, they summed up to a number that’s at the low end of what’s required for a project at this scale. 
+###I<BR>t’s been close to a year since our original crowdsale, and more than a year and a half since we first envisioned Synereo and started laying down the foundations for its creation. While the contributions during the sale were generous and numerous, they summed up to a number that’s at the low end of what’s required for a project at this scale. 
 
 Tightening our belts and cutting corners wherever possible, we made it through, and are proud to present a first glimpse into the fully decentralized and distributed social networking application we’re about to release.
 
