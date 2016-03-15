@@ -11,7 +11,7 @@ It’s been close to a year since our original crowdsale, and more than a year a
 Tightening our belts and cutting corners wherever possible, we made it through, and are proud to present a first glimpse into the fully decentralized and distributed social networking application we’re going to be releasing very soon.<BR>
 
 ![Synereo Prototype](http://i.imgur.com/iYQxdAE.jpg)
-[*View full-screen*](http://i.imgur.com/iYQxdAE.jpg)
+[-> *View full-screen* <-](http://i.imgur.com/iYQxdAE.jpg)
 
 Users will be able to post messages and pictures, like and share, post comments, create and assign tags, **and [Amplify](http://blog.synereo.com/2015/03/27/how-amps-work/) content** -- among other things we’ll leave to you to discover.
 
