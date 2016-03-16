@@ -11,7 +11,6 @@ It’s been close to a year since our original crowdsale, and more than a year a
 Tightening our belts and cutting corners wherever possible, we made it through, and are proud to present a first glimpse into the fully decentralized and distributed social networking application we’re about to release.
 
 <h2 style="text-align: center;" markdown="1">[**MLP Prototype**](https://live.uxpin.com/6bc5bca1d59d40e623e34e9aa595db533f23d867#/pages/46353355/nosidebar)</h2><BR>
-
 <BR>
 
 ![Synereo Prototype](http://i.imgur.com/iYQxdAE.jpg)
