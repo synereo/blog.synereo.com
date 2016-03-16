@@ -41,7 +41,7 @@ Check out this deck for an overview of our design thinking for this first protot
 We're excited to be able to share further in future prototypes where we will be looking for user research feedback on more specific user interactions. For now, enjoy!<BR>
 
  
-<h2 style="text-align: center;" markdown="1">[**MLP Prototype**](https://live.uxpin.com/6bc5bca1d59d40e623e34e9aa595db533f23d867#/pages/46353355/nosidebar)</h3><BR>
+<h2 style="text-align: center;" markdown="1">[**MLP Prototype**](https://live.uxpin.com/6bc5bca1d59d40e623e34e9aa595db533f23d867#/pages/46353355/nosidebar)</h2><BR>
 
  
 Click around, scroll up and down, and feel free to add comments using UXPin's commenting features available on the main navigation accessible from the lower left hand corner!
