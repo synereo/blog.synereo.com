@@ -43,9 +43,13 @@ Check out this deck for an overview of our design thinking for this first protot
 
 We're excited to be able to share further in future prototypes where we will be looking for user research feedback on more specific user interactions. For now, enjoy!<BR>
 
-Click around, scroll up and down, and feel free to add comments using UXPin's commenting features available on the main navigation accessible from the lower left hand corner! 
+Click around, scroll up and down, and feel free to add comments using UXPin's commenting features available on the main navigation accessible from the lower left hand corner! <BR>
 
-*You can also come talk to us directly on the #design channel of our [Slack](slack.synereo.com).*
+
+
+*You can also come talk to us directly on the #design channel of our [Slack](slack.synereo.com).*<BR>
+
+
  
 Thank you for your attention with this evolving experience!
 
