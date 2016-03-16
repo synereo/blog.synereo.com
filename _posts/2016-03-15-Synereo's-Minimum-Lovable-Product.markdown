@@ -49,7 +49,7 @@ Click around, scroll up and down, and feel free to add comments using UXPin's co
 
 
 
-*You can also come talk to us directly on the #design channel of our [Slack](slack.synereo.com).*<BR>
+*You can also come talk to us directly on the #design channel of our [Slack](http://slack.synereo.com).*<BR>
 
 
  
