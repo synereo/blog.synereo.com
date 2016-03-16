@@ -19,7 +19,7 @@ Tightening our belts and cutting corners wherever possible, we made it through, 
 <h5 style="text-align: center;" markdown="1">[*View full-screen*](http://i.imgur.com/iYQxdAE.jpg)</h5>
 <BR>
 
-Users will be able to post messages and pictures, like and share, post comments, create and assign tags, **and [Amplify](http://blog.synereo.com/2015/03/27/how-amps-work/) content** -- among other things we’ll leave to you to discover.
+Upon release, users will be able to post messages and pictures, like and share, post comments, create and assign tags, **and [Amplify](http://blog.synereo.com/2015/03/27/how-amps-work/) content** -- among other things we’ll leave to you to discover.
 
 All of the functionality on the network is handled by the user-powered “decentralized cloud”, based on our SpecialK tech stack and social contracting layer, hosted, routed and verified by real people hosting Synereo nodes on their machines and compensated with AMPs for their contribution to the network.<BR>
 
