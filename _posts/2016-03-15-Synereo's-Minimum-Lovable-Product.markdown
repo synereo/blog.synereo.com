@@ -12,7 +12,6 @@ Tightening our belts and cutting corners wherever possible, we made it through, 
 
 <h2 style="text-align: center;" markdown="1">[**MLP Prototype**](https://live.uxpin.com/6bc5bca1d59d40e623e34e9aa595db533f23d867#/pages/46353355/nosidebar)</h2><BR>
 <BR>
-
 ![Synereo Prototype](http://i.imgur.com/iYQxdAE.jpg)
 <h5 style="text-align: center;" markdown="1">[*View full-screen*](http://i.imgur.com/iYQxdAE.jpg)</h5>
 <BR>
