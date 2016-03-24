@@ -9,7 +9,7 @@ date: '2016-03-24 08:00:00 +0200'
 <br>![image](http://i.imgur.com/xPHxILq.png)<br> 
 
 ## Update Summary
-This week, UI design ideas are discussed in depth, including concepts related to gamification.  Special focus is put on the search function in Synereo. How post relevance is sorted in the attention economy is explained, and how users can improve that function with additional inputs.  The new Community Manager, HJ, is announced.
+This week, UI design ideas are discussed in depth, including concepts related to gamification.  Special focus is put on the search function in Synereo. How post relevance is sorted in the attention economy is explained, and how users can improve that function with additional inputs.  Our new Community Manager, Hendrik Jan Hilbolling, is announced and introduced.
 
 ## Contents in Brief
 [05:00 --- Gamified design ideas](https://youtu.be/lhSj1hZ8wLw?t=5m)<BR>
