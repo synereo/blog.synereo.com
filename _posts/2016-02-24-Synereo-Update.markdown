@@ -25,7 +25,7 @@ This week, UI design ideas are discussed in depth, including concepts related to
 
 ## [Watch the full Hangout](https://www.youtube.com/watch?v=lhSj1hZ8wLw)
 
-## [Detailed notes]
+## Detailed notes
 
 ### [05:00 --- Gamified design ideas](https://youtu.be/lhSj1hZ8wLw?t=5m) <br>
 Christian gives a rundown of his perspective of one possible big target audience, and some gamified design ideas.  He gives a presentation regarding social problems of today, and an interesting mix of current ideas, culture, and technology.  He gives examples of Apps that could be monetized by entrepreneurs.
