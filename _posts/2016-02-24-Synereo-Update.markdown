@@ -66,7 +66,7 @@ Dor welcomed Bhokor to the community, who has been working on Spanish translatio
 Hendrik (HJ) takes on the role of Community Manager.
 
 
-That's all for this week!!
+That's all for this week!
 
 
 
