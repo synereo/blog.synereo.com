@@ -6,7 +6,7 @@ title: Synereo Weekly Update
 date: '2016-04-02 08:00:00 +0200'
 ---
 
-### March 2, 2016 Synereo Community Hangout
+### March 2, 2016 Synereo Community Hangout <br>
 
 **This week we saw a demonstration of messages being sent between two different applications running on the Synereo platform**. We now have three open source applications that developers can use as templates from which to bootstrap their own decentralized autonomous apps: LivelyGig, Splicious, and the Synereo Social Networking application.
 
