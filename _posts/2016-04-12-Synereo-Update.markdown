@@ -44,7 +44,7 @@ Ed Eykholt of [LivelyGig](http://livelygig.com), the decentralized marketplace f
 ### [13:50 --- Dor's Updates](https://youtu.be/2AuXvWjy6T8?t=13m50s)
  A number of Synereo community members have stepped up lately and are assuming more formal roles. John Malthus has been very active in posting about Synereo in Google Plus and other social media. Joeri has recently become involved in marketing efforts as well.
 
-The famous Israeli tech investor, [Gigi Levy](https://en.wikipedia.org/wiki/Gigi_Levy-Weiss) has endorsed Synereo by purchasing $20,000 USD worth of AMP and has pledged another $10,000 for the coming crowd funding campaign that will offer both AMP and equity shares in Synereo Ltd. Dor is also getting advice and mentoring from startup whiz, [Roy Oron](https://www.linkedin.com/in/royoron).
+The famous Israeli tech investor, [Gigi Levy](https://en.wikipedia.org/wiki/Gigi_Levy-Weiss) has endorsed Synereo by purchasing $20,000 USD worth of AMP and has pledged another $10,000 for the coming crowd funding campaign that will offer both AMP and equity shares in Synereo Ltd. Gigi has also been advising Dor and Synereo for a few months now. Dor is also getting advice and mentoring from startup whiz, [Roy Oron](https://www.linkedin.com/in/royoron).
 
 ### [23:01 --- Funding Model & Transaction Fees](https://youtu.be/OMYjzSztFs0?t=23m01s)
 Dor is committed to not monetizing the Synereo social network or the platform on which it runs. These are open source and will run in a decentralized fashion. Any transaction fees collected will only be used to maintain the network. The company, Synereo Ltd., is designing additional for-profit services and applications to integrate on top of the open platform.
