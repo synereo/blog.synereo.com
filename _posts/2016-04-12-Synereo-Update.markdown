@@ -10,6 +10,8 @@ date: '2016-04-02 08:00:00 +0200'
 
 This week, Greg joins the Hangout while in flight from Boston to Seattle. He is returning from a meeting at MIT with researchers and academics working to improve the scalability and security of decentralized computing.
 
+**Ed demonstratse a live version of LivelyGig**; Dor clarifies the future structure of the Synereo for-profit and non-profit foundations; Dor announces an investment from Israel's most connected investor, Gigi Levy.
+
 ![image](http://i.imgur.com/8OItD0o.png)<br>
 <h5 style="text-align: center;" markdown="1">*Greg Meredith joins the Hangout while in-flight from Boston*</h5>
 <BR>
