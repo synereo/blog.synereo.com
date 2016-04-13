@@ -69,3 +69,6 @@ Other open-source projects working on decentralized applications have started co
 IPFS Starlog (a series of communications about the IPFS Project) [http://ipfs.io/blog/](http://ipfs.io/blog/)<br>
 
 ### That's all for this week!
+
+
+**Get involved in the Synereo community, there are bounties for tasks in our ![Slack channel](http://slack.synereo.com/)!**
