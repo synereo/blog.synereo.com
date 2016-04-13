@@ -71,4 +71,4 @@ IPFS Starlog (a series of communications about the IPFS Project) [http://ipfs.io
 ### That's all for this week!
 
 
-**Get involved in the Synereo community, there are bounties for tasks in our ![Slack channel](http://slack.synereo.com/)!**
+**Get involved in the Synereo community, there are bounties for tasks in our [Slack channel](http://slack.synereo.com/)!**
