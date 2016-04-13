@@ -58,3 +58,8 @@ Greg gives a shout out to the [League of Crafty Guitarists](http://thelcg.net/),
 
 [^1]:Pneumatic Tube mail system at Wanamaker Department Store, 1880, Philadelphia, PA, USA.<br>
 [^2]:Here is a link to a talk given at a previous COALA event by 2016 US presidential candidate Lawrence Lessig, [Thinking Through Law and Code, Again - Lawrence Lessig - COALA's Blockchain Workshops - Sydney 2015](https://youtu.be/pcYJTIbhYF0)
+
+### That's all for this week!
+
+
+**Get involved in the Synereo community, there are bounties for tasks in our ![Slack channel](http://slack.synereo.com/)!**
