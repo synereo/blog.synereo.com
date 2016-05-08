@@ -10,7 +10,7 @@ date: '2016-05-08 08:00:00 +0200'
 
 This week, team Synereo talks about the preparation for the COALA Blockchain Workshop in NYC, and the satelite reputation systems workshop held. 
 
-**DevOps Team Welcomes improvements to GLoSEval ; Spray dependancy is updated; work continues to convert older dependancies running on VirtualBox into AMI and Docker images, and with this we welcome anyone else to join in DevOps merryment!**
+**Greg discusses improvements to GLoSEval as well as updates to old dependencies, allowing our community-led DevOps team to convert older dependancies running on VirtualBox into AMI and Docker images. and with this we welcome anyone else to join in DevOps merryment!**
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dog_food_aisle.JPG/320px-Dog_food_aisle.JPG)<br>
 
@@ -65,11 +65,20 @@ Greg says Synereo will start using LivelyGig for its HR needs.
 Ed discusses how agents on the network can be protected when interacting and transacting using LivelyGig as an escrow.
 Escrow is possible without letting the escrow agent know the details of the contract.
 
-### [25:18 --- Dispute handling in LivelyGig.](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1518)
+### [25:18 --- Dispute handling in LivelyGig](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1518)
 
 Ed presets the notion of a marketplace for moderators.
 
-### [25:18 --- Dispute handling in LivelyGig.](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1518)
+### [32:16 --- Casper (next-gen Proof of Stake Blockchain) research group updates](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1936)
+
+Greg has given a presentation to the group about compositional consensus; how metering and monitoring force the choice of a particular domain calculus representation. 
+
+### [37:49 --- Translating and Internationalizing Synereo Content](https://youtu.be/s3Qaue8rHuM?t=2263)
+
+HJ discusses our efforts in the field. If you want to help the translation efforts, reach him on our [Slack](http://slack.synereo.com/); @lapin7.
+
+### [41:05 --- Christian Discusses Our Twitch Efforts](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=2464
+)
 
 ### That's all for this week!
 Today's post was Scribed by **Jonny Dubowsky**. Thanks, Jonny!
