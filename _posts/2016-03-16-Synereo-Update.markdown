@@ -71,7 +71,7 @@ Escrow is possible without letting the escrow agent know the details of the cont
 
 ### [25:18 --- Dispute Handling in LivelyGig](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1518)
 
-Ed presets the notion of a marketplace for moderators.
+Ed presents the notion of a marketplace for moderators.
 
 ### [32:16 --- Casper (Next-Gen Proof of Stake Blockchain) Research Group Updates](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1936)
 
