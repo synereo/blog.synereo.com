@@ -8,9 +8,9 @@ date: '2016-05-08 08:00:00 +0200'
 
 ### March 16, 2016 Synereo Community Hangout
 
-This week, team Synereo talks about the preparation for the COALA Blockchain Workshop in NYC, and the satelite reputation systems workshop held. 
+This week, team Synereo talks about the preparation for the COALA Blockchain Workshop in NYC and the satelite reputation systems workshop led by Synereo following it. 
 
-**Greg discusses improvements to GLoSEval as well as updates to old dependencies, allowing our community-led DevOps team to convert older dependancies running on VirtualBox into AMI and Docker images. and with this we welcome anyone else to join in DevOps merryment!**
+Greg discusses improvements to GLoSEval as well as updates to old dependencies, allowing our community-led DevOps team to convert older dependancies running on VirtualBox into AMI and Docker images. With this, we welcome anyone to join in on DevOps merryment!
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dog_food_aisle.JPG/320px-Dog_food_aisle.JPG)<br>
 
@@ -18,17 +18,21 @@ This week, team Synereo talks about the preparation for the COALA Blockchain Wor
 
 Ed Eykholt of [LivelyGig](http://livelygig.com), the decentralized marketplace for freelancers, introduces the philosophy behind "Dogfooding", as Synereo uses our own products for team communications and beyond.
 
+Finally, Greg discusses his recent presentation to the Casper research group, taking a step further towards the creation of our new, scalable Proof of Stake blockchain.
+
 ## Contents in Brief
 
-[00:00 --- COALA NYC Blockchain Workshops coming soon](https://youtu.be/s3Qaue8rHuM)<br>
 [02:31 --- Reputation of Reputations Satelite Post-COALA Workshop](https://youtu.be/s3Qaue8rHuM?t=2m31s)<br>
 [05:21 --- Internet Justice is Swift and Merciless](https://youtu.be/s3Qaue8rHuM?t=5m21s)<br>
 [05:56 --- Reputation of Devices & Smart Contracts](https://youtu.be/s3Qaue8rHuM?t=5m56s)<br>
 [08:37 --- Improvements to GLoSEval and Cores](https://youtu.be/s3Qaue8rHuM?t=8m37s)<br>
-[10:17 --- Dogfooding Features](https://youtu.be/s3Qaue8rHuM?t=10m17s)<br>
-[12:13 ---Node Version Compatibility](https://youtu.be/s3Qaue8rHuM?t=12m13s)<br>
-[12:46 --- LivelyGig's Contract Mechanism](https://youtu.be/s3Qaue8rHuM?t=12m46s)<br>
+[10:17 --- Dogfooding: using Synereo for our own immediate needs](https://youtu.be/s3Qaue8rHuM?t=10m17s)<br>
 [14:52 --- Synereo should use LivelyGig for HR](https://youtu.be/s3Qaue8rHuM?t=14m52s)
+[16:06 --- Buyer and Seller Protection on LivelyGig](https://youtu.be/s3Qaue8rHuM?t=966)
+[25:18 --- Dispute handling in LivelyGig](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1518)
+[32:16 --- Casper (next-gen Proof of Stake Blockchain) research group updates](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1936)
+[37:49 --- Translating and Internationalizing Synereo Content](https://youtu.be/s3Qaue8rHuM?t=2263)
+[41:05 --- Christian Discusses Our Twitch Efforts](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=2464)
 
 ### [Watch the full Hangout](https://youtu.be/s3Qaue8rHuM?t=14m52s)
 
@@ -77,10 +81,9 @@ Greg has given a presentation to the group about compositional consensus; how me
 
 HJ discusses our efforts in the field. If you want to help the translation efforts, reach him on our [Slack](http://slack.synereo.com/); @lapin7.
 
-### [41:05 --- Christian Discusses Our Twitch Efforts](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=2464
-)
+### [41:05 --- Christian Discusses Our Twitch Efforts](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=2464)
 
 ### That's all for this week!
 Today's post was Scribed by **Jonny Dubowsky**. Thanks, Jonny!
 
-**Get involved in the Synereo community! Get AMP bounties for open tasks. See our [Slack channel](http://slack.synereo.com/) for details!**
+**Get involved in the Synereo community! Get AMP bounties for open tasks. See our [Slack channel](http://slack.synereo.com/) for details.**
