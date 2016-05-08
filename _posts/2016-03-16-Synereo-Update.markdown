@@ -34,7 +34,7 @@ Finally, Greg discusses his recent presentation to the Casper research group, ta
 [37:49 --- Translating and Internationalizing Synereo Content](https://youtu.be/s3Qaue8rHuM?t=2263)<br>
 [41:05 --- Christian Discusses Our Twitch Efforts](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=2464)<br>
 
-### [Watch the full Hangout](https://youtu.be/s3Qaue8rHuM?t=14m52s)
+### [Watch The Full Hangout](https://youtu.be/s3Qaue8rHuM?t=14m52s)
 
 Excitement builds leading up to COALA NYC Blockchain workshops which was held at NYU Stern School of Business, April 4-5. Videos from the panels will be available soon.
 
