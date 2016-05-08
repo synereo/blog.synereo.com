@@ -8,9 +8,9 @@ date: '2016-05-08 08:00:00 +0200'
 
 ### March 16, 2016 Synereo Community Hangout
 
-This week, team Synereo prepares for the upcoming COALA Blockchain Workshop in NYC. Greg is interested in hosting a satelite workshop for people interested in reputation systems. Reputation interfaces with business and regulations.
+This week, team Synereo talks about the preparation for the COALA Blockchain Workshop in NYC, and the satelite reputation systems workshop held. 
 
-**DevOps Team Welcomes improvements to GLoSEval ; Spray dependancy is updated; work continues to convert older dependancies running on VirtualBox, into AMI and Docker images, and with this we welcome anyone else to join in DevOps merryment!**
+**DevOps Team Welcomes improvements to GLoSEval ; Spray dependancy is updated; work continues to convert older dependancies running on VirtualBox into AMI and Docker images, and with this we welcome anyone else to join in DevOps merryment!**
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dog_food_aisle.JPG/320px-Dog_food_aisle.JPG)<br>
 
@@ -35,7 +35,7 @@ Ed Eykholt of [LivelyGig](http://livelygig.com), the decentralized marketplace f
 Excitement builds leading up to COALA NYC Blockchain workshops which will be held at NYU Stern School of Business April 4-5.
 
 ### [02:31 --- Reputation of Reputations Satelite Post-COALA Workshop](https://youtu.be/s3Qaue8rHuM?t=2m31s)<br>
-This will be a rare and powerful opportunity to further the conversations of the Blockchain workshops, with the focus on reputational systems and the framework considerations that will need to be considered.
+This was a rare and powerful opportunity to further the conversations of the Blockchain workshops, with the focus on reputational systems and the framework considerations that will need to be considered.
 
 ![image](http://i.imgur.com/B03KODr.jpg)<br>
 <h5 style="text-align: center;" markdown="1">*LivelyGig Screenshare [livelygig.com](http://livelygig.com)*</h5>
@@ -49,16 +49,29 @@ Machines of all shapes and sizes, devices big and small, will be imbibed with th
 ### [08:37 --- Improvements to GLoSEval and Cores](https://youtu.be/s3Qaue8rHuM?t=8m37s)<br>
 The GLoSEval Network evaluator for Generalized Language of Streams is one of the main tools within the Synereo Stack. Improvements are being made on a daily basis, as we work to better understand the full-cycle lifecycle of some of the more notable animals in the region.<br>
   
-### [10:17 --- Dogfooding Features](https://youtu.be/s3Qaue8rHuM?t=10m17s)<br>
+### [10:17 --- Dogfooding: using Synereo for our own immediate needs](https://youtu.be/s3Qaue8rHuM?t=10m17s)<br>
 
-### [12:13 ---Node Version Compatibility](https://youtu.be/s3Qaue8rHuM?t=12m13s)<br>
+Team communications, release management, node trust/reputation.
+Using LivelyGig's contract mechanisms to facilitate the work done on LivelyGig.
 
-### [12:46 --- LivelyGig's Contract Mechanism](https://youtu.be/s3Qaue8rHuM?t=12m46s)<br><br>
 ![image](http://i.imgur.com/LNEY4A1.jpg)<br>
 
 ### [14:52 --- Synereo should use LivelyGig for HR](https://youtu.be/s3Qaue8rHuM?t=14m52s)
 
+Greg says Synereo will start using LivelyGig for its HR needs.
+
+### [16:06 --- Buyer and Seller Protection on LivelyGig](https://youtu.be/s3Qaue8rHuM?t=966)
+
+Ed discusses how agents on the network can be protected when interacting and transacting using LivelyGig as an escrow.
+Escrow is possible without letting the escrow agent know the details of the contract.
+
+### [25:18 --- Dispute handling in LivelyGig.](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1518)
+
+Ed presets the notion of a marketplace for moderators.
+
+### [25:18 --- Dispute handling in LivelyGig.](https://www.youtube.com/watch?v=s3Qaue8rHuM&feature=youtu.be&t=1518)
+
 ### That's all for this week!
+Today's post was Scribed by **Jonny Dubowsky**. Thanks, Jonny!
 
-
-**Get involved in the Synereo community, there are bounties for tasks in our [Slack channel](http://slack.synereo.com/)!**
+**Get involved in the Synereo community! Get AMP bounties for open tasks. See our [Slack channel](http://slack.synereo.com/) for details!**
