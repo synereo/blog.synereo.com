@@ -9,7 +9,7 @@ date: '2016-03-23 08:00:00 +0200'
 
 ## Update Summary
 
-This week there were several improvements throughout the Synereo ecosystem. Big steps were made in the technical field. We were able to see how the UI is currently taking shape. Additional insight into the specifications for the BnkTotheFuture crowdsale was shared. Finally the community Governance systems were discussed.
+This week covers several improvements throughout the Synereo ecosystem. Greg discusses some Casper issues, and betting cycles, comparing betting on STAKE vs. on BLOCKS. We were able to see how the UI is currently taking shape. Additional insight into the specifications for the BnkTotheFuture crowdsale was shared. Finally, Community Leaders and their governance systems are discussed.
 
 ## Contents in Brief
 [03:00 ---Technical Dev - Greg](https://youtu.be/fsQc_8Bn2vo?t=3m1s)<BR>
