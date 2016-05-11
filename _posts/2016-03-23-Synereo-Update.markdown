@@ -42,7 +42,7 @@ Alan starts telling us about the testing process, explaining that is being worki
 Ryan and Greg remark the importance that Synereo will keep the privacy of the users and their data. It’s a very important point that should concern everyone and the Synereo team is working for the maximum success of protecting users. One of the tools to reach this is called a “social contract”, which is being developed. Eric and Alan explain their points.
 
 [30:54 ---BnkToTheFuture Campaign and Market Price](https://youtu.be/fsQc_8Bn2vo?t=30m54s) <br>
-<br>![image]()<br> 
+
 Dor comments on the recent interest in cryptocoins growing due to the price increase. The possibility that selling AMPs to be used as funding, increasing in that way the waves of interest in cryptocoins, is being studied. After that he talks about the BnkToTheFuture Campaign for those who invest having equity. The decisions have to be made. 
 Jonny joins the conversation explaining that he thinks that BnkToTheFuture could be used in conjunction with other methods of raising capital, he says that one of Synereo’s strengths is as a framework layer, on which many apps can leverage Synereo’s tools,  creating a whole ecosystem of DAPPS which can all benefit from Synereo’s fundraising goals.
 .
