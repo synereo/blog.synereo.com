@@ -5,7 +5,7 @@ title: Synereo Update 20160323
 date: '2016-03-23 08:00:00 +0200'
 ---
 
-<br>![image]()<br> 
+<br>![image](http://imgur.com/Zn4TQPG)<br> 
 
 ## Update Summary
 
@@ -25,11 +25,11 @@ This week there were several improvements throughout the Synereo ecosystem. Big 
 
 ###[03:00 ---Technical Dev](https://youtu.be/fsQc_8Bn2vo?t=3m1s) <br>
 Greg Begins with the Technical Devs. He talks about the DVI version (downloadable) and some concepts about building the HTTP bridge and supporting a new non 2Factor for user creation. Dor, Gary & Eric are forming a dev team to push new version of deployment. Anybody interested in joining the devs team there are AMPs available. In addition to the Casper front, the dev group is trying to get a HASH, and what the stake in the system will be next vs betting on BLOCKS. If those strategies could be combined. Using blocks the problem is that the confirmation times for transactions spends a lot of time. Another problem, you can’t potentially have validators that are built on stake groups that are inconsistent with betting on Blocks. Also, instead of betting in stake groups or Blocks, other options like properties that define group of blocks, etc (which logic has been written during the weekend) have been taking into account.
-<br>![image]()<br>
 
 
 [09:30 ---UI Updates](https://youtu.be/fsQc_8Bn2vo?t=9m30s) <br>
 Eric Talks about the connectivity between the UI and the server. Post creation is checked and the next steps are the contract creation and aggregation of the wallet. He shows an example of the responsive UI and some good properties of the built system.  Also tells us about some improving server processes, friend invitations and other issues. He speaks  about continuous working on marketing and market research like interviews and freelancers.
+<br>![image](http://imgur.com/h0CAazW)<br>
 
 [12:45 ---Agenda and Canvas - Dor](https://youtu.be/fsQc_8Bn2vo?t=12m45s) <br>
 Developers are needed, We have funds not only to pay with AMPs, but with FIAT$ as well. Then he talks about going to NY for some important agenda. They are going to meet with Filippi who could help us to create a decentralized model for Synereo. In the next point, Dor explains that we are studying possibilities for the distributed community government and that those experiments are made in the” Loomio”, which is a deliberative web application. Granting in this way, that decisions can be made by community members.
