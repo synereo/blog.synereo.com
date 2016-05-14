@@ -70,7 +70,7 @@ Dor asks for opinions for a way to fix the possibility of market manipulation. M
 The first approximation is that the community will have a voice without knowing the details of input right now while Synereo still isn’t deployed. This was discussed with all the community leaders and a creation of a separate Loomio for all the community members.  For now the structure would be the directors, community leaders, the designers and a general section for the public. Jonny tell his thoughts about how to re-engage the structure relative to the holders, but Greg remarks that today all the decisions are determined by the community (not the directors, nor investors.. ) and gives the example of the crowdsale and the commitments with BnkToTheFuture. Greg also reminds everyone that there are videos, guides, etc are being made; whatever is needed to make the process clear and ensure that the whole community feels the same way. Jonny also suggests a marketing campaign towards the next crowdsale. Jonny, Greg and Eric speak about resource management and the importance of letting people know what they are for, and how they are used. Greg says we are today in the position of wisely spending resources, and Jonny suggests organizing them to give them a quick and structured approach of what is needed. Alan suggests some kind of constitution and Greg, building from this, talks about a place where all the possible people could get together and reach consensus. 
 
 
-## That's all for this week.
+## That's all for this week!
 
 Today’s post was Scribed by Javi and Malthus John. Thank you!
 
