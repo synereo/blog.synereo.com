@@ -24,7 +24,8 @@ We were able to see how the UI is currently taking shape. Additional insight int
 [30:54 ---BnkToTheFuture Campaign and Market Price](https://youtu.be/fsQc_8Bn2vo?t=30m54s)<BR>
 [47:55 ---Governance](https://youtu.be/fsQc_8Bn2vo?t=47m55s)<BR>
 
-## [Watch the full Hangout](https://www.youtube.com/watch?v=fsQc_8Bn2vo)
+## [Watch the full Hangout](https://www.youtube.com/watch?v=fsQc_8Bn2vo) <br>
+
 
 ## Detailed notes
 
