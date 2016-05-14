@@ -28,7 +28,7 @@ We were able to see how the UI is currently taking shape. Additional insight int
 
 ## Detailed notes
 
-##[03:00 ---Technical Dev](https://youtu.be/fsQc_8Bn2vo?t=3m1s) <br>
+## [03:00 ---Technical Dev](https://youtu.be/fsQc_8Bn2vo?t=3m1s) <br>
 
 Greg Begins with the Technical Devs. He talks about the DVI version (downloadable) and some concepts about building the HTTP bridge and supporting a new non 2-Factor for user creation. Dor, Gary & Eric are forming a DevOps team to push new version of deployment. Anybody interested in joining the DevOps team there are AMPs available. In the Casper front, validators are not actually proposing and verifying blocks, but whole sets of blocks described by properties they communicate to each other during the consensus resolution phase of the protocol. When the validators have come to consensus, they have come to consensus on a maximally consistent subset of properties, or the largest set of blocks they can all agree is valid. Thus, transaction rates are dramatically increased, while confirmation times are dramatically lowered.
 
