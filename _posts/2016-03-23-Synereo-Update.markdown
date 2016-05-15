@@ -72,6 +72,6 @@ The first approximation is that the community will have a voice without knowing 
 
 ## That's all for this week!
 
-Today’s post was Scribed by Javi and Malthus John. Thank you!
+Today’s post was Scribed by **Javi and Malthus John**. Thank you!
 
 **Get involved in the Synereo community! Get AMP bounties for open tasks. See our [Slack channel](http://slack.synereo.com/) for details.**
